@@ -1,0 +1,9097 @@
+[
+  {
+    "feedback_id": "FB_0001",
+    "customer": "Tata Motors",
+    "product": "Suspension Unit",
+    "date": "2023-11-03",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0002",
+    "customer": "Hero MotoCorp",
+    "product": "Brake Assembly",
+    "date": "2023-03-24",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0003",
+    "customer": "JCB",
+    "product": "Suspension Unit",
+    "date": "2024-02-18",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0004",
+    "customer": "JCB",
+    "product": "Gear Box",
+    "date": "2024-12-03",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0005",
+    "customer": "BMW",
+    "product": "Wiring Harness",
+    "date": "2023-01-23",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0006",
+    "customer": "Denso",
+    "product": "Clutch Kit",
+    "date": "2024-06-15",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0007",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-08-10",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0008",
+    "customer": "Denso",
+    "product": "Brake Assembly",
+    "date": "2023-01-06",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0009",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2024-01-13",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0010",
+    "customer": "BMW",
+    "product": "Drive Shaft",
+    "date": "2024-06-02",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0011",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2023-06-02",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0012",
+    "customer": "Sona Comstar",
+    "product": "Drive Shaft",
+    "date": "2023-10-03",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0013",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2023-02-09",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0014",
+    "customer": "Mahindra",
+    "product": "Clutch Kit",
+    "date": "2023-05-27",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0015",
+    "customer": "JCB",
+    "product": "Gear Box",
+    "date": "2024-05-23",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0016",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2024-07-08",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0017",
+    "customer": "Mahindra",
+    "product": "Control Panel",
+    "date": "2024-12-27",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0018",
+    "customer": "Hero MotoCorp",
+    "product": "Gear Box",
+    "date": "2023-06-24",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0019",
+    "customer": "JCB",
+    "product": "Gear Box",
+    "date": "2024-02-01",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0020",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2023-04-13",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "packaging",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0021",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2023-04-14",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0022",
+    "customer": "Hero MotoCorp",
+    "product": "Hydraulic Pump",
+    "date": "2024-04-25",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0023",
+    "customer": "JCB",
+    "product": "Brake Assembly",
+    "date": "2023-02-05",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0024",
+    "customer": "BMW",
+    "product": "PCB Assembly",
+    "date": "2024-06-27",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0025",
+    "customer": "Tata Motors",
+    "product": "Gear Box",
+    "date": "2024-05-18",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "technical",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0026",
+    "customer": "Sona Comstar",
+    "product": "Clutch Kit",
+    "date": "2024-03-29",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0027",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2023-05-29",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0028",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2024-05-21",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0029",
+    "customer": "Maruti Suzuki",
+    "product": "Hydraulic Pump",
+    "date": "2023-05-27",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0030",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2024-12-12",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0031",
+    "customer": "JCB",
+    "product": "Clutch Kit",
+    "date": "2024-10-14",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0032",
+    "customer": "Denso",
+    "product": "Drive Shaft",
+    "date": "2024-01-30",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0033",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2024-01-23",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0034",
+    "customer": "Sona Comstar",
+    "product": "Clutch Kit",
+    "date": "2023-06-20",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0035",
+    "customer": "JCB",
+    "product": "Gear Box",
+    "date": "2023-05-03",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0036",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2024-05-29",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0037",
+    "customer": "Hero MotoCorp",
+    "product": "Clutch Kit",
+    "date": "2024-05-07",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0038",
+    "customer": "Tata Motors",
+    "product": "Control Panel",
+    "date": "2023-08-10",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0039",
+    "customer": "BMW",
+    "product": "Hydraulic Pump",
+    "date": "2024-01-17",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0040",
+    "customer": "Denso",
+    "product": "Drive Shaft",
+    "date": "2024-11-12",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0041",
+    "customer": "Mahindra",
+    "product": "Suspension Unit",
+    "date": "2024-01-13",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0042",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2023-05-01",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0043",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2023-03-14",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0044",
+    "customer": "Gestamp",
+    "product": "Brake Assembly",
+    "date": "2023-04-12",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0045",
+    "customer": "BMW",
+    "product": "Clutch Kit",
+    "date": "2024-07-12",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0046",
+    "customer": "Maruti Suzuki",
+    "product": "Brake Assembly",
+    "date": "2023-06-05",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0047",
+    "customer": "Bosch",
+    "product": "PCB Assembly",
+    "date": "2024-12-14",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0048",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2023-03-20",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0049",
+    "customer": "BMW",
+    "product": "Clutch Kit",
+    "date": "2024-09-25",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0050",
+    "customer": "Maruti Suzuki",
+    "product": "Clutch Kit",
+    "date": "2024-12-11",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 6,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0051",
+    "customer": "BMW",
+    "product": "Control Panel",
+    "date": "2023-05-26",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0052",
+    "customer": "Maruti Suzuki",
+    "product": "Sensor Array",
+    "date": "2024-06-17",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0053",
+    "customer": "Tata Motors",
+    "product": "Gear Box",
+    "date": "2024-08-02",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0054",
+    "customer": "Mahindra",
+    "product": "PCB Assembly",
+    "date": "2023-07-02",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0055",
+    "customer": "Denso",
+    "product": "Brake Assembly",
+    "date": "2023-10-22",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0056",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-05-04",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0057",
+    "customer": "JCB",
+    "product": "Wiring Harness",
+    "date": "2024-04-20",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0058",
+    "customer": "JCB",
+    "product": "Hydraulic Pump",
+    "date": "2023-05-14",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0059",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-02-06",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0060",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2023-12-30",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0061",
+    "customer": "BMW",
+    "product": "Suspension Unit",
+    "date": "2023-07-07",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0062",
+    "customer": "Tata Motors",
+    "product": "Brake Assembly",
+    "date": "2024-08-02",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0063",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2023-11-01",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0064",
+    "customer": "JCB",
+    "product": "Wiring Harness",
+    "date": "2024-12-14",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0065",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2024-06-08",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0066",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2023-06-29",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0067",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2023-12-17",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0068",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-01-07",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "quality",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0069",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2024-09-26",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0070",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2024-01-06",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0071",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2024-09-18",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0072",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2023-02-08",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0073",
+    "customer": "Maruti Suzuki",
+    "product": "Wiring Harness",
+    "date": "2023-01-30",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0074",
+    "customer": "BMW",
+    "product": "Wiring Harness",
+    "date": "2024-03-16",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0075",
+    "customer": "BMW",
+    "product": "PCB Assembly",
+    "date": "2024-10-12",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0076",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2024-02-07",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0077",
+    "customer": "BMW",
+    "product": "Control Panel",
+    "date": "2023-09-22",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0078",
+    "customer": "Tata Motors",
+    "product": "PCB Assembly",
+    "date": "2023-05-07",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0079",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-06-26",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0080",
+    "customer": "Mahindra",
+    "product": "Hydraulic Pump",
+    "date": "2024-11-18",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0081",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-11-27",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0082",
+    "customer": "Sona Comstar",
+    "product": "Gear Box",
+    "date": "2024-03-25",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0083",
+    "customer": "Mahindra",
+    "product": "Sensor Array",
+    "date": "2023-07-15",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0084",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2023-02-26",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0085",
+    "customer": "Sona Comstar",
+    "product": "PCB Assembly",
+    "date": "2023-01-11",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0086",
+    "customer": "Gestamp",
+    "product": "Brake Assembly",
+    "date": "2024-07-07",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0087",
+    "customer": "Maruti Suzuki",
+    "product": "Control Panel",
+    "date": "2024-08-01",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0088",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2023-10-25",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0089",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2024-01-29",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0090",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-02-24",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0091",
+    "customer": "Tata Motors",
+    "product": "Suspension Unit",
+    "date": "2024-11-12",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0092",
+    "customer": "Hero MotoCorp",
+    "product": "Hydraulic Pump",
+    "date": "2023-12-03",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0093",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2024-11-02",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0094",
+    "customer": "Gestamp",
+    "product": "Drive Shaft",
+    "date": "2024-06-06",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "technical",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0095",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2024-06-04",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0096",
+    "customer": "Mahindra",
+    "product": "Sensor Array",
+    "date": "2023-03-19",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0097",
+    "customer": "BMW",
+    "product": "Brake Assembly",
+    "date": "2023-11-04",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0098",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2023-07-03",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0099",
+    "customer": "Gestamp",
+    "product": "Drive Shaft",
+    "date": "2024-05-19",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0100",
+    "customer": "Sona Comstar",
+    "product": "Gear Box",
+    "date": "2023-11-23",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0101",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2024-08-11",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0102",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2024-09-29",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 13,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0103",
+    "customer": "BMW",
+    "product": "Sensor Array",
+    "date": "2024-07-02",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0104",
+    "customer": "Maruti Suzuki",
+    "product": "Gear Box",
+    "date": "2024-01-18",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0105",
+    "customer": "Tata Motors",
+    "product": "Clutch Kit",
+    "date": "2024-05-22",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0106",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2024-09-09",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0107",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2024-10-31",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0108",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2024-08-11",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0109",
+    "customer": "JCB",
+    "product": "Hydraulic Pump",
+    "date": "2023-05-10",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0110",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2023-09-22",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0111",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2023-04-08",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0112",
+    "customer": "JCB",
+    "product": "Gear Box",
+    "date": "2023-04-30",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0113",
+    "customer": "Bosch",
+    "product": "Suspension Unit",
+    "date": "2023-01-07",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0114",
+    "customer": "Tata Motors",
+    "product": "Sensor Array",
+    "date": "2023-08-29",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0115",
+    "customer": "Maruti Suzuki",
+    "product": "Hydraulic Pump",
+    "date": "2024-09-26",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0116",
+    "customer": "BMW",
+    "product": "Control Panel",
+    "date": "2023-11-27",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0117",
+    "customer": "Denso",
+    "product": "Brake Assembly",
+    "date": "2023-05-27",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0118",
+    "customer": "Bosch",
+    "product": "Control Panel",
+    "date": "2023-09-04",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0119",
+    "customer": "Maruti Suzuki",
+    "product": "Clutch Kit",
+    "date": "2023-05-18",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0120",
+    "customer": "JCB",
+    "product": "Clutch Kit",
+    "date": "2024-01-29",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0121",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2024-05-26",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0122",
+    "customer": "Gestamp",
+    "product": "Drive Shaft",
+    "date": "2024-03-21",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0123",
+    "customer": "Mahindra",
+    "product": "Clutch Kit",
+    "date": "2023-06-02",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0124",
+    "customer": "Hero MotoCorp",
+    "product": "Wiring Harness",
+    "date": "2024-07-26",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0125",
+    "customer": "JCB",
+    "product": "Gear Box",
+    "date": "2024-11-07",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0126",
+    "customer": "Mahindra",
+    "product": "Clutch Kit",
+    "date": "2023-08-06",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 13,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0127",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2024-09-08",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0128",
+    "customer": "Mahindra",
+    "product": "Hydraulic Pump",
+    "date": "2024-01-14",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0129",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2024-08-21",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0130",
+    "customer": "BMW",
+    "product": "Sensor Array",
+    "date": "2023-10-25",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0131",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2023-11-19",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0132",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2024-10-05",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0133",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2024-04-25",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0134",
+    "customer": "Gestamp",
+    "product": "Brake Assembly",
+    "date": "2023-03-20",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0135",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2023-07-12",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0136",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2023-05-03",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 6,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0137",
+    "customer": "Hero MotoCorp",
+    "product": "Drive Shaft",
+    "date": "2024-01-07",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0138",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2023-10-07",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "packaging",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0139",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2024-12-03",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0140",
+    "customer": "JCB",
+    "product": "Control Panel",
+    "date": "2024-08-19",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0141",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2023-12-10",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "technical",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0142",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2023-09-05",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "technical",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0143",
+    "customer": "Gestamp",
+    "product": "Wiring Harness",
+    "date": "2024-01-03",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0144",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2024-06-21",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0145",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2024-11-05",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "quality",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0146",
+    "customer": "BMW",
+    "product": "Drive Shaft",
+    "date": "2024-09-01",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0147",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2023-04-22",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0148",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2024-10-12",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0149",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2023-08-09",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0150",
+    "customer": "Maruti Suzuki",
+    "product": "Clutch Kit",
+    "date": "2023-10-25",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0151",
+    "customer": "Hero MotoCorp",
+    "product": "Sensor Array",
+    "date": "2023-08-29",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0152",
+    "customer": "Hero MotoCorp",
+    "product": "Sensor Array",
+    "date": "2023-06-05",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0153",
+    "customer": "JCB",
+    "product": "PCB Assembly",
+    "date": "2023-05-25",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0154",
+    "customer": "Denso",
+    "product": "PCB Assembly",
+    "date": "2023-08-21",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0155",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2024-12-06",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0156",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-05-24",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0157",
+    "customer": "Bosch",
+    "product": "Control Panel",
+    "date": "2023-07-21",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0158",
+    "customer": "Denso",
+    "product": "Wiring Harness",
+    "date": "2023-09-28",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0159",
+    "customer": "Maruti Suzuki",
+    "product": "Clutch Kit",
+    "date": "2024-03-10",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0160",
+    "customer": "Maruti Suzuki",
+    "product": "Wiring Harness",
+    "date": "2023-09-09",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0161",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2023-08-10",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0162",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2023-11-25",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0163",
+    "customer": "Sona Comstar",
+    "product": "Suspension Unit",
+    "date": "2024-08-13",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 7,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0164",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2024-08-09",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0165",
+    "customer": "Mahindra",
+    "product": "Control Panel",
+    "date": "2024-09-03",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0166",
+    "customer": "Hero MotoCorp",
+    "product": "Brake Assembly",
+    "date": "2023-01-14",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0167",
+    "customer": "BMW",
+    "product": "Gear Box",
+    "date": "2024-12-24",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0168",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2023-01-24",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0169",
+    "customer": "Sona Comstar",
+    "product": "Gear Box",
+    "date": "2024-06-29",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0170",
+    "customer": "Hero MotoCorp",
+    "product": "Drive Shaft",
+    "date": "2023-05-06",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0171",
+    "customer": "Bosch",
+    "product": "Suspension Unit",
+    "date": "2024-03-05",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0172",
+    "customer": "Denso",
+    "product": "Drive Shaft",
+    "date": "2024-05-11",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0173",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2023-08-25",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0174",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-09-22",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0175",
+    "customer": "Denso",
+    "product": "Drive Shaft",
+    "date": "2023-02-08",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0176",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2023-01-01",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 7,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0177",
+    "customer": "Gestamp",
+    "product": "Sensor Array",
+    "date": "2023-04-22",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0178",
+    "customer": "Denso",
+    "product": "Suspension Unit",
+    "date": "2024-01-17",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0179",
+    "customer": "Denso",
+    "product": "Brake Assembly",
+    "date": "2023-08-11",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0180",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2024-09-24",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0181",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2024-05-29",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "packaging",
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0182",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2024-09-12",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0183",
+    "customer": "JCB",
+    "product": "Clutch Kit",
+    "date": "2023-04-27",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0184",
+    "customer": "Hero MotoCorp",
+    "product": "Gear Box",
+    "date": "2023-01-29",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0185",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2024-01-12",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0186",
+    "customer": "Bosch",
+    "product": "Sensor Array",
+    "date": "2024-02-26",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0187",
+    "customer": "Gestamp",
+    "product": "Clutch Kit",
+    "date": "2023-01-23",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0188",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2024-04-14",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0189",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2024-07-10",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 7,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0190",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2024-12-03",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0191",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2023-10-25",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0192",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2024-11-24",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0193",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2023-08-19",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0194",
+    "customer": "Denso",
+    "product": "Drive Shaft",
+    "date": "2024-05-30",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0195",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2024-07-04",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0196",
+    "customer": "Mahindra",
+    "product": "Sensor Array",
+    "date": "2023-02-05",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0197",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-06-22",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0198",
+    "customer": "Maruti Suzuki",
+    "product": "Gear Box",
+    "date": "2024-10-01",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0199",
+    "customer": "BMW",
+    "product": "Drive Shaft",
+    "date": "2024-08-04",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0200",
+    "customer": "Hero MotoCorp",
+    "product": "Gear Box",
+    "date": "2024-06-02",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0201",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2024-08-28",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0202",
+    "customer": "Bosch",
+    "product": "Clutch Kit",
+    "date": "2024-10-06",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0203",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-04-14",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0204",
+    "customer": "Denso",
+    "product": "Control Panel",
+    "date": "2023-07-19",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 7,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0205",
+    "customer": "Bosch",
+    "product": "PCB Assembly",
+    "date": "2023-11-20",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0206",
+    "customer": "Gestamp",
+    "product": "Brake Assembly",
+    "date": "2023-02-27",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0207",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2023-08-21",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0208",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2024-06-23",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0209",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2023-04-29",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0210",
+    "customer": "Hero MotoCorp",
+    "product": "Brake Assembly",
+    "date": "2024-03-14",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0211",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-06-19",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0212",
+    "customer": "Hero MotoCorp",
+    "product": "PCB Assembly",
+    "date": "2024-02-19",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0213",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2023-08-26",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0214",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2023-09-23",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0215",
+    "customer": "Denso",
+    "product": "Clutch Kit",
+    "date": "2023-09-19",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0216",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2024-06-21",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0217",
+    "customer": "Maruti Suzuki",
+    "product": "Brake Assembly",
+    "date": "2023-12-26",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 6,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0218",
+    "customer": "Mahindra",
+    "product": "Control Panel",
+    "date": "2023-07-24",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0219",
+    "customer": "Gestamp",
+    "product": "Drive Shaft",
+    "date": "2023-07-18",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 13,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0220",
+    "customer": "Gestamp",
+    "product": "PCB Assembly",
+    "date": "2023-03-18",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0221",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2024-10-06",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "packaging",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0222",
+    "customer": "Sona Comstar",
+    "product": "Gear Box",
+    "date": "2023-11-04",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0223",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2024-07-08",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0224",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2024-12-17",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0225",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-06-13",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0226",
+    "customer": "Hero MotoCorp",
+    "product": "Sensor Array",
+    "date": "2024-02-10",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0227",
+    "customer": "JCB",
+    "product": "Clutch Kit",
+    "date": "2023-05-03",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0228",
+    "customer": "Maruti Suzuki",
+    "product": "Hydraulic Pump",
+    "date": "2023-07-19",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0229",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-01-25",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0230",
+    "customer": "Maruti Suzuki",
+    "product": "Brake Assembly",
+    "date": "2024-11-22",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0231",
+    "customer": "Mahindra",
+    "product": "PCB Assembly",
+    "date": "2023-02-11",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0232",
+    "customer": "BMW",
+    "product": "PCB Assembly",
+    "date": "2023-07-31",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0233",
+    "customer": "Maruti Suzuki",
+    "product": "Brake Assembly",
+    "date": "2023-07-04",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0234",
+    "customer": "Gestamp",
+    "product": "PCB Assembly",
+    "date": "2024-08-31",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0235",
+    "customer": "Denso",
+    "product": "Control Panel",
+    "date": "2024-09-16",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0236",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-08-17",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0237",
+    "customer": "JCB",
+    "product": "PCB Assembly",
+    "date": "2024-01-23",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0238",
+    "customer": "Maruti Suzuki",
+    "product": "Control Panel",
+    "date": "2024-04-08",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0239",
+    "customer": "JCB",
+    "product": "Hydraulic Pump",
+    "date": "2023-12-12",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0240",
+    "customer": "Sona Comstar",
+    "product": "Suspension Unit",
+    "date": "2023-09-30",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0241",
+    "customer": "Maruti Suzuki",
+    "product": "Drive Shaft",
+    "date": "2023-05-03",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0242",
+    "customer": "Sona Comstar",
+    "product": "Drive Shaft",
+    "date": "2024-12-22",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0243",
+    "customer": "Mahindra",
+    "product": "Hydraulic Pump",
+    "date": "2024-10-09",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0244",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2024-05-29",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0245",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2024-01-15",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0246",
+    "customer": "Mahindra",
+    "product": "Clutch Kit",
+    "date": "2023-04-11",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0247",
+    "customer": "JCB",
+    "product": "Brake Assembly",
+    "date": "2024-01-29",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0248",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2024-02-15",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0249",
+    "customer": "Tata Motors",
+    "product": "Control Panel",
+    "date": "2024-02-29",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 13,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0250",
+    "customer": "Maruti Suzuki",
+    "product": "Gear Box",
+    "date": "2023-04-09",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0251",
+    "customer": "JCB",
+    "product": "Hydraulic Pump",
+    "date": "2024-12-06",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0252",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2024-06-07",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0253",
+    "customer": "Denso",
+    "product": "Clutch Kit",
+    "date": "2023-08-20",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0254",
+    "customer": "Tata Motors",
+    "product": "Sensor Array",
+    "date": "2024-07-07",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0255",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2024-04-21",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0256",
+    "customer": "Hero MotoCorp",
+    "product": "PCB Assembly",
+    "date": "2023-04-24",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0257",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-11-15",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "technical",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0258",
+    "customer": "BMW",
+    "product": "Control Panel",
+    "date": "2023-10-25",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0259",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2023-11-20",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0260",
+    "customer": "JCB",
+    "product": "Brake Assembly",
+    "date": "2023-07-24",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0261",
+    "customer": "JCB",
+    "product": "Hydraulic Pump",
+    "date": "2024-07-29",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0262",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2023-04-06",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0263",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2023-06-01",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0264",
+    "customer": "JCB",
+    "product": "PCB Assembly",
+    "date": "2024-01-17",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0265",
+    "customer": "JCB",
+    "product": "Clutch Kit",
+    "date": "2024-04-17",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0266",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2023-07-14",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0267",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-05-13",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0268",
+    "customer": "BMW",
+    "product": "PCB Assembly",
+    "date": "2024-09-24",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0269",
+    "customer": "Hero MotoCorp",
+    "product": "PCB Assembly",
+    "date": "2023-05-23",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0270",
+    "customer": "Tata Motors",
+    "product": "Brake Assembly",
+    "date": "2023-12-19",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0271",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-03-20",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 7,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0272",
+    "customer": "JCB",
+    "product": "PCB Assembly",
+    "date": "2023-07-30",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0273",
+    "customer": "Denso",
+    "product": "Clutch Kit",
+    "date": "2023-04-24",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0274",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2024-02-17",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0275",
+    "customer": "Gestamp",
+    "product": "Clutch Kit",
+    "date": "2023-10-24",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0276",
+    "customer": "Denso",
+    "product": "Control Panel",
+    "date": "2023-04-23",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0277",
+    "customer": "Gestamp",
+    "product": "Clutch Kit",
+    "date": "2023-12-24",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0278",
+    "customer": "Gestamp",
+    "product": "Suspension Unit",
+    "date": "2024-06-17",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0279",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-06-11",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0280",
+    "customer": "BMW",
+    "product": "Sensor Array",
+    "date": "2023-10-20",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0281",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2024-09-26",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0282",
+    "customer": "Gestamp",
+    "product": "Wiring Harness",
+    "date": "2024-07-18",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0283",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2024-05-25",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0284",
+    "customer": "BMW",
+    "product": "Clutch Kit",
+    "date": "2024-04-06",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0285",
+    "customer": "Denso",
+    "product": "PCB Assembly",
+    "date": "2024-08-28",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0286",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2024-06-07",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0287",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2024-03-21",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0288",
+    "customer": "Bosch",
+    "product": "Clutch Kit",
+    "date": "2024-05-17",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0289",
+    "customer": "Mahindra",
+    "product": "Suspension Unit",
+    "date": "2024-10-23",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0290",
+    "customer": "Gestamp",
+    "product": "Sensor Array",
+    "date": "2024-08-22",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0291",
+    "customer": "Sona Comstar",
+    "product": "PCB Assembly",
+    "date": "2023-03-19",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0292",
+    "customer": "Hero MotoCorp",
+    "product": "Brake Assembly",
+    "date": "2024-04-17",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0293",
+    "customer": "BMW",
+    "product": "Hydraulic Pump",
+    "date": "2023-11-27",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0294",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2023-04-18",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0295",
+    "customer": "Tata Motors",
+    "product": "Gear Box",
+    "date": "2024-10-11",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0296",
+    "customer": "JCB",
+    "product": "Brake Assembly",
+    "date": "2023-07-21",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0297",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2023-06-26",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0298",
+    "customer": "Denso",
+    "product": "Suspension Unit",
+    "date": "2024-02-17",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0299",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2023-06-23",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0300",
+    "customer": "Bosch",
+    "product": "Clutch Kit",
+    "date": "2024-03-01",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0301",
+    "customer": "BMW",
+    "product": "Gear Box",
+    "date": "2024-03-11",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0302",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2024-07-28",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "delivery",
+      "technical",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0303",
+    "customer": "Sona Comstar",
+    "product": "Brake Assembly",
+    "date": "2023-02-02",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0304",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2023-03-10",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0305",
+    "customer": "Gestamp",
+    "product": "Sensor Array",
+    "date": "2023-01-24",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0306",
+    "customer": "BMW",
+    "product": "Drive Shaft",
+    "date": "2024-06-17",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0307",
+    "customer": "JCB",
+    "product": "Suspension Unit",
+    "date": "2023-09-04",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0308",
+    "customer": "Gestamp",
+    "product": "Wiring Harness",
+    "date": "2023-11-22",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0309",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2023-06-13",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0310",
+    "customer": "BMW",
+    "product": "Gear Box",
+    "date": "2023-08-24",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0311",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-10-07",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0312",
+    "customer": "Sona Comstar",
+    "product": "Wiring Harness",
+    "date": "2024-04-07",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0313",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2023-02-04",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0314",
+    "customer": "Hero MotoCorp",
+    "product": "Gear Box",
+    "date": "2024-05-27",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0315",
+    "customer": "Sona Comstar",
+    "product": "Drive Shaft",
+    "date": "2024-06-17",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0316",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2024-06-21",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0317",
+    "customer": "Maruti Suzuki",
+    "product": "Suspension Unit",
+    "date": "2023-12-19",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0318",
+    "customer": "Denso",
+    "product": "Suspension Unit",
+    "date": "2024-09-24",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0319",
+    "customer": "Sona Comstar",
+    "product": "Drive Shaft",
+    "date": "2023-03-24",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0320",
+    "customer": "Hero MotoCorp",
+    "product": "Wiring Harness",
+    "date": "2024-11-05",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0321",
+    "customer": "Hero MotoCorp",
+    "product": "Hydraulic Pump",
+    "date": "2023-02-19",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0322",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2023-01-02",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0323",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-03-28",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0324",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2023-05-20",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0325",
+    "customer": "Gestamp",
+    "product": "Suspension Unit",
+    "date": "2023-06-14",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0326",
+    "customer": "Gestamp",
+    "product": "Clutch Kit",
+    "date": "2024-04-05",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0327",
+    "customer": "Tata Motors",
+    "product": "Brake Assembly",
+    "date": "2023-11-28",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 2,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0328",
+    "customer": "Sona Comstar",
+    "product": "Gear Box",
+    "date": "2023-04-21",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0329",
+    "customer": "Tata Motors",
+    "product": "Brake Assembly",
+    "date": "2024-06-01",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0330",
+    "customer": "Hero MotoCorp",
+    "product": "Wiring Harness",
+    "date": "2024-10-20",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "technical",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0331",
+    "customer": "Hero MotoCorp",
+    "product": "Brake Assembly",
+    "date": "2024-05-20",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0332",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2024-05-10",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0333",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2023-12-30",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0334",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-07-14",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0335",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2023-12-09",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "technical",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0336",
+    "customer": "BMW",
+    "product": "Wiring Harness",
+    "date": "2024-08-18",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "packaging",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0337",
+    "customer": "Tata Motors",
+    "product": "Clutch Kit",
+    "date": "2024-07-20",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0338",
+    "customer": "Bosch",
+    "product": "Suspension Unit",
+    "date": "2024-08-22",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0339",
+    "customer": "Tata Motors",
+    "product": "PCB Assembly",
+    "date": "2023-02-14",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0340",
+    "customer": "BMW",
+    "product": "Wiring Harness",
+    "date": "2023-04-19",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0341",
+    "customer": "Bosch",
+    "product": "Sensor Array",
+    "date": "2024-03-03",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0342",
+    "customer": "Tata Motors",
+    "product": "Clutch Kit",
+    "date": "2024-03-10",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0343",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2023-03-18",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0344",
+    "customer": "Maruti Suzuki",
+    "product": "Suspension Unit",
+    "date": "2024-01-23",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0345",
+    "customer": "Tata Motors",
+    "product": "Brake Assembly",
+    "date": "2024-10-20",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0346",
+    "customer": "Denso",
+    "product": "Wiring Harness",
+    "date": "2024-07-27",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0347",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2024-04-07",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0348",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-07-10",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0349",
+    "customer": "Hero MotoCorp",
+    "product": "Clutch Kit",
+    "date": "2024-08-19",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0350",
+    "customer": "BMW",
+    "product": "Hydraulic Pump",
+    "date": "2024-04-25",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0351",
+    "customer": "Sona Comstar",
+    "product": "PCB Assembly",
+    "date": "2024-07-28",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0352",
+    "customer": "Mahindra",
+    "product": "Suspension Unit",
+    "date": "2024-08-03",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 9,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0353",
+    "customer": "Gestamp",
+    "product": "Suspension Unit",
+    "date": "2024-10-25",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0354",
+    "customer": "Hero MotoCorp",
+    "product": "Drive Shaft",
+    "date": "2023-08-26",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0355",
+    "customer": "Maruti Suzuki",
+    "product": "Control Panel",
+    "date": "2023-03-16",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0356",
+    "customer": "Hero MotoCorp",
+    "product": "Sensor Array",
+    "date": "2023-02-07",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0357",
+    "customer": "JCB",
+    "product": "PCB Assembly",
+    "date": "2023-10-20",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0358",
+    "customer": "Gestamp",
+    "product": "Wiring Harness",
+    "date": "2024-01-10",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0359",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2023-03-19",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0360",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2023-09-04",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0361",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2024-07-03",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0362",
+    "customer": "Maruti Suzuki",
+    "product": "Sensor Array",
+    "date": "2024-01-22",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0363",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2024-03-09",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0364",
+    "customer": "Sona Comstar",
+    "product": "Clutch Kit",
+    "date": "2023-07-04",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "communication",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0365",
+    "customer": "Gestamp",
+    "product": "Wiring Harness",
+    "date": "2023-08-13",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0366",
+    "customer": "Mahindra",
+    "product": "PCB Assembly",
+    "date": "2023-08-20",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0367",
+    "customer": "Mahindra",
+    "product": "Clutch Kit",
+    "date": "2024-08-25",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "quality",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0368",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2023-12-18",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 8,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0369",
+    "customer": "Bosch",
+    "product": "Control Panel",
+    "date": "2023-07-12",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0370",
+    "customer": "Maruti Suzuki",
+    "product": "Wiring Harness",
+    "date": "2024-07-08",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0371",
+    "customer": "Bosch",
+    "product": "Sensor Array",
+    "date": "2023-08-09",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0372",
+    "customer": "Tata Motors",
+    "product": "Brake Assembly",
+    "date": "2024-05-05",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0373",
+    "customer": "BMW",
+    "product": "Drive Shaft",
+    "date": "2023-05-06",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0374",
+    "customer": "Maruti Suzuki",
+    "product": "Wiring Harness",
+    "date": "2023-07-17",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0375",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2024-10-07",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0376",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2024-07-10",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "packaging",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0377",
+    "customer": "BMW",
+    "product": "Suspension Unit",
+    "date": "2023-03-24",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0378",
+    "customer": "Maruti Suzuki",
+    "product": "Gear Box",
+    "date": "2024-03-29",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0379",
+    "customer": "Sona Comstar",
+    "product": "Brake Assembly",
+    "date": "2023-09-06",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0380",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2024-01-22",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0381",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2023-07-16",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0382",
+    "customer": "Sona Comstar",
+    "product": "Drive Shaft",
+    "date": "2023-10-16",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0383",
+    "customer": "Sona Comstar",
+    "product": "Control Panel",
+    "date": "2024-05-31",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0384",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2023-08-06",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0385",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2023-05-08",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0386",
+    "customer": "Denso",
+    "product": "Brake Assembly",
+    "date": "2023-02-10",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0387",
+    "customer": "Tata Motors",
+    "product": "Drive Shaft",
+    "date": "2023-10-16",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0388",
+    "customer": "Sona Comstar",
+    "product": "Drive Shaft",
+    "date": "2024-09-09",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0389",
+    "customer": "Maruti Suzuki",
+    "product": "PCB Assembly",
+    "date": "2023-12-01",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0390",
+    "customer": "Denso",
+    "product": "Clutch Kit",
+    "date": "2023-08-22",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0391",
+    "customer": "JCB",
+    "product": "Suspension Unit",
+    "date": "2023-08-08",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0392",
+    "customer": "Maruti Suzuki",
+    "product": "Drive Shaft",
+    "date": "2024-05-11",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0393",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2024-03-30",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0394",
+    "customer": "BMW",
+    "product": "Wiring Harness",
+    "date": "2024-07-22",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0395",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2024-03-03",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0396",
+    "customer": "BMW",
+    "product": "PCB Assembly",
+    "date": "2024-02-04",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0397",
+    "customer": "JCB",
+    "product": "Clutch Kit",
+    "date": "2023-11-06",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0398",
+    "customer": "Maruti Suzuki",
+    "product": "Brake Assembly",
+    "date": "2024-03-21",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0399",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2024-07-26",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0400",
+    "customer": "JCB",
+    "product": "Wiring Harness",
+    "date": "2024-12-01",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0401",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2023-07-07",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0402",
+    "customer": "Tata Motors",
+    "product": "PCB Assembly",
+    "date": "2023-09-07",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0403",
+    "customer": "Maruti Suzuki",
+    "product": "Wiring Harness",
+    "date": "2024-11-09",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0404",
+    "customer": "JCB",
+    "product": "PCB Assembly",
+    "date": "2024-01-11",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0405",
+    "customer": "Tata Motors",
+    "product": "Suspension Unit",
+    "date": "2024-07-17",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0406",
+    "customer": "Maruti Suzuki",
+    "product": "Clutch Kit",
+    "date": "2023-02-19",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0407",
+    "customer": "Hero MotoCorp",
+    "product": "Hydraulic Pump",
+    "date": "2023-03-05",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0408",
+    "customer": "Gestamp",
+    "product": "Drive Shaft",
+    "date": "2024-01-29",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "pricing",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0409",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2024-10-13",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0410",
+    "customer": "Bosch",
+    "product": "Sensor Array",
+    "date": "2023-09-14",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 4,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0411",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2024-06-25",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0412",
+    "customer": "BMW",
+    "product": "Wiring Harness",
+    "date": "2024-02-13",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "technical",
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0413",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-02-07",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0414",
+    "customer": "Sona Comstar",
+    "product": "Wiring Harness",
+    "date": "2023-02-02",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0415",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-04-04",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0416",
+    "customer": "JCB",
+    "product": "Suspension Unit",
+    "date": "2023-07-12",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0417",
+    "customer": "Tata Motors",
+    "product": "Suspension Unit",
+    "date": "2024-12-16",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0418",
+    "customer": "JCB",
+    "product": "Sensor Array",
+    "date": "2024-10-10",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0419",
+    "customer": "Gestamp",
+    "product": "PCB Assembly",
+    "date": "2023-03-22",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0420",
+    "customer": "Hero MotoCorp",
+    "product": "Drive Shaft",
+    "date": "2023-10-03",
+    "channel": "portal",
+    "rating": 2,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0421",
+    "customer": "JCB",
+    "product": "Suspension Unit",
+    "date": "2023-10-07",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0422",
+    "customer": "Sona Comstar",
+    "product": "Wiring Harness",
+    "date": "2024-12-08",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0423",
+    "customer": "Hero MotoCorp",
+    "product": "Brake Assembly",
+    "date": "2023-05-23",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0424",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2023-03-10",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0425",
+    "customer": "Sona Comstar",
+    "product": "Gear Box",
+    "date": "2023-04-26",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0426",
+    "customer": "JCB",
+    "product": "Control Panel",
+    "date": "2024-02-24",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0427",
+    "customer": "Mahindra",
+    "product": "Sensor Array",
+    "date": "2023-03-07",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0428",
+    "customer": "Gestamp",
+    "product": "Hydraulic Pump",
+    "date": "2023-07-03",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "communication",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0429",
+    "customer": "Gestamp",
+    "product": "Suspension Unit",
+    "date": "2023-10-08",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 12,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0430",
+    "customer": "Tata Motors",
+    "product": "Gear Box",
+    "date": "2024-09-17",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0431",
+    "customer": "Denso",
+    "product": "Suspension Unit",
+    "date": "2023-02-11",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "packaging",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 14,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0432",
+    "customer": "Gestamp",
+    "product": "Clutch Kit",
+    "date": "2024-12-05",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0433",
+    "customer": "Mahindra",
+    "product": "Clutch Kit",
+    "date": "2024-07-11",
+    "channel": "call",
+    "rating": 2,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0434",
+    "customer": "Gestamp",
+    "product": "Brake Assembly",
+    "date": "2024-01-07",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0435",
+    "customer": "Denso",
+    "product": "Drive Shaft",
+    "date": "2024-01-23",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0436",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-09-03",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0437",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2024-08-08",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "communication",
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0438",
+    "customer": "Hero MotoCorp",
+    "product": "Control Panel",
+    "date": "2024-05-12",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0439",
+    "customer": "Denso",
+    "product": "Control Panel",
+    "date": "2023-01-21",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 11,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0440",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2023-06-03",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0441",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2023-02-21",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "communication",
+      "quality",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0442",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2023-11-22",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0443",
+    "customer": "Gestamp",
+    "product": "Control Panel",
+    "date": "2024-02-21",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "delivery",
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0444",
+    "customer": "Sona Comstar",
+    "product": "Hydraulic Pump",
+    "date": "2024-11-23",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0445",
+    "customer": "Bosch",
+    "product": "Brake Assembly",
+    "date": "2023-04-30",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0446",
+    "customer": "Maruti Suzuki",
+    "product": "Wiring Harness",
+    "date": "2024-07-18",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 10,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0447",
+    "customer": "Maruti Suzuki",
+    "product": "Hydraulic Pump",
+    "date": "2023-03-12",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0448",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2024-08-26",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0449",
+    "customer": "Gestamp",
+    "product": "Sensor Array",
+    "date": "2023-03-18",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "technical",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 7,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0450",
+    "customer": "Maruti Suzuki",
+    "product": "Brake Assembly",
+    "date": "2023-04-10",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "packaging",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0451",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2023-03-01",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "packaging",
+      "delivery",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0452",
+    "customer": "Bosch",
+    "product": "Control Panel",
+    "date": "2023-04-27",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0453",
+    "customer": "Tata Motors",
+    "product": "Clutch Kit",
+    "date": "2024-02-05",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0454",
+    "customer": "Hero MotoCorp",
+    "product": "Drive Shaft",
+    "date": "2024-04-11",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0455",
+    "customer": "Bosch",
+    "product": "Hydraulic Pump",
+    "date": "2023-12-30",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 9,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0456",
+    "customer": "Tata Motors",
+    "product": "Hydraulic Pump",
+    "date": "2023-07-07",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0457",
+    "customer": "Bosch",
+    "product": "Sensor Array",
+    "date": "2023-07-27",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0458",
+    "customer": "BMW",
+    "product": "Control Panel",
+    "date": "2024-10-24",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0459",
+    "customer": "Maruti Suzuki",
+    "product": "Gear Box",
+    "date": "2023-10-08",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0460",
+    "customer": "Mahindra",
+    "product": "Hydraulic Pump",
+    "date": "2023-07-19",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 2,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0461",
+    "customer": "Denso",
+    "product": "Suspension Unit",
+    "date": "2023-02-27",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "technical"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0462",
+    "customer": "Denso",
+    "product": "Control Panel",
+    "date": "2023-07-27",
+    "channel": "portal",
+    "rating": 3,
+    "tags": [
+      "pricing",
+      "quality",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0463",
+    "customer": "JCB",
+    "product": "Suspension Unit",
+    "date": "2023-03-07",
+    "channel": "email",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "delivery",
+      "pricing"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0464",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2024-09-13",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0465",
+    "customer": "Mahindra",
+    "product": "Gear Box",
+    "date": "2024-05-10",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0466",
+    "customer": "Tata Motors",
+    "product": "PCB Assembly",
+    "date": "2023-07-15",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication",
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0467",
+    "customer": "Denso",
+    "product": "Sensor Array",
+    "date": "2024-07-29",
+    "channel": "site_visit",
+    "rating": 4,
+    "tags": [
+      "pricing",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0468",
+    "customer": "Gestamp",
+    "product": "Sensor Array",
+    "date": "2024-01-31",
+    "channel": "email",
+    "rating": 2,
+    "tags": [
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 1,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0469",
+    "customer": "Bosch",
+    "product": "Drive Shaft",
+    "date": "2024-06-13",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "communication",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0470",
+    "customer": "Hero MotoCorp",
+    "product": "Drive Shaft",
+    "date": "2023-04-22",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "communication",
+      "quality"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0471",
+    "customer": "Tata Motors",
+    "product": "Wiring Harness",
+    "date": "2024-12-14",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0472",
+    "customer": "Gestamp",
+    "product": "Clutch Kit",
+    "date": "2023-07-11",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 11,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0473",
+    "customer": "Gestamp",
+    "product": "Suspension Unit",
+    "date": "2024-04-12",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 13,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0474",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2023-04-23",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "packaging",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0475",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2023-04-07",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "packaging",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0476",
+    "customer": "Denso",
+    "product": "Brake Assembly",
+    "date": "2023-05-22",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "delivery",
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0477",
+    "customer": "Bosch",
+    "product": "Gear Box",
+    "date": "2024-04-14",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0478",
+    "customer": "Hero MotoCorp",
+    "product": "PCB Assembly",
+    "date": "2023-04-05",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "quality",
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0479",
+    "customer": "Gestamp",
+    "product": "Gear Box",
+    "date": "2024-01-22",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "quality",
+      "technical"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 12,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0480",
+    "customer": "Hero MotoCorp",
+    "product": "Suspension Unit",
+    "date": "2023-05-09",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0481",
+    "customer": "Mahindra",
+    "product": "Brake Assembly",
+    "date": "2024-08-28",
+    "channel": "site_visit",
+    "rating": 5,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0482",
+    "customer": "BMW",
+    "product": "Brake Assembly",
+    "date": "2023-03-24",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 6,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0483",
+    "customer": "BMW",
+    "product": "Clutch Kit",
+    "date": "2024-09-13",
+    "channel": "portal",
+    "rating": 4,
+    "tags": [
+      "technical",
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 3,
+      "owner": "CSM_04"
+    }
+  },
+  {
+    "feedback_id": "FB_0484",
+    "customer": "Bosch",
+    "product": "Wiring Harness",
+    "date": "2024-03-29",
+    "channel": "portal",
+    "rating": 1,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 10,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0485",
+    "customer": "Maruti Suzuki",
+    "product": "Hydraulic Pump",
+    "date": "2023-02-08",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "technical",
+      "communication",
+      "delivery"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0486",
+    "customer": "Hero MotoCorp",
+    "product": "PCB Assembly",
+    "date": "2023-01-29",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "quality",
+      "delivery"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 1,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0487",
+    "customer": "Mahindra",
+    "product": "Wiring Harness",
+    "date": "2023-05-27",
+    "channel": "call",
+    "rating": 3,
+    "tags": [
+      "delivery"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0488",
+    "customer": "Mahindra",
+    "product": "Drive Shaft",
+    "date": "2023-03-19",
+    "channel": "call",
+    "rating": 5,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0489",
+    "customer": "Sona Comstar",
+    "product": "Clutch Kit",
+    "date": "2024-10-18",
+    "channel": "site_visit",
+    "rating": 2,
+    "tags": [
+      "delivery",
+      "communication",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 14,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0490",
+    "customer": "Maruti Suzuki",
+    "product": "Gear Box",
+    "date": "2023-07-09",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0491",
+    "customer": "Bosch",
+    "product": "Control Panel",
+    "date": "2023-07-29",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "pricing",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": 8,
+      "owner": "CSM_01"
+    }
+  },
+  {
+    "feedback_id": "FB_0492",
+    "customer": "Sona Comstar",
+    "product": "Sensor Array",
+    "date": "2024-01-21",
+    "channel": "call",
+    "rating": 1,
+    "tags": [
+      "quality",
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 6,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0493",
+    "customer": "JCB",
+    "product": "Drive Shaft",
+    "date": "2024-10-10",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "pricing"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 5,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0494",
+    "customer": "Mahindra",
+    "product": "PCB Assembly",
+    "date": "2024-10-03",
+    "channel": "portal",
+    "rating": 5,
+    "tags": [
+      "quality"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0495",
+    "customer": "Sona Comstar",
+    "product": "Hydraulic Pump",
+    "date": "2023-07-20",
+    "channel": "site_visit",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "pricing"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0496",
+    "customer": "Denso",
+    "product": "Gear Box",
+    "date": "2024-03-13",
+    "channel": "call",
+    "rating": 4,
+    "tags": [
+      "packaging",
+      "technical"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": null,
+      "owner": "CSM_03"
+    }
+  },
+  {
+    "feedback_id": "FB_0497",
+    "customer": "Gestamp",
+    "product": "Wiring Harness",
+    "date": "2024-07-10",
+    "channel": "email",
+    "rating": 3,
+    "tags": [
+      "technical",
+      "quality",
+      "communication"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": null
+  },
+  {
+    "feedback_id": "FB_0498",
+    "customer": "Bosch",
+    "product": "Suspension Unit",
+    "date": "2023-06-05",
+    "channel": "email",
+    "rating": 1,
+    "tags": [
+      "delivery",
+      "communication",
+      "packaging"
+    ],
+    "sentiment": "neutral",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": true,
+      "resolution_days": null,
+      "owner": "CSM_02"
+    }
+  },
+  {
+    "feedback_id": "FB_0499",
+    "customer": "Hero MotoCorp",
+    "product": "Wiring Harness",
+    "date": "2024-03-14",
+    "channel": "site_visit",
+    "rating": 1,
+    "tags": [
+      "pricing",
+      "technical",
+      "packaging"
+    ],
+    "sentiment": "negative",
+    "follow_up_required": true,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 4,
+      "owner": "CSM_05"
+    }
+  },
+  {
+    "feedback_id": "FB_0500",
+    "customer": "Sona Comstar",
+    "product": "Hydraulic Pump",
+    "date": "2023-02-07",
+    "channel": "email",
+    "rating": 5,
+    "tags": [
+      "delivery",
+      "packaging"
+    ],
+    "sentiment": "positive",
+    "follow_up_required": false,
+    "resolution": {
+      "resolved": false,
+      "resolution_days": 2,
+      "owner": "CSM_03"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,tier,on_time_rate,quality_score,avg_lead_days,contract_value,active
+SUP_001,Supplier_001,India,Tier 3,0.879,4.4,8,4612682.29,1
+SUP_002,Supplier_002,India,Tier 2,0.878,4.18,22,805751.17,1
+SUP_003,Supplier_003,UK,Tier 1,0.805,4.4,7,1924996.59,1
+SUP_004,Supplier_004,India,Tier 2,0.885,4.1,23,1839329.88,0
+SUP_005,Supplier_005,USA,Tier 3,0.892,4.37,11,2584614.91,0
+SUP_006,Supplier_006,India,Tier 3,0.823,4.2,14,959249.38,0
+SUP_007,Supplier_007,India,Tier 1,0.778,3.72,6,2682596.27,1
+SUP_008,Supplier_008,Germany,Tier 1,0.944,4.57,18,1323569.0,1
+SUP_009,Supplier_009,UK,Tier 1,0.989,4.0,5,801480.18,1
+SUP_010,Supplier_010,Germany,Tier 3,0.949,4.92,9,618381.28,0
+SUP_011,Supplier_011,India,Tier 3,0.941,4.17,10,975610.34,0
+SUP_012,Supplier_012,India,Tier 1,0.898,4.39,25,4114622.78,1
+SUP_013,Supplier_013,India,Tier 1,0.784,4.43,24,3072031.09,0
+SUP_014,Supplier_014,Germany,Tier 1,0.743,4.0,5,3789305.29,1
+SUP_015,Supplier_015,UK,Tier 1,0.94,4.73,22,4676340.84,1
+SUP_016,Supplier_016,Japan,Tier 1,0.763,3.42,16,2848758.32,1
+SUP_017,Supplier_017,UK,Tier 3,0.983,3.87,5,2925948.89,1
+SUP_018,Supplier_018,India,Tier 2,0.866,3.95,15,2629738.65,1
+SUP_019,Supplier_019,Germany,Tier 1,0.823,3.35,24,2314532.77,1
+SUP_020,Supplier_020,Germany,Tier 3,0.902,4.26,10,3199557.7,0

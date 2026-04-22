@@ -1,0 +1,1501 @@
+inspection_id,order_id,product,plant,inspection_date,batch_size,defects_found,defect_type,inspector_id,passed,defect_rate
+INS_00001,ORD_00001,Brake Assembly,Plant_Delhi,2024-10-22,101,0,None,INS_EMP_09,1,0.0
+INS_00002,ORD_00002,Control Panel,Plant_Pune,2023-02-05,241,15,Surface Finish,INS_EMP_07,1,0.0622
+INS_00003,ORD_00003,PCB Assembly,Plant_Chennai,2023-08-31,1256,35,Dimensional,INS_EMP_01,1,0.0279
+INS_00004,ORD_00004,Sensor Array,Plant_Chennai,2023-09-05,739,46,Surface Finish,INS_EMP_02,1,0.0622
+INS_00005,ORD_00005,Sensor Array,Plant_Pune,2024-07-09,1938,149,Dimensional,INS_EMP_07,0,0.0769
+INS_00006,ORD_00006,Brake Assembly,Plant_Ahmedabad,2024-11-18,1633,110,Functional,INS_EMP_01,1,0.0674
+INS_00007,ORD_00007,Brake Assembly,Plant_Pune,2024-11-10,797,0,None,INS_EMP_04,1,0.0
+INS_00008,ORD_00008,Clutch Kit,Plant_Chennai,2023-07-04,827,63,Surface Finish,INS_EMP_05,0,0.0762
+INS_00009,ORD_00009,Sensor Array,Plant_Pune,2023-03-02,696,47,Functional,INS_EMP_07,1,0.0675
+INS_00010,ORD_00010,Control Panel,Plant_Chennai,2024-11-06,342,25,Dimensional,INS_EMP_08,1,0.0731
+INS_00011,ORD_00011,Wiring Harness,Plant_Delhi,2024-09-04,791,19,Surface Finish,INS_EMP_01,1,0.024
+INS_00012,ORD_00012,PCB Assembly,Plant_Ahmedabad,2023-06-29,377,27,Functional,INS_EMP_10,1,0.0716
+INS_00013,ORD_00013,Control Panel,Plant_Chennai,2024-07-06,1183,70,Assembly Error,INS_EMP_04,1,0.0592
+INS_00014,ORD_00014,Control Panel,Plant_Pune,2023-11-13,373,0,None,INS_EMP_07,1,0.0
+INS_00015,ORD_00015,Sensor Array,Plant_Pune,2024-10-14,1773,69,Dimensional,INS_EMP_08,1,0.0389
+INS_00016,ORD_00016,Hydraulic Pump,Plant_Pune,2023-01-23,713,5,Surface Finish,INS_EMP_08,0,0.007
+INS_00017,ORD_00017,Gear Box,Plant_Pune,2024-08-08,225,18,Surface Finish,INS_EMP_06,0,0.08
+INS_00018,ORD_00018,Control Panel,Plant_Pune,2023-06-30,1130,19,Assembly Error,INS_EMP_03,1,0.0168
+INS_00019,ORD_00019,Clutch Kit,Plant_Pune,2024-12-11,814,0,None,INS_EMP_04,1,0.0
+INS_00020,ORD_00020,Drive Shaft,Plant_Pune,2023-02-12,1184,36,Assembly Error,INS_EMP_09,0,0.0304
+INS_00021,ORD_00021,Control Panel,Plant_Pune,2023-12-10,1102,65,Dimensional,INS_EMP_10,0,0.059
+INS_00022,ORD_00022,Brake Assembly,Plant_Ahmedabad,2024-05-09,1656,103,Functional,INS_EMP_09,0,0.0622
+INS_00023,ORD_00023,Drive Shaft,Plant_Ahmedabad,2024-03-13,1819,0,None,INS_EMP_01,1,0.0
+INS_00024,ORD_00024,Hydraulic Pump,Plant_Ahmedabad,2023-09-21,439,9,Assembly Error,INS_EMP_05,1,0.0205
+INS_00025,ORD_00025,Drive Shaft,Plant_Delhi,2024-04-26,1814,39,Assembly Error,INS_EMP_09,1,0.0215
+INS_00026,ORD_00026,Gear Box,Plant_Ahmedabad,2024-03-10,1035,0,None,INS_EMP_10,1,0.0
+INS_00027,ORD_00027,Wiring Harness,Plant_Pune,2023-10-27,1657,109,Dimensional,INS_EMP_01,0,0.0658
+INS_00028,ORD_00028,Drive Shaft,Plant_Delhi,2023-08-15,1236,39,Dimensional,INS_EMP_02,0,0.0316
+INS_00029,ORD_00029,Gear Box,Plant_Delhi,2024-06-28,1137,76,Dimensional,INS_EMP_04,1,0.0668
+INS_00030,ORD_00030,Clutch Kit,Plant_Delhi,2024-12-22,531,0,None,INS_EMP_03,1,0.0
+INS_00031,ORD_00031,Clutch Kit,Plant_Chennai,2024-03-29,1245,92,Surface Finish,INS_EMP_07,0,0.0739
+INS_00032,ORD_00032,Drive Shaft,Plant_Ahmedabad,2024-02-17,1425,28,Surface Finish,INS_EMP_08,1,0.0196
+INS_00033,ORD_00033,Brake Assembly,Plant_Pune,2023-04-18,1151,44,Dimensional,INS_EMP_03,0,0.0382
+INS_00034,ORD_00034,Drive Shaft,Plant_Chennai,2023-06-28,1757,66,Dimensional,INS_EMP_06,0,0.0376
+INS_00035,ORD_00035,Hydraulic Pump,Plant_Pune,2023-10-04,1872,86,Assembly Error,INS_EMP_01,0,0.0459
+INS_00036,ORD_00036,Brake Assembly,Plant_Ahmedabad,2024-12-27,1796,72,Functional,INS_EMP_05,1,0.0401
+INS_00037,ORD_00037,Wiring Harness,Plant_Ahmedabad,2023-01-17,1629,68,Surface Finish,INS_EMP_02,0,0.0417
+INS_00038,ORD_00038,Drive Shaft,Plant_Chennai,2023-04-30,1985,82,Assembly Error,INS_EMP_01,0,0.0413
+INS_00039,ORD_00039,Sensor Array,Plant_Pune,2023-06-17,311,9,Functional,INS_EMP_01,1,0.0289
+INS_00040,ORD_00040,Gear Box,Plant_Pune,2024-01-25,1196,9,Assembly Error,INS_EMP_08,1,0.0075
+INS_00041,ORD_00041,Clutch Kit,Plant_Chennai,2024-03-01,417,9,Dimensional,INS_EMP_05,0,0.0216
+INS_00042,ORD_00042,Sensor Array,Plant_Chennai,2024-02-26,129,0,None,INS_EMP_09,1,0.0
+INS_00043,ORD_00043,Hydraulic Pump,Plant_Chennai,2023-02-18,445,26,Dimensional,INS_EMP_08,0,0.0584
+INS_00044,ORD_00044,Gear Box,Plant_Chennai,2024-12-25,1148,35,Dimensional,INS_EMP_02,1,0.0305
+INS_00045,ORD_00045,Control Panel,Plant_Delhi,2024-09-18,757,27,Functional,INS_EMP_09,0,0.0357
+INS_00046,ORD_00046,Clutch Kit,Plant_Chennai,2023-07-25,140,6,Surface Finish,INS_EMP_10,0,0.0429
+INS_00047,ORD_00047,Control Panel,Plant_Chennai,2024-11-24,1326,81,Assembly Error,INS_EMP_07,1,0.0611
+INS_00048,ORD_00048,Gear Box,Plant_Chennai,2024-03-13,655,0,None,INS_EMP_07,1,0.0
+INS_00049,ORD_00049,Sensor Array,Plant_Ahmedabad,2023-01-13,637,0,None,INS_EMP_09,1,0.0
+INS_00050,ORD_00050,Brake Assembly,Plant_Chennai,2024-12-01,1096,0,None,INS_EMP_04,1,0.0
+INS_00051,ORD_00051,Clutch Kit,Plant_Pune,2023-12-15,1726,0,None,INS_EMP_07,1,0.0
+INS_00052,ORD_00052,PCB Assembly,Plant_Pune,2023-02-27,1023,0,None,INS_EMP_09,1,0.0
+INS_00053,ORD_00053,PCB Assembly,Plant_Pune,2024-02-24,352,10,Assembly Error,INS_EMP_09,1,0.0284
+INS_00054,ORD_00054,Gear Box,Plant_Ahmedabad,2024-04-24,1191,0,None,INS_EMP_05,1,0.0
+INS_00055,ORD_00055,PCB Assembly,Plant_Ahmedabad,2024-09-14,1995,84,Dimensional,INS_EMP_06,1,0.0421
+INS_00056,ORD_00056,Wiring Harness,Plant_Pune,2024-04-16,1589,103,Functional,INS_EMP_01,0,0.0648
+INS_00057,ORD_00057,Brake Assembly,Plant_Pune,2023-04-15,635,40,Dimensional,INS_EMP_03,0,0.063
+INS_00058,ORD_00058,Sensor Array,Plant_Ahmedabad,2024-02-22,362,28,Dimensional,INS_EMP_08,1,0.0773
+INS_00059,ORD_00059,Suspension Unit,Plant_Ahmedabad,2023-08-29,910,49,Surface Finish,INS_EMP_01,1,0.0538
+INS_00060,ORD_00060,Control Panel,Plant_Pune,2024-01-08,1593,10,Dimensional,INS_EMP_08,0,0.0063
+INS_00061,ORD_00061,Gear Box,Plant_Ahmedabad,2023-10-23,1044,8,Assembly Error,INS_EMP_04,1,0.0077
+INS_00062,ORD_00062,Brake Assembly,Plant_Ahmedabad,2024-07-03,1907,108,Surface Finish,INS_EMP_06,0,0.0566
+INS_00063,ORD_00063,Sensor Array,Plant_Ahmedabad,2023-07-10,582,46,Assembly Error,INS_EMP_03,0,0.079
+INS_00064,ORD_00064,Sensor Array,Plant_Pune,2023-10-15,217,0,None,INS_EMP_10,1,0.0
+INS_00065,ORD_00065,Gear Box,Plant_Ahmedabad,2023-02-11,458,21,Functional,INS_EMP_06,0,0.0459
+INS_00066,ORD_00066,Suspension Unit,Plant_Delhi,2023-08-29,1482,63,Assembly Error,INS_EMP_01,0,0.0425
+INS_00067,ORD_00067,PCB Assembly,Plant_Pune,2023-05-12,102,5,Dimensional,INS_EMP_03,1,0.049
+INS_00068,ORD_00068,Suspension Unit,Plant_Delhi,2025-01-06,1334,0,None,INS_EMP_10,1,0.0
+INS_00069,ORD_00069,Drive Shaft,Plant_Ahmedabad,2024-01-11,927,23,Functional,INS_EMP_01,1,0.0248
+INS_00070,ORD_00070,PCB Assembly,Plant_Pune,2024-04-02,1351,49,Assembly Error,INS_EMP_05,1,0.0363
+INS_00071,ORD_00071,Suspension Unit,Plant_Chennai,2024-10-20,1933,128,Assembly Error,INS_EMP_07,0,0.0662
+INS_00072,ORD_00072,Suspension Unit,Plant_Ahmedabad,2023-04-10,1855,112,Functional,INS_EMP_05,0,0.0604
+INS_00073,ORD_00073,Sensor Array,Plant_Chennai,2024-06-20,715,53,Dimensional,INS_EMP_05,1,0.0741
+INS_00074,ORD_00074,Wiring Harness,Plant_Pune,2024-07-26,1108,47,Assembly Error,INS_EMP_08,1,0.0424
+INS_00075,ORD_00075,Hydraulic Pump,Plant_Chennai,2024-05-01,85,5,Functional,INS_EMP_01,1,0.0588
+INS_00076,ORD_00076,Wiring Harness,Plant_Chennai,2024-07-11,921,41,Functional,INS_EMP_04,0,0.0445
+INS_00077,ORD_00077,Gear Box,Plant_Pune,2023-08-31,1527,0,None,INS_EMP_10,1,0.0
+INS_00078,ORD_00078,Brake Assembly,Plant_Pune,2023-11-06,1257,55,Dimensional,INS_EMP_03,0,0.0438
+INS_00079,ORD_00079,Drive Shaft,Plant_Delhi,2024-01-13,669,17,Functional,INS_EMP_07,1,0.0254
+INS_00080,ORD_00080,Suspension Unit,Plant_Chennai,2024-12-22,1356,82,Surface Finish,INS_EMP_03,1,0.0605
+INS_00081,ORD_00081,Brake Assembly,Plant_Delhi,2024-04-09,427,19,Functional,INS_EMP_01,0,0.0445
+INS_00082,ORD_00082,Hydraulic Pump,Plant_Delhi,2023-04-07,1339,81,Assembly Error,INS_EMP_06,1,0.0605
+INS_00083,ORD_00083,Control Panel,Plant_Ahmedabad,2024-08-21,902,7,Surface Finish,INS_EMP_01,1,0.0078
+INS_00084,ORD_00084,Drive Shaft,Plant_Delhi,2023-12-01,1255,24,Surface Finish,INS_EMP_02,0,0.0191
+INS_00085,ORD_00085,Gear Box,Plant_Delhi,2023-10-22,216,10,Surface Finish,INS_EMP_03,1,0.0463
+INS_00086,ORD_00086,Wiring Harness,Plant_Delhi,2024-12-28,1012,62,Assembly Error,INS_EMP_08,1,0.0613
+INS_00087,ORD_00087,Control Panel,Plant_Pune,2024-10-23,1404,18,Assembly Error,INS_EMP_06,0,0.0128
+INS_00088,ORD_00088,Hydraulic Pump,Plant_Ahmedabad,2023-05-31,172,1,Assembly Error,INS_EMP_02,0,0.0058
+INS_00089,ORD_00089,Wiring Harness,Plant_Ahmedabad,2024-12-18,1483,36,Surface Finish,INS_EMP_02,0,0.0243
+INS_00090,ORD_00090,Clutch Kit,Plant_Delhi,2023-02-26,1554,117,Functional,INS_EMP_09,1,0.0753
+INS_00091,ORD_00091,Hydraulic Pump,Plant_Pune,2023-03-10,1598,0,None,INS_EMP_09,1,0.0
+INS_00092,ORD_00092,Sensor Array,Plant_Chennai,2024-11-10,1057,8,Assembly Error,INS_EMP_01,0,0.0076
+INS_00093,ORD_00093,Control Panel,Plant_Delhi,2023-12-20,1470,61,Dimensional,INS_EMP_10,1,0.0415
+INS_00094,ORD_00094,Drive Shaft,Plant_Ahmedabad,2023-11-30,712,46,Assembly Error,INS_EMP_08,0,0.0646
+INS_00095,ORD_00095,Drive Shaft,Plant_Pune,2023-07-31,790,56,Surface Finish,INS_EMP_02,0,0.0709
+INS_00096,ORD_00096,Suspension Unit,Plant_Pune,2023-05-27,947,0,None,INS_EMP_10,1,0.0
+INS_00097,ORD_00097,Wiring Harness,Plant_Delhi,2024-07-21,1181,57,Functional,INS_EMP_01,1,0.0483
+INS_00098,ORD_00098,Clutch Kit,Plant_Ahmedabad,2023-11-14,1494,18,Assembly Error,INS_EMP_07,1,0.012
+INS_00099,ORD_00099,Brake Assembly,Plant_Chennai,2024-02-06,1937,109,Surface Finish,INS_EMP_02,0,0.0563
+INS_00100,ORD_00100,Suspension Unit,Plant_Ahmedabad,2024-06-14,1730,43,Dimensional,INS_EMP_01,0,0.0249
+INS_00101,ORD_00101,Wiring Harness,Plant_Chennai,2024-07-23,756,0,None,INS_EMP_05,1,0.0
+INS_00102,ORD_00102,Wiring Harness,Plant_Ahmedabad,2024-08-23,528,31,Surface Finish,INS_EMP_06,0,0.0587
+INS_00103,ORD_00103,Wiring Harness,Plant_Delhi,2024-05-26,308,12,Assembly Error,INS_EMP_10,1,0.039
+INS_00104,ORD_00104,Brake Assembly,Plant_Ahmedabad,2023-02-11,345,0,None,INS_EMP_01,1,0.0
+INS_00105,ORD_00105,PCB Assembly,Plant_Chennai,2024-10-25,864,45,Assembly Error,INS_EMP_03,1,0.0521
+INS_00106,ORD_00106,Clutch Kit,Plant_Delhi,2023-02-28,190,9,Functional,INS_EMP_03,1,0.0474
+INS_00107,ORD_00107,Drive Shaft,Plant_Delhi,2024-11-04,1837,32,Surface Finish,INS_EMP_09,0,0.0174
+INS_00108,ORD_00108,Suspension Unit,Plant_Pune,2023-11-11,817,0,None,INS_EMP_06,1,0.0
+INS_00109,ORD_00109,Suspension Unit,Plant_Pune,2023-04-13,1833,93,Functional,INS_EMP_05,0,0.0507
+INS_00110,ORD_00110,Hydraulic Pump,Plant_Pune,2024-10-26,991,55,Dimensional,INS_EMP_05,1,0.0555
+INS_00111,ORD_00111,Wiring Harness,Plant_Chennai,2024-01-10,662,19,Functional,INS_EMP_08,1,0.0287
+INS_00112,ORD_00112,Hydraulic Pump,Plant_Delhi,2024-05-15,535,13,Surface Finish,INS_EMP_02,0,0.0243
+INS_00113,ORD_00113,Suspension Unit,Plant_Ahmedabad,2023-01-30,1821,50,Surface Finish,INS_EMP_03,1,0.0275
+INS_00114,ORD_00114,Gear Box,Plant_Delhi,2024-10-11,771,50,Functional,INS_EMP_09,1,0.0649
+INS_00115,ORD_00115,Sensor Array,Plant_Ahmedabad,2024-03-31,1236,0,None,INS_EMP_02,1,0.0
+INS_00116,ORD_00116,Hydraulic Pump,Plant_Pune,2023-06-13,1154,57,Assembly Error,INS_EMP_07,0,0.0494
+INS_00117,ORD_00117,Gear Box,Plant_Pune,2023-11-25,1832,76,Surface Finish,INS_EMP_03,1,0.0415
+INS_00118,ORD_00118,Wiring Harness,Plant_Chennai,2024-01-15,1669,8,Surface Finish,INS_EMP_04,1,0.0048
+INS_00119,ORD_00119,Wiring Harness,Plant_Delhi,2024-02-24,1357,105,Surface Finish,INS_EMP_02,1,0.0774
+INS_00120,ORD_00120,Hydraulic Pump,Plant_Ahmedabad,2023-12-24,503,1,Functional,INS_EMP_09,0,0.002
+INS_00121,ORD_00121,Control Panel,Plant_Pune,2023-02-20,673,39,Dimensional,INS_EMP_07,0,0.0579
+INS_00122,ORD_00122,Suspension Unit,Plant_Pune,2024-02-08,1994,66,Dimensional,INS_EMP_06,0,0.0331
+INS_00123,ORD_00123,Clutch Kit,Plant_Ahmedabad,2024-06-07,885,50,Dimensional,INS_EMP_10,0,0.0565
+INS_00124,ORD_00124,Drive Shaft,Plant_Ahmedabad,2024-01-13,1454,93,Functional,INS_EMP_09,0,0.064
+INS_00125,ORD_00125,Drive Shaft,Plant_Delhi,2023-06-05,1737,59,Functional,INS_EMP_06,0,0.034
+INS_00126,ORD_00126,Clutch Kit,Plant_Pune,2023-06-06,1206,2,Functional,INS_EMP_01,0,0.0017
+INS_00127,ORD_00127,Gear Box,Plant_Chennai,2023-06-29,1894,0,None,INS_EMP_02,1,0.0
+INS_00128,ORD_00128,Suspension Unit,Plant_Chennai,2024-12-07,102,8,Assembly Error,INS_EMP_08,1,0.0784
+INS_00129,ORD_00129,Wiring Harness,Plant_Ahmedabad,2023-10-03,309,0,None,INS_EMP_02,1,0.0
+INS_00130,ORD_00130,Control Panel,Plant_Chennai,2024-09-05,975,45,Assembly Error,INS_EMP_03,1,0.0462
+INS_00131,ORD_00131,Wiring Harness,Plant_Delhi,2023-03-22,1785,66,Functional,INS_EMP_06,1,0.037
+INS_00132,ORD_00132,Control Panel,Plant_Chennai,2024-09-21,184,7,Functional,INS_EMP_01,0,0.038
+INS_00133,ORD_00133,Control Panel,Plant_Pune,2024-07-09,979,0,None,INS_EMP_06,1,0.0
+INS_00134,ORD_00134,Sensor Array,Plant_Ahmedabad,2023-09-07,744,31,Dimensional,INS_EMP_10,0,0.0417
+INS_00135,ORD_00135,Brake Assembly,Plant_Ahmedabad,2024-01-26,1456,91,Assembly Error,INS_EMP_09,0,0.0625
+INS_00136,ORD_00136,Brake Assembly,Plant_Ahmedabad,2023-06-03,172,11,Dimensional,INS_EMP_06,0,0.064
+INS_00137,ORD_00137,Clutch Kit,Plant_Pune,2023-03-06,1279,0,None,INS_EMP_02,1,0.0
+INS_00138,ORD_00138,Suspension Unit,Plant_Pune,2023-05-05,1781,138,Surface Finish,INS_EMP_08,1,0.0775
+INS_00139,ORD_00139,Drive Shaft,Plant_Pune,2024-10-20,1432,0,None,INS_EMP_07,1,0.0
+INS_00140,ORD_00140,Brake Assembly,Plant_Pune,2023-12-28,62,0,None,INS_EMP_10,1,0.0
+INS_00141,ORD_00141,Hydraulic Pump,Plant_Chennai,2024-07-06,820,0,None,INS_EMP_07,1,0.0
+INS_00142,ORD_00142,Hydraulic Pump,Plant_Ahmedabad,2023-04-01,368,0,None,INS_EMP_09,1,0.0
+INS_00143,ORD_00143,Sensor Array,Plant_Ahmedabad,2024-09-30,898,0,None,INS_EMP_03,1,0.0
+INS_00144,ORD_00144,Clutch Kit,Plant_Ahmedabad,2024-12-19,1264,0,None,INS_EMP_01,1,0.0
+INS_00145,ORD_00145,Hydraulic Pump,Plant_Chennai,2023-01-17,667,21,Functional,INS_EMP_08,0,0.0315
+INS_00146,ORD_00146,Control Panel,Plant_Chennai,2024-06-19,931,14,Assembly Error,INS_EMP_05,1,0.015
+INS_00147,ORD_00147,Suspension Unit,Plant_Ahmedabad,2023-03-01,88,3,Surface Finish,INS_EMP_07,0,0.0341
+INS_00148,ORD_00148,Gear Box,Plant_Ahmedabad,2025-01-19,905,12,Dimensional,INS_EMP_10,1,0.0133
+INS_00149,ORD_00149,Brake Assembly,Plant_Ahmedabad,2024-04-22,266,6,Functional,INS_EMP_05,0,0.0226
+INS_00150,ORD_00150,Control Panel,Plant_Pune,2023-08-28,1645,58,Surface Finish,INS_EMP_10,1,0.0353
+INS_00151,ORD_00151,Gear Box,Plant_Pune,2024-11-20,352,17,Surface Finish,INS_EMP_04,0,0.0483
+INS_00152,ORD_00152,Suspension Unit,Plant_Chennai,2024-10-23,1000,0,None,INS_EMP_02,1,0.0
+INS_00153,ORD_00153,Suspension Unit,Plant_Delhi,2024-03-31,1010,15,Surface Finish,INS_EMP_09,1,0.0149
+INS_00154,ORD_00154,Brake Assembly,Plant_Delhi,2023-03-29,995,51,Dimensional,INS_EMP_03,0,0.0513
+INS_00155,ORD_00155,Wiring Harness,Plant_Pune,2024-06-18,997,67,Surface Finish,INS_EMP_09,0,0.0672
+INS_00156,ORD_00156,Brake Assembly,Plant_Pune,2024-05-21,358,0,None,INS_EMP_09,1,0.0
+INS_00157,ORD_00157,Sensor Array,Plant_Chennai,2025-01-11,949,22,Surface Finish,INS_EMP_03,0,0.0232
+INS_00158,ORD_00158,Brake Assembly,Plant_Chennai,2024-01-06,1274,15,Dimensional,INS_EMP_01,0,0.0118
+INS_00159,ORD_00159,Gear Box,Plant_Chennai,2024-12-10,631,12,Surface Finish,INS_EMP_01,0,0.019
+INS_00160,ORD_00160,Gear Box,Plant_Delhi,2024-11-17,1927,134,Dimensional,INS_EMP_07,1,0.0695
+INS_00161,ORD_00161,Brake Assembly,Plant_Ahmedabad,2024-02-13,1671,98,Assembly Error,INS_EMP_02,0,0.0586
+INS_00162,ORD_00162,Clutch Kit,Plant_Pune,2023-02-02,682,33,Dimensional,INS_EMP_10,1,0.0484
+INS_00163,ORD_00163,Control Panel,Plant_Delhi,2023-04-02,1779,32,Assembly Error,INS_EMP_01,0,0.018
+INS_00164,ORD_00164,Gear Box,Plant_Ahmedabad,2023-06-06,821,25,Functional,INS_EMP_06,1,0.0305
+INS_00165,ORD_00165,Wiring Harness,Plant_Pune,2024-02-02,1523,37,Dimensional,INS_EMP_01,0,0.0243
+INS_00166,ORD_00166,Suspension Unit,Plant_Ahmedabad,2023-12-11,1656,0,None,INS_EMP_05,1,0.0
+INS_00167,ORD_00167,Suspension Unit,Plant_Pune,2024-02-15,1130,84,Functional,INS_EMP_04,0,0.0743
+INS_00168,ORD_00168,Brake Assembly,Plant_Chennai,2024-11-05,1840,0,None,INS_EMP_09,1,0.0
+INS_00169,ORD_00169,Clutch Kit,Plant_Ahmedabad,2023-10-24,1904,124,Dimensional,INS_EMP_05,1,0.0651
+INS_00170,ORD_00170,Sensor Array,Plant_Pune,2024-03-04,861,0,None,INS_EMP_03,1,0.0
+INS_00171,ORD_00171,Drive Shaft,Plant_Chennai,2023-05-11,1513,41,Surface Finish,INS_EMP_05,1,0.0271
+INS_00172,ORD_00172,Hydraulic Pump,Plant_Pune,2025-01-10,968,0,None,INS_EMP_06,1,0.0
+INS_00173,ORD_00173,Brake Assembly,Plant_Delhi,2024-10-04,916,5,Dimensional,INS_EMP_01,0,0.0055
+INS_00174,ORD_00174,Suspension Unit,Plant_Delhi,2024-11-13,1325,59,Dimensional,INS_EMP_07,0,0.0445
+INS_00175,ORD_00175,Clutch Kit,Plant_Ahmedabad,2023-09-30,344,12,Dimensional,INS_EMP_05,1,0.0349
+INS_00176,ORD_00176,Control Panel,Plant_Delhi,2024-07-04,188,0,None,INS_EMP_07,1,0.0
+INS_00177,ORD_00177,Sensor Array,Plant_Delhi,2023-03-09,842,10,Assembly Error,INS_EMP_06,0,0.0119
+INS_00178,ORD_00178,Gear Box,Plant_Delhi,2024-11-26,262,14,Dimensional,INS_EMP_07,1,0.0534
+INS_00179,ORD_00179,Wiring Harness,Plant_Pune,2024-01-11,1366,35,Assembly Error,INS_EMP_02,0,0.0256
+INS_00180,ORD_00180,Sensor Array,Plant_Chennai,2024-04-17,650,42,Dimensional,INS_EMP_07,1,0.0646
+INS_00181,ORD_00181,Sensor Array,Plant_Delhi,2024-07-28,568,6,Functional,INS_EMP_02,0,0.0106
+INS_00182,ORD_00182,PCB Assembly,Plant_Chennai,2023-06-05,803,1,Functional,INS_EMP_08,1,0.0012
+INS_00183,ORD_00183,PCB Assembly,Plant_Delhi,2024-12-27,802,52,Dimensional,INS_EMP_10,1,0.0648
+INS_00184,ORD_00184,Hydraulic Pump,Plant_Ahmedabad,2023-07-24,651,0,None,INS_EMP_08,1,0.0
+INS_00185,ORD_00185,Suspension Unit,Plant_Ahmedabad,2023-07-15,959,67,Dimensional,INS_EMP_10,0,0.0699
+INS_00186,ORD_00186,Drive Shaft,Plant_Pune,2023-04-11,1355,99,Functional,INS_EMP_09,0,0.0731
+INS_00187,ORD_00187,PCB Assembly,Plant_Delhi,2023-02-12,187,7,Assembly Error,INS_EMP_09,0,0.0374
+INS_00188,ORD_00188,Suspension Unit,Plant_Pune,2024-12-13,1993,142,Functional,INS_EMP_03,1,0.0712
+INS_00189,ORD_00189,Gear Box,Plant_Ahmedabad,2024-02-25,1380,0,None,INS_EMP_10,1,0.0
+INS_00190,ORD_00190,Suspension Unit,Plant_Chennai,2024-08-04,586,0,None,INS_EMP_10,1,0.0
+INS_00191,ORD_00191,Brake Assembly,Plant_Chennai,2023-05-13,1796,41,Assembly Error,INS_EMP_07,1,0.0228
+INS_00192,ORD_00192,Sensor Array,Plant_Pune,2024-08-06,644,34,Dimensional,INS_EMP_04,1,0.0528
+INS_00193,ORD_00193,Sensor Array,Plant_Ahmedabad,2023-06-02,1668,0,None,INS_EMP_09,1,0.0
+INS_00194,ORD_00194,Control Panel,Plant_Ahmedabad,2024-09-23,184,0,None,INS_EMP_10,1,0.0
+INS_00195,ORD_00195,Sensor Array,Plant_Pune,2023-03-24,699,31,Dimensional,INS_EMP_09,1,0.0443
+INS_00196,ORD_00196,Brake Assembly,Plant_Pune,2023-08-02,314,0,None,INS_EMP_02,1,0.0
+INS_00197,ORD_00197,Hydraulic Pump,Plant_Delhi,2023-06-28,1964,8,Functional,INS_EMP_06,1,0.0041
+INS_00198,ORD_00198,Brake Assembly,Plant_Pune,2024-11-01,612,24,Surface Finish,INS_EMP_08,0,0.0392
+INS_00199,ORD_00199,Suspension Unit,Plant_Delhi,2023-06-15,1399,0,None,INS_EMP_08,1,0.0
+INS_00200,ORD_00200,PCB Assembly,Plant_Delhi,2023-03-11,1629,6,Assembly Error,INS_EMP_10,0,0.0037
+INS_00201,ORD_00201,Hydraulic Pump,Plant_Ahmedabad,2023-11-16,668,2,Surface Finish,INS_EMP_02,0,0.003
+INS_00202,ORD_00202,Gear Box,Plant_Chennai,2023-06-28,901,46,Assembly Error,INS_EMP_08,0,0.0511
+INS_00203,ORD_00203,Clutch Kit,Plant_Ahmedabad,2024-02-20,1607,4,Assembly Error,INS_EMP_05,0,0.0025
+INS_00204,ORD_00204,Suspension Unit,Plant_Ahmedabad,2024-04-15,338,0,None,INS_EMP_01,1,0.0
+INS_00205,ORD_00205,Control Panel,Plant_Ahmedabad,2023-12-23,1526,0,None,INS_EMP_06,1,0.0
+INS_00206,ORD_00206,Clutch Kit,Plant_Chennai,2024-05-27,234,3,Surface Finish,INS_EMP_08,1,0.0128
+INS_00207,ORD_00207,Hydraulic Pump,Plant_Delhi,2023-11-03,1273,66,Functional,INS_EMP_06,0,0.0518
+INS_00208,ORD_00208,PCB Assembly,Plant_Delhi,2023-05-29,1539,63,Assembly Error,INS_EMP_08,1,0.0409
+INS_00209,ORD_00209,Control Panel,Plant_Chennai,2023-08-02,1183,86,Dimensional,INS_EMP_03,1,0.0727
+INS_00210,ORD_00210,Control Panel,Plant_Chennai,2023-05-09,248,13,Functional,INS_EMP_10,0,0.0524
+INS_00211,ORD_00211,Sensor Array,Plant_Ahmedabad,2024-09-27,872,13,Dimensional,INS_EMP_09,0,0.0149
+INS_00212,ORD_00212,Sensor Array,Plant_Pune,2023-06-24,1879,24,Functional,INS_EMP_10,1,0.0128
+INS_00213,ORD_00213,Suspension Unit,Plant_Chennai,2023-11-24,738,28,Surface Finish,INS_EMP_05,0,0.0379
+INS_00214,ORD_00214,Drive Shaft,Plant_Ahmedabad,2024-01-26,1429,19,Surface Finish,INS_EMP_10,1,0.0133
+INS_00215,ORD_00215,Suspension Unit,Plant_Ahmedabad,2024-08-24,1527,66,Functional,INS_EMP_10,0,0.0432
+INS_00216,ORD_00216,Sensor Array,Plant_Ahmedabad,2023-02-23,1991,14,Assembly Error,INS_EMP_05,1,0.007
+INS_00217,ORD_00217,Drive Shaft,Plant_Pune,2024-12-17,890,17,Functional,INS_EMP_02,1,0.0191
+INS_00218,ORD_00218,Wiring Harness,Plant_Chennai,2024-08-10,1406,48,Functional,INS_EMP_08,0,0.0341
+INS_00219,ORD_00219,Suspension Unit,Plant_Ahmedabad,2024-12-20,1826,112,Functional,INS_EMP_09,0,0.0613
+INS_00220,ORD_00220,Hydraulic Pump,Plant_Pune,2023-11-02,661,37,Dimensional,INS_EMP_03,0,0.056
+INS_00221,ORD_00221,Hydraulic Pump,Plant_Delhi,2024-05-20,1197,64,Functional,INS_EMP_01,0,0.0535
+INS_00222,ORD_00222,Hydraulic Pump,Plant_Delhi,2024-02-08,1726,17,Dimensional,INS_EMP_07,0,0.0098
+INS_00223,ORD_00223,Control Panel,Plant_Chennai,2024-01-07,1393,53,Functional,INS_EMP_05,0,0.038
+INS_00224,ORD_00224,Control Panel,Plant_Pune,2023-05-27,1310,22,Assembly Error,INS_EMP_04,0,0.0168
+INS_00225,ORD_00225,Drive Shaft,Plant_Pune,2023-04-29,726,55,Functional,INS_EMP_08,0,0.0758
+INS_00226,ORD_00226,Drive Shaft,Plant_Delhi,2024-05-26,458,0,None,INS_EMP_03,1,0.0
+INS_00227,ORD_00227,PCB Assembly,Plant_Pune,2024-07-27,1530,0,None,INS_EMP_10,1,0.0
+INS_00228,ORD_00228,Drive Shaft,Plant_Delhi,2024-05-30,1968,72,Functional,INS_EMP_01,0,0.0366
+INS_00229,ORD_00229,Control Panel,Plant_Ahmedabad,2024-09-15,1951,125,Dimensional,INS_EMP_09,0,0.0641
+INS_00230,ORD_00230,Hydraulic Pump,Plant_Pune,2024-05-05,444,17,Surface Finish,INS_EMP_08,0,0.0383
+INS_00231,ORD_00231,PCB Assembly,Plant_Chennai,2023-11-20,1431,18,Dimensional,INS_EMP_07,0,0.0126
+INS_00232,ORD_00232,Drive Shaft,Plant_Chennai,2024-11-22,428,24,Assembly Error,INS_EMP_01,1,0.0561
+INS_00233,ORD_00233,Drive Shaft,Plant_Chennai,2024-04-29,596,4,Dimensional,INS_EMP_06,0,0.0067
+INS_00234,ORD_00234,Hydraulic Pump,Plant_Delhi,2023-03-29,292,4,Dimensional,INS_EMP_10,1,0.0137
+INS_00235,ORD_00235,Suspension Unit,Plant_Chennai,2024-10-01,498,12,Dimensional,INS_EMP_08,0,0.0241
+INS_00236,ORD_00236,Suspension Unit,Plant_Delhi,2024-05-24,1150,41,Dimensional,INS_EMP_03,1,0.0357
+INS_00237,ORD_00237,Control Panel,Plant_Pune,2024-07-19,790,48,Dimensional,INS_EMP_01,1,0.0608
+INS_00238,ORD_00238,Suspension Unit,Plant_Ahmedabad,2023-06-11,721,53,Surface Finish,INS_EMP_08,0,0.0735
+INS_00239,ORD_00239,Suspension Unit,Plant_Delhi,2024-04-29,163,0,None,INS_EMP_03,1,0.0
+INS_00240,ORD_00240,Clutch Kit,Plant_Delhi,2024-12-17,681,3,Surface Finish,INS_EMP_01,1,0.0044
+INS_00241,ORD_00241,Wiring Harness,Plant_Delhi,2024-01-13,180,13,Dimensional,INS_EMP_07,1,0.0722
+INS_00242,ORD_00242,Sensor Array,Plant_Ahmedabad,2023-07-31,327,1,Dimensional,INS_EMP_08,1,0.0031
+INS_00243,ORD_00243,Sensor Array,Plant_Delhi,2024-01-25,1448,113,Dimensional,INS_EMP_09,1,0.078
+INS_00244,ORD_00244,Drive Shaft,Plant_Chennai,2024-02-26,310,0,None,INS_EMP_06,1,0.0
+INS_00245,ORD_00245,Gear Box,Plant_Chennai,2024-03-30,826,30,Functional,INS_EMP_03,1,0.0363
+INS_00246,ORD_00246,Clutch Kit,Plant_Pune,2023-03-02,1402,76,Assembly Error,INS_EMP_09,0,0.0542
+INS_00247,ORD_00247,Clutch Kit,Plant_Delhi,2024-09-04,964,45,Assembly Error,INS_EMP_03,1,0.0467
+INS_00248,ORD_00248,Control Panel,Plant_Chennai,2023-09-17,494,31,Functional,INS_EMP_02,1,0.0628
+INS_00249,ORD_00249,Hydraulic Pump,Plant_Pune,2023-12-14,1274,80,Dimensional,INS_EMP_09,0,0.0628
+INS_00250,ORD_00250,PCB Assembly,Plant_Ahmedabad,2024-03-11,613,13,Assembly Error,INS_EMP_05,0,0.0212
+INS_00251,ORD_00251,PCB Assembly,Plant_Pune,2024-11-13,830,10,Surface Finish,INS_EMP_01,1,0.012
+INS_00252,ORD_00252,Gear Box,Plant_Ahmedabad,2023-08-04,1151,6,Functional,INS_EMP_03,1,0.0052
+INS_00253,ORD_00253,Clutch Kit,Plant_Chennai,2024-03-14,1191,0,None,INS_EMP_10,1,0.0
+INS_00254,ORD_00254,PCB Assembly,Plant_Delhi,2024-01-20,1146,29,Assembly Error,INS_EMP_03,0,0.0253
+INS_00255,ORD_00255,Hydraulic Pump,Plant_Delhi,2024-09-19,1425,38,Assembly Error,INS_EMP_04,1,0.0267
+INS_00256,ORD_00256,Clutch Kit,Plant_Ahmedabad,2023-05-27,1594,33,Assembly Error,INS_EMP_09,0,0.0207
+INS_00257,ORD_00257,Hydraulic Pump,Plant_Chennai,2023-12-23,629,10,Functional,INS_EMP_07,0,0.0159
+INS_00258,ORD_00258,Clutch Kit,Plant_Chennai,2024-06-10,251,9,Assembly Error,INS_EMP_09,1,0.0359
+INS_00259,ORD_00259,Control Panel,Plant_Ahmedabad,2023-03-09,1819,110,Dimensional,INS_EMP_08,0,0.0605
+INS_00260,ORD_00260,Control Panel,Plant_Chennai,2023-08-02,521,0,None,INS_EMP_09,1,0.0
+INS_00261,ORD_00261,Gear Box,Plant_Pune,2024-11-14,1054,33,Surface Finish,INS_EMP_05,0,0.0313
+INS_00262,ORD_00262,Drive Shaft,Plant_Delhi,2023-07-28,1364,0,None,INS_EMP_05,1,0.0
+INS_00263,ORD_00263,Wiring Harness,Plant_Chennai,2024-10-17,189,6,Surface Finish,INS_EMP_04,1,0.0317
+INS_00264,ORD_00264,Drive Shaft,Plant_Delhi,2024-11-08,1962,104,Functional,INS_EMP_03,0,0.053
+INS_00265,ORD_00265,Drive Shaft,Plant_Ahmedabad,2024-02-29,84,3,Functional,INS_EMP_01,1,0.0357
+INS_00266,ORD_00266,Sensor Array,Plant_Chennai,2023-04-28,354,9,Assembly Error,INS_EMP_01,1,0.0254
+INS_00267,ORD_00267,Hydraulic Pump,Plant_Delhi,2024-02-02,990,58,Functional,INS_EMP_10,1,0.0586
+INS_00268,ORD_00268,Gear Box,Plant_Delhi,2024-03-06,822,11,Functional,INS_EMP_06,1,0.0134
+INS_00269,ORD_00269,Control Panel,Plant_Delhi,2024-11-19,728,14,Surface Finish,INS_EMP_10,0,0.0192
+INS_00270,ORD_00270,Control Panel,Plant_Delhi,2024-12-30,1023,77,Dimensional,INS_EMP_01,1,0.0753
+INS_00271,ORD_00271,Brake Assembly,Plant_Chennai,2023-01-26,1252,14,Functional,INS_EMP_01,1,0.0112
+INS_00272,ORD_00272,Sensor Array,Plant_Ahmedabad,2023-09-25,1759,8,Functional,INS_EMP_10,0,0.0045
+INS_00273,ORD_00273,Sensor Array,Plant_Ahmedabad,2024-06-22,758,7,Surface Finish,INS_EMP_02,0,0.0092
+INS_00274,ORD_00274,Control Panel,Plant_Ahmedabad,2024-10-22,1654,130,Assembly Error,INS_EMP_07,0,0.0786
+INS_00275,ORD_00275,Clutch Kit,Plant_Delhi,2024-12-18,1403,0,None,INS_EMP_01,1,0.0
+INS_00276,ORD_00276,Sensor Array,Plant_Chennai,2023-06-22,1507,43,Surface Finish,INS_EMP_05,1,0.0285
+INS_00277,ORD_00277,Brake Assembly,Plant_Pune,2023-01-18,960,7,Assembly Error,INS_EMP_03,0,0.0073
+INS_00278,ORD_00278,Control Panel,Plant_Delhi,2024-08-13,1099,52,Dimensional,INS_EMP_10,1,0.0473
+INS_00279,ORD_00279,Control Panel,Plant_Pune,2023-12-29,838,41,Surface Finish,INS_EMP_05,0,0.0489
+INS_00280,ORD_00280,Wiring Harness,Plant_Pune,2023-07-17,829,1,Surface Finish,INS_EMP_02,0,0.0012
+INS_00281,ORD_00281,Hydraulic Pump,Plant_Pune,2024-04-01,912,57,Surface Finish,INS_EMP_06,1,0.0625
+INS_00282,ORD_00282,Sensor Array,Plant_Ahmedabad,2024-10-02,987,2,Dimensional,INS_EMP_03,1,0.002
+INS_00283,ORD_00283,Gear Box,Plant_Chennai,2023-12-25,1720,21,Dimensional,INS_EMP_06,0,0.0122
+INS_00284,ORD_00284,Hydraulic Pump,Plant_Ahmedabad,2024-12-21,1031,28,Functional,INS_EMP_03,1,0.0272
+INS_00285,ORD_00285,Suspension Unit,Plant_Pune,2023-12-15,624,0,None,INS_EMP_05,1,0.0
+INS_00286,ORD_00286,Clutch Kit,Plant_Ahmedabad,2023-07-28,1622,87,Assembly Error,INS_EMP_01,1,0.0536
+INS_00287,ORD_00287,Gear Box,Plant_Ahmedabad,2024-03-18,1072,6,Functional,INS_EMP_08,0,0.0056
+INS_00288,ORD_00288,Control Panel,Plant_Delhi,2024-04-26,1031,25,Assembly Error,INS_EMP_03,1,0.0242
+INS_00289,ORD_00289,Gear Box,Plant_Delhi,2024-09-23,1922,0,None,INS_EMP_09,1,0.0
+INS_00290,ORD_00290,Control Panel,Plant_Pune,2024-01-03,931,46,Dimensional,INS_EMP_10,1,0.0494
+INS_00291,ORD_00291,Sensor Array,Plant_Delhi,2024-02-22,1631,60,Dimensional,INS_EMP_02,0,0.0368
+INS_00292,ORD_00292,Sensor Array,Plant_Chennai,2023-11-15,1935,101,Dimensional,INS_EMP_05,0,0.0522
+INS_00293,ORD_00293,Sensor Array,Plant_Delhi,2023-08-19,1039,2,Functional,INS_EMP_04,0,0.0019
+INS_00294,ORD_00294,Clutch Kit,Plant_Pune,2025-01-03,96,3,Dimensional,INS_EMP_06,0,0.0312
+INS_00295,ORD_00295,Gear Box,Plant_Pune,2023-12-25,923,28,Dimensional,INS_EMP_07,0,0.0303
+INS_00296,ORD_00296,PCB Assembly,Plant_Delhi,2023-02-25,1307,0,None,INS_EMP_10,1,0.0
+INS_00297,ORD_00297,Control Panel,Plant_Pune,2023-11-09,1491,9,Functional,INS_EMP_02,1,0.006
+INS_00298,ORD_00298,Sensor Array,Plant_Ahmedabad,2023-08-07,283,0,None,INS_EMP_02,1,0.0
+INS_00299,ORD_00299,Hydraulic Pump,Plant_Delhi,2024-08-30,762,42,Surface Finish,INS_EMP_06,0,0.0551
+INS_00300,ORD_00300,Control Panel,Plant_Ahmedabad,2023-05-11,675,0,None,INS_EMP_06,1,0.0
+INS_00301,ORD_00301,Gear Box,Plant_Pune,2023-06-12,835,32,Functional,INS_EMP_06,1,0.0383
+INS_00302,ORD_00302,Drive Shaft,Plant_Ahmedabad,2023-06-01,694,3,Surface Finish,INS_EMP_06,1,0.0043
+INS_00303,ORD_00303,PCB Assembly,Plant_Ahmedabad,2024-02-18,1085,5,Dimensional,INS_EMP_01,1,0.0046
+INS_00304,ORD_00304,Hydraulic Pump,Plant_Pune,2023-04-16,113,1,Assembly Error,INS_EMP_01,1,0.0088
+INS_00305,ORD_00305,Control Panel,Plant_Delhi,2023-07-19,986,0,None,INS_EMP_07,1,0.0
+INS_00306,ORD_00306,Wiring Harness,Plant_Pune,2023-10-29,1162,0,None,INS_EMP_01,1,0.0
+INS_00307,ORD_00307,Hydraulic Pump,Plant_Chennai,2024-11-27,556,35,Dimensional,INS_EMP_07,1,0.0629
+INS_00308,ORD_00308,Sensor Array,Plant_Ahmedabad,2023-05-28,1712,68,Assembly Error,INS_EMP_01,0,0.0397
+INS_00309,ORD_00309,Sensor Array,Plant_Chennai,2023-06-20,473,33,Assembly Error,INS_EMP_05,0,0.0698
+INS_00310,ORD_00310,Brake Assembly,Plant_Pune,2023-07-05,1491,85,Surface Finish,INS_EMP_04,1,0.057
+INS_00311,ORD_00311,Gear Box,Plant_Chennai,2023-11-10,1393,75,Functional,INS_EMP_06,0,0.0538
+INS_00312,ORD_00312,Wiring Harness,Plant_Delhi,2024-05-23,1232,1,Dimensional,INS_EMP_07,1,0.0008
+INS_00313,ORD_00313,Wiring Harness,Plant_Chennai,2024-07-07,619,25,Assembly Error,INS_EMP_03,1,0.0404
+INS_00314,ORD_00314,Control Panel,Plant_Ahmedabad,2023-05-02,988,2,Functional,INS_EMP_04,0,0.002
+INS_00315,ORD_00315,Suspension Unit,Plant_Pune,2023-08-23,599,1,Functional,INS_EMP_02,1,0.0017
+INS_00316,ORD_00316,Drive Shaft,Plant_Delhi,2024-01-11,1611,98,Surface Finish,INS_EMP_06,1,0.0608
+INS_00317,ORD_00317,Hydraulic Pump,Plant_Pune,2024-04-15,926,51,Surface Finish,INS_EMP_03,1,0.0551
+INS_00318,ORD_00318,Drive Shaft,Plant_Ahmedabad,2024-11-15,562,30,Dimensional,INS_EMP_09,1,0.0534
+INS_00319,ORD_00319,Brake Assembly,Plant_Pune,2024-04-07,236,2,Surface Finish,INS_EMP_03,0,0.0085
+INS_00320,ORD_00320,PCB Assembly,Plant_Pune,2024-07-09,961,29,Surface Finish,INS_EMP_05,1,0.0302
+INS_00321,ORD_00321,Sensor Array,Plant_Chennai,2023-09-07,232,3,Dimensional,INS_EMP_01,0,0.0129
+INS_00322,ORD_00322,Suspension Unit,Plant_Pune,2023-06-09,1436,0,None,INS_EMP_01,1,0.0
+INS_00323,ORD_00323,Clutch Kit,Plant_Delhi,2023-08-30,1582,108,Assembly Error,INS_EMP_01,1,0.0683
+INS_00324,ORD_00324,Gear Box,Plant_Pune,2023-05-28,1545,1,Surface Finish,INS_EMP_09,1,0.0006
+INS_00325,ORD_00325,Hydraulic Pump,Plant_Pune,2023-10-02,1280,0,None,INS_EMP_05,1,0.0
+INS_00326,ORD_00326,Wiring Harness,Plant_Ahmedabad,2024-06-14,1581,2,Surface Finish,INS_EMP_03,0,0.0013
+INS_00327,ORD_00327,Sensor Array,Plant_Chennai,2024-06-18,1266,50,Dimensional,INS_EMP_07,1,0.0395
+INS_00328,ORD_00328,Brake Assembly,Plant_Delhi,2024-08-21,798,51,Surface Finish,INS_EMP_03,0,0.0639
+INS_00329,ORD_00329,Control Panel,Plant_Chennai,2023-01-26,491,22,Functional,INS_EMP_08,1,0.0448
+INS_00330,ORD_00330,Gear Box,Plant_Chennai,2024-04-03,873,0,None,INS_EMP_09,1,0.0
+INS_00331,ORD_00331,Sensor Array,Plant_Ahmedabad,2023-04-10,1936,0,None,INS_EMP_08,1,0.0
+INS_00332,ORD_00332,Clutch Kit,Plant_Delhi,2023-12-09,945,73,Functional,INS_EMP_03,0,0.0772
+INS_00333,ORD_00333,Brake Assembly,Plant_Delhi,2024-05-01,1296,76,Surface Finish,INS_EMP_10,1,0.0586
+INS_00334,ORD_00334,Gear Box,Plant_Chennai,2023-07-05,760,11,Functional,INS_EMP_07,0,0.0145
+INS_00335,ORD_00335,Control Panel,Plant_Delhi,2023-05-28,1892,62,Surface Finish,INS_EMP_07,0,0.0328
+INS_00336,ORD_00336,Suspension Unit,Plant_Pune,2024-10-09,1066,19,Dimensional,INS_EMP_08,1,0.0178
+INS_00337,ORD_00337,Clutch Kit,Plant_Delhi,2023-10-16,260,17,Functional,INS_EMP_03,0,0.0654
+INS_00338,ORD_00338,Drive Shaft,Plant_Ahmedabad,2023-09-12,1016,60,Functional,INS_EMP_08,0,0.0591
+INS_00339,ORD_00339,Suspension Unit,Plant_Chennai,2023-09-28,1925,0,None,INS_EMP_03,1,0.0
+INS_00340,ORD_00340,PCB Assembly,Plant_Delhi,2024-11-24,417,29,Dimensional,INS_EMP_02,0,0.0695
+INS_00341,ORD_00341,Hydraulic Pump,Plant_Chennai,2023-11-28,226,6,Functional,INS_EMP_04,0,0.0265
+INS_00342,ORD_00342,Control Panel,Plant_Pune,2024-05-04,1261,25,Surface Finish,INS_EMP_07,0,0.0198
+INS_00343,ORD_00343,Sensor Array,Plant_Delhi,2024-02-27,527,42,Dimensional,INS_EMP_10,0,0.0797
+INS_00344,ORD_00344,Gear Box,Plant_Chennai,2023-04-26,1135,46,Dimensional,INS_EMP_09,0,0.0405
+INS_00345,ORD_00345,Brake Assembly,Plant_Delhi,2023-09-25,1114,0,None,INS_EMP_10,1,0.0
+INS_00346,ORD_00346,Gear Box,Plant_Pune,2024-11-12,857,1,Assembly Error,INS_EMP_06,0,0.0012
+INS_00347,ORD_00347,Wiring Harness,Plant_Chennai,2023-12-17,854,14,Assembly Error,INS_EMP_02,1,0.0164
+INS_00348,ORD_00348,Gear Box,Plant_Ahmedabad,2023-08-03,1647,96,Surface Finish,INS_EMP_06,0,0.0583
+INS_00349,ORD_00349,Hydraulic Pump,Plant_Ahmedabad,2024-02-27,1147,0,None,INS_EMP_06,1,0.0
+INS_00350,ORD_00350,Drive Shaft,Plant_Pune,2023-04-11,1703,0,None,INS_EMP_08,1,0.0
+INS_00351,ORD_00351,Hydraulic Pump,Plant_Chennai,2023-04-29,558,11,Assembly Error,INS_EMP_02,1,0.0197
+INS_00352,ORD_00352,Wiring Harness,Plant_Delhi,2024-03-20,976,0,None,INS_EMP_09,1,0.0
+INS_00353,ORD_00353,PCB Assembly,Plant_Chennai,2023-01-17,1750,13,Dimensional,INS_EMP_06,0,0.0074
+INS_00354,ORD_00354,Clutch Kit,Plant_Ahmedabad,2024-09-03,1928,137,Assembly Error,INS_EMP_10,0,0.0711
+INS_00355,ORD_00355,PCB Assembly,Plant_Ahmedabad,2023-12-12,137,9,Dimensional,INS_EMP_07,0,0.0657
+INS_00356,ORD_00356,Hydraulic Pump,Plant_Chennai,2024-02-20,923,0,None,INS_EMP_10,1,0.0
+INS_00357,ORD_00357,PCB Assembly,Plant_Ahmedabad,2023-02-27,1318,23,Assembly Error,INS_EMP_09,1,0.0175
+INS_00358,ORD_00358,Clutch Kit,Plant_Delhi,2023-10-29,331,10,Functional,INS_EMP_01,0,0.0302
+INS_00359,ORD_00359,Sensor Array,Plant_Ahmedabad,2024-05-26,1650,0,None,INS_EMP_03,1,0.0
+INS_00360,ORD_00360,Drive Shaft,Plant_Ahmedabad,2023-02-09,1272,93,Surface Finish,INS_EMP_08,0,0.0731
+INS_00361,ORD_00361,Control Panel,Plant_Delhi,2024-08-31,376,2,Dimensional,INS_EMP_03,0,0.0053
+INS_00362,ORD_00362,Clutch Kit,Plant_Chennai,2024-02-16,1965,0,None,INS_EMP_05,1,0.0
+INS_00363,ORD_00363,Suspension Unit,Plant_Pune,2023-02-23,1484,0,None,INS_EMP_03,1,0.0
+INS_00364,ORD_00364,Clutch Kit,Plant_Delhi,2023-11-21,1054,18,Surface Finish,INS_EMP_03,0,0.0171
+INS_00365,ORD_00365,Gear Box,Plant_Chennai,2023-01-14,1929,23,Functional,INS_EMP_05,1,0.0119
+INS_00366,ORD_00366,Sensor Array,Plant_Delhi,2023-06-22,1493,36,Assembly Error,INS_EMP_04,0,0.0241
+INS_00367,ORD_00367,PCB Assembly,Plant_Ahmedabad,2024-08-29,739,0,None,INS_EMP_02,1,0.0
+INS_00368,ORD_00368,Clutch Kit,Plant_Pune,2025-01-14,1470,54,Dimensional,INS_EMP_06,0,0.0367
+INS_00369,ORD_00369,PCB Assembly,Plant_Delhi,2024-12-18,310,22,Dimensional,INS_EMP_03,0,0.071
+INS_00370,ORD_00370,Gear Box,Plant_Chennai,2023-12-20,1302,5,Surface Finish,INS_EMP_04,0,0.0038
+INS_00371,ORD_00371,Wiring Harness,Plant_Delhi,2024-01-04,393,30,Functional,INS_EMP_03,0,0.0763
+INS_00372,ORD_00372,Drive Shaft,Plant_Ahmedabad,2023-10-08,188,3,Surface Finish,INS_EMP_08,1,0.016
+INS_00373,ORD_00373,Brake Assembly,Plant_Ahmedabad,2023-07-06,1059,17,Functional,INS_EMP_02,0,0.0161
+INS_00374,ORD_00374,Sensor Array,Plant_Chennai,2023-07-03,200,7,Functional,INS_EMP_01,0,0.035
+INS_00375,ORD_00375,Brake Assembly,Plant_Chennai,2023-12-25,1868,0,None,INS_EMP_02,1,0.0
+INS_00376,ORD_00376,PCB Assembly,Plant_Pune,2024-06-03,113,6,Assembly Error,INS_EMP_01,1,0.0531
+INS_00377,ORD_00377,Hydraulic Pump,Plant_Chennai,2023-12-15,439,26,Functional,INS_EMP_04,0,0.0592
+INS_00378,ORD_00378,Drive Shaft,Plant_Chennai,2023-04-13,854,45,Dimensional,INS_EMP_10,0,0.0527
+INS_00379,ORD_00379,Brake Assembly,Plant_Delhi,2023-04-12,1737,117,Assembly Error,INS_EMP_08,1,0.0674
+INS_00380,ORD_00380,Wiring Harness,Plant_Ahmedabad,2024-10-27,217,4,Assembly Error,INS_EMP_10,0,0.0184
+INS_00381,ORD_00381,Gear Box,Plant_Ahmedabad,2024-11-08,843,10,Surface Finish,INS_EMP_01,0,0.0119
+INS_00382,ORD_00382,Gear Box,Plant_Delhi,2024-04-12,589,0,None,INS_EMP_02,1,0.0
+INS_00383,ORD_00383,Control Panel,Plant_Ahmedabad,2024-07-24,1599,88,Assembly Error,INS_EMP_02,1,0.055
+INS_00384,ORD_00384,Control Panel,Plant_Pune,2024-08-19,1025,49,Functional,INS_EMP_10,0,0.0478
+INS_00385,ORD_00385,Brake Assembly,Plant_Ahmedabad,2023-07-05,483,38,Surface Finish,INS_EMP_09,0,0.0787
+INS_00386,ORD_00386,Brake Assembly,Plant_Ahmedabad,2024-09-12,704,51,Dimensional,INS_EMP_01,1,0.0724
+INS_00387,ORD_00387,Suspension Unit,Plant_Ahmedabad,2024-08-01,1804,139,Surface Finish,INS_EMP_05,0,0.0771
+INS_00388,ORD_00388,Brake Assembly,Plant_Delhi,2023-06-10,1210,0,None,INS_EMP_07,1,0.0
+INS_00389,ORD_00389,Wiring Harness,Plant_Delhi,2024-01-04,590,11,Assembly Error,INS_EMP_03,0,0.0186
+INS_00390,ORD_00390,PCB Assembly,Plant_Chennai,2024-02-24,1316,16,Surface Finish,INS_EMP_07,1,0.0122
+INS_00391,ORD_00391,Hydraulic Pump,Plant_Chennai,2024-05-12,1887,129,Dimensional,INS_EMP_01,1,0.0684
+INS_00392,ORD_00392,Hydraulic Pump,Plant_Ahmedabad,2023-08-29,665,36,Assembly Error,INS_EMP_06,1,0.0541
+INS_00393,ORD_00393,Control Panel,Plant_Chennai,2023-07-29,482,30,Assembly Error,INS_EMP_01,1,0.0622
+INS_00394,ORD_00394,Suspension Unit,Plant_Delhi,2023-06-17,687,45,Surface Finish,INS_EMP_07,0,0.0655
+INS_00395,ORD_00395,Clutch Kit,Plant_Chennai,2023-08-23,168,10,Dimensional,INS_EMP_09,1,0.0595
+INS_00396,ORD_00396,Sensor Array,Plant_Ahmedabad,2024-06-16,1351,47,Functional,INS_EMP_01,1,0.0348
+INS_00397,ORD_00397,Hydraulic Pump,Plant_Delhi,2023-07-31,1021,0,None,INS_EMP_05,1,0.0
+INS_00398,ORD_00398,Clutch Kit,Plant_Pune,2024-02-04,383,10,Functional,INS_EMP_01,1,0.0261
+INS_00399,ORD_00399,Wiring Harness,Plant_Pune,2024-11-14,1101,51,Assembly Error,INS_EMP_04,1,0.0463
+INS_00400,ORD_00400,PCB Assembly,Plant_Ahmedabad,2023-01-19,566,0,None,INS_EMP_04,1,0.0
+INS_00401,ORD_00401,PCB Assembly,Plant_Delhi,2023-09-25,1005,73,Surface Finish,INS_EMP_07,1,0.0726
+INS_00402,ORD_00402,Hydraulic Pump,Plant_Chennai,2024-12-08,1769,78,Dimensional,INS_EMP_10,1,0.0441
+INS_00403,ORD_00403,Hydraulic Pump,Plant_Pune,2023-03-20,616,30,Surface Finish,INS_EMP_04,0,0.0487
+INS_00404,ORD_00404,Sensor Array,Plant_Pune,2023-09-08,1699,99,Surface Finish,INS_EMP_03,1,0.0583
+INS_00405,ORD_00405,Suspension Unit,Plant_Pune,2023-11-10,1907,23,Dimensional,INS_EMP_05,0,0.0121
+INS_00406,ORD_00406,Control Panel,Plant_Chennai,2024-12-23,1357,28,Functional,INS_EMP_07,0,0.0206
+INS_00407,ORD_00407,Gear Box,Plant_Chennai,2023-07-17,249,18,Functional,INS_EMP_06,1,0.0723
+INS_00408,ORD_00408,Sensor Array,Plant_Chennai,2024-01-09,1574,13,Surface Finish,INS_EMP_09,0,0.0083
+INS_00409,ORD_00409,Suspension Unit,Plant_Delhi,2024-05-19,291,0,None,INS_EMP_08,1,0.0
+INS_00410,ORD_00410,Drive Shaft,Plant_Pune,2024-06-02,1826,0,None,INS_EMP_10,1,0.0
+INS_00411,ORD_00411,Sensor Array,Plant_Pune,2024-01-02,1216,95,Dimensional,INS_EMP_10,1,0.0781
+INS_00412,ORD_00412,Hydraulic Pump,Plant_Pune,2023-12-30,412,16,Surface Finish,INS_EMP_05,0,0.0388
+INS_00413,ORD_00413,PCB Assembly,Plant_Ahmedabad,2023-06-30,1658,0,None,INS_EMP_10,1,0.0
+INS_00414,ORD_00414,Drive Shaft,Plant_Chennai,2024-05-18,59,3,Assembly Error,INS_EMP_04,0,0.0508
+INS_00415,ORD_00415,Hydraulic Pump,Plant_Pune,2023-02-12,58,0,None,INS_EMP_06,1,0.0
+INS_00416,ORD_00416,Hydraulic Pump,Plant_Ahmedabad,2024-06-20,676,9,Surface Finish,INS_EMP_05,1,0.0133
+INS_00417,ORD_00417,Wiring Harness,Plant_Chennai,2024-07-03,938,47,Surface Finish,INS_EMP_01,1,0.0501
+INS_00418,ORD_00418,Drive Shaft,Plant_Pune,2024-02-21,517,0,None,INS_EMP_04,1,0.0
+INS_00419,ORD_00419,Control Panel,Plant_Delhi,2025-01-21,1672,63,Surface Finish,INS_EMP_05,0,0.0377
+INS_00420,ORD_00420,PCB Assembly,Plant_Ahmedabad,2024-11-14,1388,104,Dimensional,INS_EMP_04,0,0.0749
+INS_00421,ORD_00421,Hydraulic Pump,Plant_Ahmedabad,2024-07-25,1021,47,Dimensional,INS_EMP_09,1,0.046
+INS_00422,ORD_00422,Control Panel,Plant_Delhi,2023-10-26,1290,4,Assembly Error,INS_EMP_06,1,0.0031
+INS_00423,ORD_00423,Clutch Kit,Plant_Chennai,2023-05-07,456,30,Functional,INS_EMP_07,1,0.0658
+INS_00424,ORD_00424,Sensor Array,Plant_Pune,2023-06-18,1172,43,Assembly Error,INS_EMP_08,1,0.0367
+INS_00425,ORD_00425,Gear Box,Plant_Delhi,2024-11-23,1907,0,None,INS_EMP_05,1,0.0
+INS_00426,ORD_00426,Hydraulic Pump,Plant_Ahmedabad,2023-04-25,1369,26,Functional,INS_EMP_06,0,0.019
+INS_00427,ORD_00427,PCB Assembly,Plant_Delhi,2023-07-28,130,6,Assembly Error,INS_EMP_10,1,0.0462
+INS_00428,ORD_00428,Wiring Harness,Plant_Chennai,2023-02-09,333,13,Functional,INS_EMP_07,1,0.039
+INS_00429,ORD_00429,PCB Assembly,Plant_Ahmedabad,2023-12-25,283,14,Dimensional,INS_EMP_04,1,0.0495
+INS_00430,ORD_00430,Brake Assembly,Plant_Ahmedabad,2023-05-03,1475,11,Surface Finish,INS_EMP_03,1,0.0075
+INS_00431,ORD_00431,Suspension Unit,Plant_Delhi,2024-08-29,947,48,Functional,INS_EMP_01,0,0.0507
+INS_00432,ORD_00432,Sensor Array,Plant_Delhi,2024-05-20,1867,0,None,INS_EMP_06,1,0.0
+INS_00433,ORD_00433,Brake Assembly,Plant_Ahmedabad,2024-08-11,1421,0,None,INS_EMP_05,1,0.0
+INS_00434,ORD_00434,Suspension Unit,Plant_Delhi,2024-01-14,1435,0,None,INS_EMP_02,1,0.0
+INS_00435,ORD_00435,Wiring Harness,Plant_Chennai,2024-07-01,1011,24,Functional,INS_EMP_07,0,0.0237
+INS_00436,ORD_00436,Clutch Kit,Plant_Delhi,2023-10-16,1088,48,Functional,INS_EMP_10,1,0.0441
+INS_00437,ORD_00437,Wiring Harness,Plant_Delhi,2024-08-26,230,10,Assembly Error,INS_EMP_08,0,0.0435
+INS_00438,ORD_00438,Suspension Unit,Plant_Chennai,2024-03-02,1191,31,Dimensional,INS_EMP_01,1,0.026
+INS_00439,ORD_00439,Clutch Kit,Plant_Ahmedabad,2023-08-23,1425,18,Functional,INS_EMP_04,1,0.0126
+INS_00440,ORD_00440,Brake Assembly,Plant_Delhi,2024-10-18,1018,0,None,INS_EMP_02,1,0.0
+INS_00441,ORD_00441,Control Panel,Plant_Chennai,2023-12-30,1749,47,Functional,INS_EMP_07,0,0.0269
+INS_00442,ORD_00442,Brake Assembly,Plant_Chennai,2023-07-06,337,2,Functional,INS_EMP_05,0,0.0059
+INS_00443,ORD_00443,Sensor Array,Plant_Delhi,2023-07-18,1955,41,Surface Finish,INS_EMP_07,0,0.021
+INS_00444,ORD_00444,Wiring Harness,Plant_Pune,2024-11-08,1426,100,Functional,INS_EMP_06,1,0.0701
+INS_00445,ORD_00445,Wiring Harness,Plant_Pune,2024-07-23,149,1,Surface Finish,INS_EMP_08,1,0.0067
+INS_00446,ORD_00446,Control Panel,Plant_Ahmedabad,2023-05-18,843,59,Surface Finish,INS_EMP_04,0,0.07
+INS_00447,ORD_00447,Wiring Harness,Plant_Pune,2025-01-06,558,2,Dimensional,INS_EMP_09,0,0.0036
+INS_00448,ORD_00448,Sensor Array,Plant_Pune,2024-10-03,1865,136,Assembly Error,INS_EMP_06,0,0.0729
+INS_00449,ORD_00449,Gear Box,Plant_Chennai,2024-10-26,645,8,Surface Finish,INS_EMP_02,1,0.0124
+INS_00450,ORD_00450,Control Panel,Plant_Chennai,2024-08-16,1243,0,None,INS_EMP_08,1,0.0
+INS_00451,ORD_00451,Clutch Kit,Plant_Chennai,2024-06-25,101,5,Dimensional,INS_EMP_06,0,0.0495
+INS_00452,ORD_00452,Clutch Kit,Plant_Delhi,2024-12-11,349,12,Surface Finish,INS_EMP_05,0,0.0344
+INS_00453,ORD_00453,Control Panel,Plant_Ahmedabad,2023-05-07,1827,130,Assembly Error,INS_EMP_08,1,0.0712
+INS_00454,ORD_00454,PCB Assembly,Plant_Chennai,2024-12-25,1469,109,Functional,INS_EMP_08,0,0.0742
+INS_00455,ORD_00455,Clutch Kit,Plant_Chennai,2023-02-09,564,32,Dimensional,INS_EMP_04,0,0.0567
+INS_00456,ORD_00456,Gear Box,Plant_Delhi,2024-09-18,1639,106,Dimensional,INS_EMP_06,0,0.0647
+INS_00457,ORD_00457,Gear Box,Plant_Pune,2024-06-16,822,57,Surface Finish,INS_EMP_08,1,0.0693
+INS_00458,ORD_00458,Sensor Array,Plant_Delhi,2023-01-19,1005,74,Surface Finish,INS_EMP_07,1,0.0736
+INS_00459,ORD_00459,Control Panel,Plant_Pune,2024-06-14,1222,53,Functional,INS_EMP_04,0,0.0434
+INS_00460,ORD_00460,Brake Assembly,Plant_Chennai,2023-04-08,1084,1,Assembly Error,INS_EMP_02,1,0.0009
+INS_00461,ORD_00461,Control Panel,Plant_Ahmedabad,2024-11-23,728,42,Dimensional,INS_EMP_01,1,0.0577
+INS_00462,ORD_00462,Suspension Unit,Plant_Pune,2023-05-22,758,53,Surface Finish,INS_EMP_08,0,0.0699
+INS_00463,ORD_00463,Drive Shaft,Plant_Chennai,2024-02-23,1985,95,Dimensional,INS_EMP_06,0,0.0479
+INS_00464,ORD_00464,Control Panel,Plant_Delhi,2024-04-19,139,1,Dimensional,INS_EMP_03,1,0.0072
+INS_00465,ORD_00465,PCB Assembly,Plant_Delhi,2024-07-24,65,2,Surface Finish,INS_EMP_02,1,0.0308
+INS_00466,ORD_00466,Gear Box,Plant_Delhi,2025-01-15,1637,82,Surface Finish,INS_EMP_08,0,0.0501
+INS_00467,ORD_00467,Brake Assembly,Plant_Pune,2023-02-13,200,14,Dimensional,INS_EMP_01,1,0.07
+INS_00468,ORD_00468,Brake Assembly,Plant_Delhi,2024-02-19,1340,74,Surface Finish,INS_EMP_02,0,0.0552
+INS_00469,ORD_00469,Brake Assembly,Plant_Chennai,2024-08-26,1485,68,Assembly Error,INS_EMP_02,1,0.0458
+INS_00470,ORD_00470,Wiring Harness,Plant_Pune,2023-04-11,1617,9,Surface Finish,INS_EMP_04,0,0.0056
+INS_00471,ORD_00471,Gear Box,Plant_Chennai,2023-06-15,850,49,Surface Finish,INS_EMP_10,1,0.0576
+INS_00472,ORD_00472,Suspension Unit,Plant_Ahmedabad,2024-08-19,1186,91,Functional,INS_EMP_03,1,0.0767
+INS_00473,ORD_00473,Clutch Kit,Plant_Ahmedabad,2023-04-10,480,2,Surface Finish,INS_EMP_10,0,0.0042
+INS_00474,ORD_00474,Gear Box,Plant_Delhi,2023-06-22,502,0,None,INS_EMP_08,1,0.0
+INS_00475,ORD_00475,Clutch Kit,Plant_Ahmedabad,2024-11-11,199,6,Surface Finish,INS_EMP_03,1,0.0302
+INS_00476,ORD_00476,Clutch Kit,Plant_Chennai,2023-06-05,1392,0,None,INS_EMP_06,1,0.0
+INS_00477,ORD_00477,Suspension Unit,Plant_Chennai,2023-12-25,1400,31,Surface Finish,INS_EMP_03,0,0.0221
+INS_00478,ORD_00478,Hydraulic Pump,Plant_Chennai,2023-06-25,691,41,Surface Finish,INS_EMP_08,0,0.0593
+INS_00479,ORD_00479,Brake Assembly,Plant_Pune,2024-05-23,962,0,None,INS_EMP_04,1,0.0
+INS_00480,ORD_00480,Brake Assembly,Plant_Delhi,2023-11-14,1742,0,None,INS_EMP_10,1,0.0
+INS_00481,ORD_00481,Clutch Kit,Plant_Delhi,2024-10-11,1714,0,None,INS_EMP_03,1,0.0
+INS_00482,ORD_00482,Clutch Kit,Plant_Chennai,2024-07-30,1016,37,Dimensional,INS_EMP_06,1,0.0364
+INS_00483,ORD_00483,Suspension Unit,Plant_Pune,2024-06-16,235,12,Surface Finish,INS_EMP_04,0,0.0511
+INS_00484,ORD_00484,Wiring Harness,Plant_Chennai,2024-04-09,416,28,Surface Finish,INS_EMP_07,0,0.0673
+INS_00485,ORD_00485,Control Panel,Plant_Chennai,2024-05-24,178,0,None,INS_EMP_06,1,0.0
+INS_00486,ORD_00486,Hydraulic Pump,Plant_Chennai,2024-04-14,131,8,Dimensional,INS_EMP_07,0,0.0611
+INS_00487,ORD_00487,Control Panel,Plant_Chennai,2024-08-14,821,59,Dimensional,INS_EMP_01,0,0.0719
+INS_00488,ORD_00488,Suspension Unit,Plant_Delhi,2024-06-27,772,39,Assembly Error,INS_EMP_08,0,0.0505
+INS_00489,ORD_00489,Gear Box,Plant_Pune,2024-04-03,521,0,None,INS_EMP_03,1,0.0
+INS_00490,ORD_00490,Brake Assembly,Plant_Ahmedabad,2024-10-03,1723,98,Surface Finish,INS_EMP_01,0,0.0569
+INS_00491,ORD_00491,Drive Shaft,Plant_Pune,2023-08-25,380,16,Dimensional,INS_EMP_02,0,0.0421
+INS_00492,ORD_00492,Drive Shaft,Plant_Pune,2023-06-21,1339,13,Assembly Error,INS_EMP_06,0,0.0097
+INS_00493,ORD_00493,Brake Assembly,Plant_Pune,2024-06-28,1277,0,None,INS_EMP_09,1,0.0
+INS_00494,ORD_00494,Gear Box,Plant_Pune,2024-05-27,1036,12,Surface Finish,INS_EMP_08,1,0.0116
+INS_00495,ORD_00495,Suspension Unit,Plant_Delhi,2023-10-06,1533,69,Functional,INS_EMP_05,1,0.045
+INS_00496,ORD_00496,PCB Assembly,Plant_Pune,2024-02-06,272,7,Assembly Error,INS_EMP_06,1,0.0257
+INS_00497,ORD_00497,Control Panel,Plant_Delhi,2023-07-19,1896,34,Functional,INS_EMP_03,0,0.0179
+INS_00498,ORD_00498,Control Panel,Plant_Ahmedabad,2024-11-13,1897,40,Surface Finish,INS_EMP_03,0,0.0211
+INS_00499,ORD_00499,Sensor Array,Plant_Delhi,2025-01-03,928,0,None,INS_EMP_01,1,0.0
+INS_00500,ORD_00500,Suspension Unit,Plant_Ahmedabad,2023-10-06,1618,75,Dimensional,INS_EMP_05,0,0.0464
+INS_00501,ORD_00501,Control Panel,Plant_Delhi,2023-01-31,1572,72,Functional,INS_EMP_10,0,0.0458
+INS_00502,ORD_00502,Suspension Unit,Plant_Chennai,2025-01-02,696,12,Surface Finish,INS_EMP_06,1,0.0172
+INS_00503,ORD_00503,Clutch Kit,Plant_Ahmedabad,2024-03-30,798,25,Dimensional,INS_EMP_03,1,0.0313
+INS_00504,ORD_00504,Suspension Unit,Plant_Chennai,2024-05-17,808,48,Surface Finish,INS_EMP_01,1,0.0594
+INS_00505,ORD_00505,Brake Assembly,Plant_Pune,2024-11-12,1581,107,Surface Finish,INS_EMP_08,0,0.0677
+INS_00506,ORD_00506,Gear Box,Plant_Ahmedabad,2024-01-10,1177,83,Dimensional,INS_EMP_02,0,0.0705
+INS_00507,ORD_00507,Clutch Kit,Plant_Chennai,2023-06-16,1946,102,Functional,INS_EMP_08,1,0.0524
+INS_00508,ORD_00508,Hydraulic Pump,Plant_Delhi,2023-03-06,837,31,Dimensional,INS_EMP_01,1,0.037
+INS_00509,ORD_00509,Hydraulic Pump,Plant_Pune,2024-03-28,463,15,Functional,INS_EMP_09,1,0.0324
+INS_00510,ORD_00510,Sensor Array,Plant_Pune,2024-06-25,1480,84,Dimensional,INS_EMP_09,1,0.0568
+INS_00511,ORD_00511,Suspension Unit,Plant_Pune,2023-04-10,1646,4,Surface Finish,INS_EMP_02,0,0.0024
+INS_00512,ORD_00512,Suspension Unit,Plant_Chennai,2024-12-26,1932,45,Assembly Error,INS_EMP_07,0,0.0233
+INS_00513,ORD_00513,Hydraulic Pump,Plant_Pune,2023-09-11,448,0,None,INS_EMP_05,1,0.0
+INS_00514,ORD_00514,Control Panel,Plant_Chennai,2023-05-10,198,4,Assembly Error,INS_EMP_10,1,0.0202
+INS_00515,ORD_00515,Sensor Array,Plant_Ahmedabad,2023-10-09,956,50,Functional,INS_EMP_02,1,0.0523
+INS_00516,ORD_00516,Clutch Kit,Plant_Chennai,2023-02-16,288,16,Functional,INS_EMP_01,1,0.0556
+INS_00517,ORD_00517,Brake Assembly,Plant_Ahmedabad,2024-07-02,69,3,Functional,INS_EMP_10,0,0.0435
+INS_00518,ORD_00518,Hydraulic Pump,Plant_Pune,2024-07-29,1025,81,Surface Finish,INS_EMP_02,1,0.079
+INS_00519,ORD_00519,Clutch Kit,Plant_Pune,2023-08-03,1556,55,Dimensional,INS_EMP_05,0,0.0353
+INS_00520,ORD_00520,Suspension Unit,Plant_Delhi,2023-07-06,268,19,Dimensional,INS_EMP_06,1,0.0709
+INS_00521,ORD_00521,Hydraulic Pump,Plant_Ahmedabad,2024-05-22,1321,35,Assembly Error,INS_EMP_01,0,0.0265
+INS_00522,ORD_00522,PCB Assembly,Plant_Ahmedabad,2023-10-29,504,0,None,INS_EMP_07,1,0.0
+INS_00523,ORD_00523,Brake Assembly,Plant_Ahmedabad,2024-06-12,856,0,None,INS_EMP_04,1,0.0
+INS_00524,ORD_00524,Suspension Unit,Plant_Chennai,2023-02-06,481,0,None,INS_EMP_06,1,0.0
+INS_00525,ORD_00525,Gear Box,Plant_Ahmedabad,2023-10-07,601,36,Assembly Error,INS_EMP_08,1,0.0599
+INS_00526,ORD_00526,Wiring Harness,Plant_Pune,2024-03-30,1590,8,Surface Finish,INS_EMP_08,0,0.005
+INS_00527,ORD_00527,Control Panel,Plant_Ahmedabad,2024-09-05,518,2,Surface Finish,INS_EMP_05,0,0.0039
+INS_00528,ORD_00528,PCB Assembly,Plant_Ahmedabad,2023-06-27,1562,21,Assembly Error,INS_EMP_01,0,0.0134
+INS_00529,ORD_00529,Suspension Unit,Plant_Delhi,2024-07-26,696,0,None,INS_EMP_08,1,0.0
+INS_00530,ORD_00530,Wiring Harness,Plant_Chennai,2024-12-16,172,3,Dimensional,INS_EMP_02,0,0.0174
+INS_00531,ORD_00531,PCB Assembly,Plant_Delhi,2024-01-24,1191,10,Functional,INS_EMP_04,0,0.0084
+INS_00532,ORD_00532,Sensor Array,Plant_Chennai,2023-08-13,1229,80,Assembly Error,INS_EMP_07,1,0.0651
+INS_00533,ORD_00533,Gear Box,Plant_Chennai,2024-04-07,830,0,None,INS_EMP_10,1,0.0
+INS_00534,ORD_00534,Clutch Kit,Plant_Chennai,2024-08-23,1788,104,Assembly Error,INS_EMP_01,1,0.0582
+INS_00535,ORD_00535,Sensor Array,Plant_Ahmedabad,2025-01-08,1289,10,Surface Finish,INS_EMP_03,1,0.0078
+INS_00536,ORD_00536,Brake Assembly,Plant_Pune,2023-08-07,97,4,Assembly Error,INS_EMP_04,0,0.0412
+INS_00537,ORD_00537,Drive Shaft,Plant_Ahmedabad,2023-04-22,180,0,None,INS_EMP_03,1,0.0
+INS_00538,ORD_00538,Hydraulic Pump,Plant_Pune,2023-04-28,1315,57,Surface Finish,INS_EMP_07,0,0.0433
+INS_00539,ORD_00539,Drive Shaft,Plant_Chennai,2024-04-21,308,11,Assembly Error,INS_EMP_10,1,0.0357
+INS_00540,ORD_00540,Control Panel,Plant_Pune,2024-05-23,1157,0,None,INS_EMP_07,1,0.0
+INS_00541,ORD_00541,Control Panel,Plant_Chennai,2024-05-05,1583,31,Functional,INS_EMP_04,1,0.0196
+INS_00542,ORD_00542,Hydraulic Pump,Plant_Pune,2024-07-16,1698,30,Surface Finish,INS_EMP_10,0,0.0177
+INS_00543,ORD_00543,Wiring Harness,Plant_Delhi,2023-01-20,1719,85,Assembly Error,INS_EMP_05,0,0.0494
+INS_00544,ORD_00544,Drive Shaft,Plant_Chennai,2023-11-06,1618,86,Dimensional,INS_EMP_03,0,0.0532
+INS_00545,ORD_00545,PCB Assembly,Plant_Pune,2024-08-13,858,19,Dimensional,INS_EMP_01,0,0.0221
+INS_00546,ORD_00546,Hydraulic Pump,Plant_Chennai,2024-03-31,540,38,Dimensional,INS_EMP_02,1,0.0704
+INS_00547,ORD_00547,Wiring Harness,Plant_Ahmedabad,2024-03-07,1797,90,Dimensional,INS_EMP_08,1,0.0501
+INS_00548,ORD_00548,Drive Shaft,Plant_Pune,2024-05-27,706,19,Functional,INS_EMP_10,1,0.0269
+INS_00549,ORD_00549,Gear Box,Plant_Delhi,2023-10-10,1514,62,Functional,INS_EMP_01,0,0.041
+INS_00550,ORD_00550,Wiring Harness,Plant_Delhi,2024-01-02,688,9,Dimensional,INS_EMP_07,1,0.0131
+INS_00551,ORD_00551,Gear Box,Plant_Pune,2023-06-03,595,20,Assembly Error,INS_EMP_05,1,0.0336
+INS_00552,ORD_00552,Clutch Kit,Plant_Delhi,2023-01-19,1623,103,Assembly Error,INS_EMP_05,1,0.0635
+INS_00553,ORD_00553,Sensor Array,Plant_Pune,2023-04-26,1413,0,None,INS_EMP_08,1,0.0
+INS_00554,ORD_00554,Drive Shaft,Plant_Pune,2024-06-23,568,6,Functional,INS_EMP_07,0,0.0106
+INS_00555,ORD_00555,Brake Assembly,Plant_Ahmedabad,2024-10-26,714,57,Assembly Error,INS_EMP_06,1,0.0798
+INS_00556,ORD_00556,Sensor Array,Plant_Delhi,2023-03-06,1654,66,Dimensional,INS_EMP_06,0,0.0399
+INS_00557,ORD_00557,Drive Shaft,Plant_Chennai,2024-05-31,1454,53,Dimensional,INS_EMP_04,1,0.0365
+INS_00558,ORD_00558,Wiring Harness,Plant_Pune,2023-04-27,1049,29,Functional,INS_EMP_08,0,0.0276
+INS_00559,ORD_00559,Control Panel,Plant_Chennai,2024-01-28,325,19,Dimensional,INS_EMP_07,1,0.0585
+INS_00560,ORD_00560,Hydraulic Pump,Plant_Pune,2023-08-04,432,0,None,INS_EMP_07,1,0.0
+INS_00561,ORD_00561,Drive Shaft,Plant_Ahmedabad,2023-06-25,655,0,None,INS_EMP_03,1,0.0
+INS_00562,ORD_00562,Control Panel,Plant_Ahmedabad,2024-10-26,795,29,Assembly Error,INS_EMP_02,0,0.0365
+INS_00563,ORD_00563,PCB Assembly,Plant_Chennai,2024-12-18,1618,0,None,INS_EMP_06,1,0.0
+INS_00564,ORD_00564,Drive Shaft,Plant_Pune,2024-07-13,186,10,Surface Finish,INS_EMP_07,0,0.0538
+INS_00565,ORD_00565,Control Panel,Plant_Chennai,2023-07-22,115,4,Functional,INS_EMP_01,1,0.0348
+INS_00566,ORD_00566,Wiring Harness,Plant_Delhi,2023-09-06,1520,0,None,INS_EMP_08,1,0.0
+INS_00567,ORD_00567,Drive Shaft,Plant_Chennai,2024-01-25,1572,23,Dimensional,INS_EMP_06,1,0.0146
+INS_00568,ORD_00568,Brake Assembly,Plant_Delhi,2023-04-12,672,11,Dimensional,INS_EMP_09,0,0.0164
+INS_00569,ORD_00569,Control Panel,Plant_Ahmedabad,2024-02-08,445,27,Assembly Error,INS_EMP_04,1,0.0607
+INS_00570,ORD_00570,Gear Box,Plant_Pune,2024-01-26,989,31,Functional,INS_EMP_02,1,0.0313
+INS_00571,ORD_00571,Sensor Array,Plant_Chennai,2024-06-13,1396,0,None,INS_EMP_05,1,0.0
+INS_00572,ORD_00572,Suspension Unit,Plant_Pune,2024-02-01,1615,0,None,INS_EMP_10,1,0.0
+INS_00573,ORD_00573,Wiring Harness,Plant_Ahmedabad,2023-08-23,1618,0,None,INS_EMP_10,1,0.0
+INS_00574,ORD_00574,Drive Shaft,Plant_Chennai,2023-02-17,1270,79,Functional,INS_EMP_07,1,0.0622
+INS_00575,ORD_00575,Control Panel,Plant_Pune,2023-11-22,1630,106,Functional,INS_EMP_07,0,0.065
+INS_00576,ORD_00576,Clutch Kit,Plant_Pune,2024-04-30,369,11,Functional,INS_EMP_05,1,0.0298
+INS_00577,ORD_00577,Sensor Array,Plant_Ahmedabad,2023-04-26,868,40,Surface Finish,INS_EMP_05,0,0.0461
+INS_00578,ORD_00578,Drive Shaft,Plant_Ahmedabad,2025-01-01,1230,79,Functional,INS_EMP_02,1,0.0642
+INS_00579,ORD_00579,Clutch Kit,Plant_Delhi,2023-12-23,1851,0,None,INS_EMP_10,1,0.0
+INS_00580,ORD_00580,Control Panel,Plant_Pune,2023-11-28,134,0,None,INS_EMP_04,1,0.0
+INS_00581,ORD_00581,Control Panel,Plant_Delhi,2024-12-16,854,0,None,INS_EMP_04,1,0.0
+INS_00582,ORD_00582,Suspension Unit,Plant_Delhi,2023-11-21,857,36,Functional,INS_EMP_10,1,0.042
+INS_00583,ORD_00583,Gear Box,Plant_Ahmedabad,2023-10-01,866,29,Functional,INS_EMP_10,1,0.0335
+INS_00584,ORD_00584,Clutch Kit,Plant_Pune,2024-05-29,1385,34,Assembly Error,INS_EMP_01,0,0.0245
+INS_00585,ORD_00585,PCB Assembly,Plant_Chennai,2024-03-29,1452,29,Surface Finish,INS_EMP_01,1,0.02
+INS_00586,ORD_00586,Sensor Array,Plant_Ahmedabad,2023-12-09,1266,0,None,INS_EMP_07,1,0.0
+INS_00587,ORD_00587,Gear Box,Plant_Delhi,2024-03-31,1942,155,Surface Finish,INS_EMP_08,0,0.0798
+INS_00588,ORD_00588,Drive Shaft,Plant_Chennai,2023-09-28,1947,0,None,INS_EMP_09,1,0.0
+INS_00589,ORD_00589,Clutch Kit,Plant_Chennai,2024-04-23,96,0,None,INS_EMP_10,1,0.0
+INS_00590,ORD_00590,Suspension Unit,Plant_Delhi,2024-10-25,339,4,Functional,INS_EMP_04,0,0.0118
+INS_00591,ORD_00591,Wiring Harness,Plant_Delhi,2023-03-15,461,1,Dimensional,INS_EMP_10,1,0.0022
+INS_00592,ORD_00592,Drive Shaft,Plant_Chennai,2024-11-18,1407,8,Surface Finish,INS_EMP_03,0,0.0057
+INS_00593,ORD_00593,Control Panel,Plant_Delhi,2024-02-13,1503,98,Assembly Error,INS_EMP_01,1,0.0652
+INS_00594,ORD_00594,Control Panel,Plant_Chennai,2024-06-13,1198,39,Functional,INS_EMP_09,1,0.0326
+INS_00595,ORD_00595,Hydraulic Pump,Plant_Pune,2024-03-04,371,10,Surface Finish,INS_EMP_07,1,0.027
+INS_00596,ORD_00596,Control Panel,Plant_Chennai,2023-03-28,577,31,Functional,INS_EMP_10,0,0.0537
+INS_00597,ORD_00597,Suspension Unit,Plant_Pune,2023-12-31,1395,5,Surface Finish,INS_EMP_04,0,0.0036
+INS_00598,ORD_00598,Wiring Harness,Plant_Pune,2024-08-16,923,39,Dimensional,INS_EMP_05,1,0.0423
+INS_00599,ORD_00599,Control Panel,Plant_Pune,2024-09-06,1450,49,Functional,INS_EMP_02,0,0.0338
+INS_00600,ORD_00600,Brake Assembly,Plant_Pune,2024-11-23,1928,0,None,INS_EMP_04,1,0.0
+INS_00601,ORD_00601,Hydraulic Pump,Plant_Ahmedabad,2023-02-27,702,0,None,INS_EMP_01,1,0.0
+INS_00602,ORD_00602,Suspension Unit,Plant_Chennai,2023-07-18,319,5,Dimensional,INS_EMP_06,0,0.0157
+INS_00603,ORD_00603,Brake Assembly,Plant_Ahmedabad,2024-09-29,1271,100,Surface Finish,INS_EMP_02,0,0.0787
+INS_00604,ORD_00604,Wiring Harness,Plant_Ahmedabad,2024-09-29,1508,43,Assembly Error,INS_EMP_07,1,0.0285
+INS_00605,ORD_00605,PCB Assembly,Plant_Pune,2023-07-27,116,0,None,INS_EMP_10,1,0.0
+INS_00606,ORD_00606,Wiring Harness,Plant_Chennai,2023-03-17,1948,49,Assembly Error,INS_EMP_06,1,0.0252
+INS_00607,ORD_00607,Sensor Array,Plant_Ahmedabad,2024-03-28,1639,1,Assembly Error,INS_EMP_09,1,0.0006
+INS_00608,ORD_00608,Control Panel,Plant_Delhi,2024-09-20,1125,74,Dimensional,INS_EMP_10,0,0.0658
+INS_00609,ORD_00609,Control Panel,Plant_Ahmedabad,2023-02-23,1112,34,Dimensional,INS_EMP_06,1,0.0306
+INS_00610,ORD_00610,Wiring Harness,Plant_Pune,2023-07-26,950,34,Surface Finish,INS_EMP_06,1,0.0358
+INS_00611,ORD_00611,Brake Assembly,Plant_Delhi,2024-09-23,1463,29,Assembly Error,INS_EMP_02,0,0.0198
+INS_00612,ORD_00612,Gear Box,Plant_Ahmedabad,2025-01-02,327,18,Surface Finish,INS_EMP_09,1,0.055
+INS_00613,ORD_00613,Brake Assembly,Plant_Delhi,2024-04-15,562,14,Dimensional,INS_EMP_05,0,0.0249
+INS_00614,ORD_00614,Suspension Unit,Plant_Pune,2024-10-25,224,14,Surface Finish,INS_EMP_03,0,0.0625
+INS_00615,ORD_00615,Gear Box,Plant_Pune,2024-01-29,1623,64,Dimensional,INS_EMP_04,1,0.0394
+INS_00616,ORD_00616,Gear Box,Plant_Delhi,2024-03-17,683,19,Assembly Error,INS_EMP_03,1,0.0278
+INS_00617,ORD_00617,Control Panel,Plant_Delhi,2023-01-26,1617,54,Assembly Error,INS_EMP_02,0,0.0334
+INS_00618,ORD_00618,Brake Assembly,Plant_Delhi,2023-09-10,1255,30,Functional,INS_EMP_08,1,0.0239
+INS_00619,ORD_00619,Gear Box,Plant_Pune,2023-11-03,1337,0,None,INS_EMP_07,1,0.0
+INS_00620,ORD_00620,Hydraulic Pump,Plant_Chennai,2023-02-14,1798,0,None,INS_EMP_01,1,0.0
+INS_00621,ORD_00621,Suspension Unit,Plant_Pune,2023-05-08,415,21,Dimensional,INS_EMP_03,1,0.0506
+INS_00622,ORD_00622,Brake Assembly,Plant_Ahmedabad,2024-01-08,240,19,Assembly Error,INS_EMP_01,0,0.0792
+INS_00623,ORD_00623,Control Panel,Plant_Ahmedabad,2023-11-14,325,21,Dimensional,INS_EMP_08,1,0.0646
+INS_00624,ORD_00624,Brake Assembly,Plant_Ahmedabad,2024-12-22,1303,9,Functional,INS_EMP_08,1,0.0069
+INS_00625,ORD_00625,Sensor Array,Plant_Pune,2024-04-04,1786,10,Surface Finish,INS_EMP_05,0,0.0056
+INS_00626,ORD_00626,Suspension Unit,Plant_Pune,2024-06-11,1543,8,Functional,INS_EMP_03,0,0.0052
+INS_00627,ORD_00627,Suspension Unit,Plant_Ahmedabad,2023-01-08,99,0,None,INS_EMP_06,1,0.0
+INS_00628,ORD_00628,Hydraulic Pump,Plant_Chennai,2023-12-22,1197,21,Dimensional,INS_EMP_03,1,0.0175
+INS_00629,ORD_00629,Sensor Array,Plant_Ahmedabad,2023-11-23,1176,51,Assembly Error,INS_EMP_06,0,0.0434
+INS_00630,ORD_00630,Wiring Harness,Plant_Delhi,2023-02-28,409,22,Assembly Error,INS_EMP_03,0,0.0538
+INS_00631,ORD_00631,Wiring Harness,Plant_Ahmedabad,2023-07-02,993,18,Surface Finish,INS_EMP_09,0,0.0181
+INS_00632,ORD_00632,Clutch Kit,Plant_Chennai,2023-11-24,1534,0,None,INS_EMP_04,1,0.0
+INS_00633,ORD_00633,Gear Box,Plant_Ahmedabad,2023-06-13,1771,35,Dimensional,INS_EMP_01,0,0.0198
+INS_00634,ORD_00634,Drive Shaft,Plant_Chennai,2023-05-30,1652,103,Functional,INS_EMP_10,0,0.0623
+INS_00635,ORD_00635,Control Panel,Plant_Chennai,2024-06-02,811,27,Surface Finish,INS_EMP_01,0,0.0333
+INS_00636,ORD_00636,Control Panel,Plant_Delhi,2024-02-16,126,4,Dimensional,INS_EMP_04,1,0.0317
+INS_00637,ORD_00637,Hydraulic Pump,Plant_Chennai,2023-06-16,746,30,Assembly Error,INS_EMP_08,0,0.0402
+INS_00638,ORD_00638,Control Panel,Plant_Delhi,2024-07-06,321,22,Dimensional,INS_EMP_07,1,0.0685
+INS_00639,ORD_00639,Drive Shaft,Plant_Delhi,2023-03-11,1786,3,Functional,INS_EMP_08,1,0.0017
+INS_00640,ORD_00640,Clutch Kit,Plant_Pune,2023-02-14,1603,123,Surface Finish,INS_EMP_10,1,0.0767
+INS_00641,ORD_00641,Gear Box,Plant_Chennai,2024-07-12,1632,64,Functional,INS_EMP_01,0,0.0392
+INS_00642,ORD_00642,Sensor Array,Plant_Chennai,2024-10-19,1102,83,Functional,INS_EMP_06,0,0.0753
+INS_00643,ORD_00643,Control Panel,Plant_Ahmedabad,2024-08-20,400,6,Dimensional,INS_EMP_03,0,0.015
+INS_00644,ORD_00644,Brake Assembly,Plant_Ahmedabad,2023-02-17,1899,0,None,INS_EMP_09,1,0.0
+INS_00645,ORD_00645,Suspension Unit,Plant_Chennai,2025-01-13,1875,125,Functional,INS_EMP_03,0,0.0667
+INS_00646,ORD_00646,Suspension Unit,Plant_Pune,2023-08-16,1603,56,Dimensional,INS_EMP_05,0,0.0349
+INS_00647,ORD_00647,Wiring Harness,Plant_Pune,2023-04-27,685,9,Dimensional,INS_EMP_09,1,0.0131
+INS_00648,ORD_00648,Sensor Array,Plant_Ahmedabad,2024-10-04,1919,18,Assembly Error,INS_EMP_10,0,0.0094
+INS_00649,ORD_00649,Hydraulic Pump,Plant_Chennai,2023-03-26,281,15,Dimensional,INS_EMP_03,0,0.0534
+INS_00650,ORD_00650,Sensor Array,Plant_Delhi,2023-05-30,260,10,Surface Finish,INS_EMP_01,1,0.0385
+INS_00651,ORD_00651,Gear Box,Plant_Ahmedabad,2024-05-02,1259,57,Dimensional,INS_EMP_07,1,0.0453
+INS_00652,ORD_00652,Suspension Unit,Plant_Chennai,2023-12-24,1716,0,None,INS_EMP_08,1,0.0
+INS_00653,ORD_00653,Wiring Harness,Plant_Delhi,2023-07-21,1421,107,Dimensional,INS_EMP_08,1,0.0753
+INS_00654,ORD_00654,PCB Assembly,Plant_Delhi,2024-05-02,1186,34,Functional,INS_EMP_07,0,0.0287
+INS_00655,ORD_00655,Drive Shaft,Plant_Delhi,2024-12-31,1271,0,None,INS_EMP_10,1,0.0
+INS_00656,ORD_00656,Wiring Harness,Plant_Chennai,2024-09-13,1352,34,Surface Finish,INS_EMP_01,1,0.0251
+INS_00657,ORD_00657,Suspension Unit,Plant_Chennai,2024-08-31,450,35,Functional,INS_EMP_04,1,0.0778
+INS_00658,ORD_00658,Hydraulic Pump,Plant_Delhi,2023-04-23,66,4,Surface Finish,INS_EMP_03,1,0.0606
+INS_00659,ORD_00659,Hydraulic Pump,Plant_Delhi,2023-02-27,1490,0,None,INS_EMP_02,1,0.0
+INS_00660,ORD_00660,PCB Assembly,Plant_Ahmedabad,2025-01-10,857,20,Surface Finish,INS_EMP_06,0,0.0233
+INS_00661,ORD_00661,PCB Assembly,Plant_Pune,2024-11-17,1022,0,None,INS_EMP_06,1,0.0
+INS_00662,ORD_00662,PCB Assembly,Plant_Pune,2023-05-21,196,7,Assembly Error,INS_EMP_09,1,0.0357
+INS_00663,ORD_00663,PCB Assembly,Plant_Pune,2024-11-16,901,65,Functional,INS_EMP_03,0,0.0721
+INS_00664,ORD_00664,PCB Assembly,Plant_Delhi,2024-03-30,1729,64,Assembly Error,INS_EMP_04,1,0.037
+INS_00665,ORD_00665,Sensor Array,Plant_Delhi,2023-09-25,1077,0,None,INS_EMP_02,1,0.0
+INS_00666,ORD_00666,Gear Box,Plant_Chennai,2024-06-03,804,13,Surface Finish,INS_EMP_03,0,0.0162
+INS_00667,ORD_00667,Control Panel,Plant_Chennai,2023-04-10,1872,13,Dimensional,INS_EMP_02,1,0.0069
+INS_00668,ORD_00668,Suspension Unit,Plant_Chennai,2024-01-07,1644,0,None,INS_EMP_01,1,0.0
+INS_00669,ORD_00669,Suspension Unit,Plant_Chennai,2023-11-10,393,23,Surface Finish,INS_EMP_06,1,0.0585
+INS_00670,ORD_00670,Drive Shaft,Plant_Chennai,2024-08-23,1223,0,None,INS_EMP_01,1,0.0
+INS_00671,ORD_00671,Suspension Unit,Plant_Chennai,2023-05-29,207,15,Dimensional,INS_EMP_01,1,0.0725
+INS_00672,ORD_00672,Wiring Harness,Plant_Chennai,2023-02-10,278,2,Functional,INS_EMP_04,0,0.0072
+INS_00673,ORD_00673,Sensor Array,Plant_Delhi,2024-12-28,1043,14,Functional,INS_EMP_10,1,0.0134
+INS_00674,ORD_00674,Clutch Kit,Plant_Ahmedabad,2023-07-06,1065,23,Functional,INS_EMP_10,1,0.0216
+INS_00675,ORD_00675,Drive Shaft,Plant_Pune,2024-09-09,1774,127,Dimensional,INS_EMP_02,0,0.0716
+INS_00676,ORD_00676,Clutch Kit,Plant_Ahmedabad,2024-05-14,1025,19,Surface Finish,INS_EMP_08,1,0.0185
+INS_00677,ORD_00677,PCB Assembly,Plant_Chennai,2023-10-03,1136,32,Functional,INS_EMP_04,1,0.0282
+INS_00678,ORD_00678,Hydraulic Pump,Plant_Chennai,2023-04-30,1355,21,Surface Finish,INS_EMP_01,1,0.0155
+INS_00679,ORD_00679,Suspension Unit,Plant_Pune,2023-04-22,1390,20,Functional,INS_EMP_03,0,0.0144
+INS_00680,ORD_00680,Brake Assembly,Plant_Delhi,2024-12-19,418,12,Assembly Error,INS_EMP_07,1,0.0287
+INS_00681,ORD_00681,Hydraulic Pump,Plant_Pune,2024-06-27,1453,76,Functional,INS_EMP_07,0,0.0523
+INS_00682,ORD_00682,Suspension Unit,Plant_Delhi,2024-10-01,166,12,Surface Finish,INS_EMP_01,0,0.0723
+INS_00683,ORD_00683,Gear Box,Plant_Delhi,2024-09-18,819,38,Surface Finish,INS_EMP_05,1,0.0464
+INS_00684,ORD_00684,PCB Assembly,Plant_Chennai,2023-11-15,1402,107,Assembly Error,INS_EMP_01,1,0.0763
+INS_00685,ORD_00685,Hydraulic Pump,Plant_Chennai,2023-03-28,1641,0,None,INS_EMP_09,1,0.0
+INS_00686,ORD_00686,Brake Assembly,Plant_Pune,2023-03-31,1951,131,Assembly Error,INS_EMP_10,1,0.0671
+INS_00687,ORD_00687,Brake Assembly,Plant_Delhi,2023-09-03,1367,35,Dimensional,INS_EMP_08,0,0.0256
+INS_00688,ORD_00688,Gear Box,Plant_Delhi,2024-09-03,563,1,Surface Finish,INS_EMP_06,1,0.0018
+INS_00689,ORD_00689,Control Panel,Plant_Ahmedabad,2023-10-07,1483,0,None,INS_EMP_06,1,0.0
+INS_00690,ORD_00690,Clutch Kit,Plant_Delhi,2024-03-19,1540,79,Dimensional,INS_EMP_06,0,0.0513
+INS_00691,ORD_00691,PCB Assembly,Plant_Delhi,2023-05-26,1146,64,Assembly Error,INS_EMP_05,0,0.0558
+INS_00692,ORD_00692,Clutch Kit,Plant_Pune,2024-07-31,746,28,Assembly Error,INS_EMP_04,0,0.0375
+INS_00693,ORD_00693,Sensor Array,Plant_Ahmedabad,2024-02-22,441,0,None,INS_EMP_06,1,0.0
+INS_00694,ORD_00694,Clutch Kit,Plant_Ahmedabad,2023-07-21,123,4,Assembly Error,INS_EMP_05,0,0.0325
+INS_00695,ORD_00695,Drive Shaft,Plant_Delhi,2024-07-30,680,32,Assembly Error,INS_EMP_08,1,0.0471
+INS_00696,ORD_00696,Wiring Harness,Plant_Pune,2024-01-09,1526,21,Surface Finish,INS_EMP_06,0,0.0138
+INS_00697,ORD_00697,Suspension Unit,Plant_Delhi,2023-03-19,1556,54,Dimensional,INS_EMP_02,1,0.0347
+INS_00698,ORD_00698,Wiring Harness,Plant_Pune,2023-01-23,1345,70,Functional,INS_EMP_02,0,0.052
+INS_00699,ORD_00699,Clutch Kit,Plant_Ahmedabad,2023-04-25,1068,0,None,INS_EMP_03,1,0.0
+INS_00700,ORD_00700,Drive Shaft,Plant_Pune,2023-12-05,1451,84,Dimensional,INS_EMP_06,0,0.0579
+INS_00701,ORD_00701,Control Panel,Plant_Pune,2023-05-15,339,19,Surface Finish,INS_EMP_05,0,0.056
+INS_00702,ORD_00702,PCB Assembly,Plant_Pune,2024-08-22,323,11,Dimensional,INS_EMP_07,0,0.0341
+INS_00703,ORD_00703,Hydraulic Pump,Plant_Ahmedabad,2023-03-27,64,2,Dimensional,INS_EMP_10,1,0.0312
+INS_00704,ORD_00704,Gear Box,Plant_Delhi,2023-08-07,1360,97,Functional,INS_EMP_10,1,0.0713
+INS_00705,ORD_00705,Sensor Array,Plant_Ahmedabad,2024-06-17,1996,112,Surface Finish,INS_EMP_04,1,0.0561
+INS_00706,ORD_00706,Sensor Array,Plant_Pune,2023-09-08,290,21,Surface Finish,INS_EMP_07,0,0.0724
+INS_00707,ORD_00707,Wiring Harness,Plant_Pune,2023-10-15,446,0,None,INS_EMP_05,1,0.0
+INS_00708,ORD_00708,Suspension Unit,Plant_Ahmedabad,2023-03-20,795,3,Surface Finish,INS_EMP_07,1,0.0038
+INS_00709,ORD_00709,Brake Assembly,Plant_Delhi,2023-03-15,410,22,Dimensional,INS_EMP_05,0,0.0537
+INS_00710,ORD_00710,Clutch Kit,Plant_Delhi,2024-09-19,717,0,None,INS_EMP_06,1,0.0
+INS_00711,ORD_00711,Brake Assembly,Plant_Ahmedabad,2023-04-21,1560,25,Dimensional,INS_EMP_04,0,0.016
+INS_00712,ORD_00712,PCB Assembly,Plant_Chennai,2023-03-13,346,21,Surface Finish,INS_EMP_09,0,0.0607
+INS_00713,ORD_00713,Drive Shaft,Plant_Delhi,2023-08-10,784,18,Dimensional,INS_EMP_10,0,0.023
+INS_00714,ORD_00714,Clutch Kit,Plant_Chennai,2023-05-24,1003,9,Surface Finish,INS_EMP_02,0,0.009
+INS_00715,ORD_00715,Brake Assembly,Plant_Ahmedabad,2024-11-06,1904,25,Surface Finish,INS_EMP_03,0,0.0131
+INS_00716,ORD_00716,Clutch Kit,Plant_Pune,2023-08-31,1019,38,Functional,INS_EMP_09,0,0.0373
+INS_00717,ORD_00717,Drive Shaft,Plant_Ahmedabad,2024-08-26,1876,138,Functional,INS_EMP_03,1,0.0736
+INS_00718,ORD_00718,Wiring Harness,Plant_Delhi,2024-05-22,1624,0,None,INS_EMP_07,1,0.0
+INS_00719,ORD_00719,Clutch Kit,Plant_Pune,2023-09-09,1193,0,None,INS_EMP_08,1,0.0
+INS_00720,ORD_00720,Wiring Harness,Plant_Delhi,2023-09-25,235,10,Assembly Error,INS_EMP_01,0,0.0426
+INS_00721,ORD_00721,Wiring Harness,Plant_Delhi,2023-06-21,1490,0,None,INS_EMP_02,1,0.0
+INS_00722,ORD_00722,Suspension Unit,Plant_Pune,2024-12-21,1137,0,None,INS_EMP_06,1,0.0
+INS_00723,ORD_00723,Drive Shaft,Plant_Delhi,2024-01-05,1959,143,Functional,INS_EMP_09,0,0.073
+INS_00724,ORD_00724,Brake Assembly,Plant_Pune,2024-05-13,133,5,Assembly Error,INS_EMP_05,0,0.0376
+INS_00725,ORD_00725,Clutch Kit,Plant_Pune,2023-09-22,282,2,Dimensional,INS_EMP_07,0,0.0071
+INS_00726,ORD_00726,Sensor Array,Plant_Ahmedabad,2023-10-20,1443,0,None,INS_EMP_09,1,0.0
+INS_00727,ORD_00727,Hydraulic Pump,Plant_Ahmedabad,2024-07-22,301,15,Assembly Error,INS_EMP_09,1,0.0498
+INS_00728,ORD_00728,Wiring Harness,Plant_Delhi,2024-12-15,1706,81,Surface Finish,INS_EMP_09,1,0.0475
+INS_00729,ORD_00729,Wiring Harness,Plant_Pune,2023-07-15,207,13,Assembly Error,INS_EMP_05,1,0.0628
+INS_00730,ORD_00730,Wiring Harness,Plant_Chennai,2024-10-07,650,50,Functional,INS_EMP_02,1,0.0769
+INS_00731,ORD_00731,Control Panel,Plant_Chennai,2024-10-25,647,14,Surface Finish,INS_EMP_05,0,0.0216
+INS_00732,ORD_00732,Control Panel,Plant_Ahmedabad,2024-01-10,1373,79,Dimensional,INS_EMP_03,1,0.0575
+INS_00733,ORD_00733,Clutch Kit,Plant_Ahmedabad,2024-08-10,1889,46,Surface Finish,INS_EMP_02,0,0.0244
+INS_00734,ORD_00734,Gear Box,Plant_Chennai,2023-02-25,773,2,Surface Finish,INS_EMP_05,0,0.0026
+INS_00735,ORD_00735,Brake Assembly,Plant_Delhi,2025-01-20,1902,73,Dimensional,INS_EMP_03,1,0.0384
+INS_00736,ORD_00736,Sensor Array,Plant_Chennai,2023-05-27,583,0,None,INS_EMP_04,1,0.0
+INS_00737,ORD_00737,PCB Assembly,Plant_Ahmedabad,2024-04-24,382,10,Dimensional,INS_EMP_08,0,0.0262
+INS_00738,ORD_00738,Sensor Array,Plant_Chennai,2023-12-01,58,4,Dimensional,INS_EMP_10,1,0.069
+INS_00739,ORD_00739,Sensor Array,Plant_Delhi,2024-09-03,351,27,Surface Finish,INS_EMP_07,1,0.0769
+INS_00740,ORD_00740,Clutch Kit,Plant_Ahmedabad,2023-06-16,1178,0,None,INS_EMP_09,1,0.0
+INS_00741,ORD_00741,Hydraulic Pump,Plant_Pune,2023-12-05,1295,84,Dimensional,INS_EMP_03,0,0.0649
+INS_00742,ORD_00742,PCB Assembly,Plant_Pune,2024-08-04,962,71,Dimensional,INS_EMP_01,0,0.0738
+INS_00743,ORD_00743,PCB Assembly,Plant_Pune,2024-10-01,1097,56,Surface Finish,INS_EMP_07,1,0.051
+INS_00744,ORD_00744,Control Panel,Plant_Delhi,2024-02-14,74,2,Dimensional,INS_EMP_01,0,0.027
+INS_00745,ORD_00745,PCB Assembly,Plant_Pune,2024-03-29,956,45,Dimensional,INS_EMP_04,0,0.0471
+INS_00746,ORD_00746,Sensor Array,Plant_Delhi,2023-04-06,475,0,None,INS_EMP_06,1,0.0
+INS_00747,ORD_00747,Control Panel,Plant_Ahmedabad,2023-04-04,888,70,Surface Finish,INS_EMP_07,0,0.0788
+INS_00748,ORD_00748,Hydraulic Pump,Plant_Chennai,2023-08-01,1754,1,Dimensional,INS_EMP_06,0,0.0006
+INS_00749,ORD_00749,Wiring Harness,Plant_Delhi,2024-04-29,104,3,Functional,INS_EMP_05,0,0.0288
+INS_00750,ORD_00750,Hydraulic Pump,Plant_Ahmedabad,2023-07-21,1907,0,None,INS_EMP_04,1,0.0
+INS_00751,ORD_00751,Brake Assembly,Plant_Chennai,2024-01-27,1034,0,None,INS_EMP_01,1,0.0
+INS_00752,ORD_00752,Wiring Harness,Plant_Pune,2023-02-17,581,36,Functional,INS_EMP_03,1,0.062
+INS_00753,ORD_00753,Drive Shaft,Plant_Chennai,2023-03-07,789,0,None,INS_EMP_03,1,0.0
+INS_00754,ORD_00754,Suspension Unit,Plant_Pune,2024-10-21,1102,0,None,INS_EMP_10,1,0.0
+INS_00755,ORD_00755,Brake Assembly,Plant_Chennai,2023-12-19,1780,16,Dimensional,INS_EMP_08,1,0.009
+INS_00756,ORD_00756,Gear Box,Plant_Delhi,2023-06-09,626,0,None,INS_EMP_07,1,0.0
+INS_00757,ORD_00757,Control Panel,Plant_Delhi,2024-06-09,1753,118,Surface Finish,INS_EMP_07,0,0.0673
+INS_00758,ORD_00758,Hydraulic Pump,Plant_Chennai,2023-03-26,1726,46,Surface Finish,INS_EMP_09,0,0.0267
+INS_00759,ORD_00759,Drive Shaft,Plant_Delhi,2024-09-22,1613,0,None,INS_EMP_10,1,0.0
+INS_00760,ORD_00760,Brake Assembly,Plant_Ahmedabad,2024-12-18,1459,87,Assembly Error,INS_EMP_04,0,0.0596
+INS_00761,ORD_00761,Drive Shaft,Plant_Delhi,2023-02-16,1041,53,Assembly Error,INS_EMP_02,1,0.0509
+INS_00762,ORD_00762,Brake Assembly,Plant_Pune,2023-09-21,185,11,Dimensional,INS_EMP_09,1,0.0595
+INS_00763,ORD_00763,Suspension Unit,Plant_Chennai,2023-08-02,769,26,Surface Finish,INS_EMP_08,0,0.0338
+INS_00764,ORD_00764,Brake Assembly,Plant_Delhi,2024-06-23,1542,56,Surface Finish,INS_EMP_09,1,0.0363
+INS_00765,ORD_00765,Clutch Kit,Plant_Ahmedabad,2023-07-28,401,1,Dimensional,INS_EMP_02,0,0.0025
+INS_00766,ORD_00766,PCB Assembly,Plant_Ahmedabad,2023-07-26,1429,85,Surface Finish,INS_EMP_09,0,0.0595
+INS_00767,ORD_00767,Brake Assembly,Plant_Pune,2023-09-07,281,8,Surface Finish,INS_EMP_10,0,0.0285
+INS_00768,ORD_00768,Brake Assembly,Plant_Ahmedabad,2025-01-03,1191,87,Dimensional,INS_EMP_09,0,0.073
+INS_00769,ORD_00769,Control Panel,Plant_Ahmedabad,2024-10-02,688,12,Functional,INS_EMP_08,0,0.0174
+INS_00770,ORD_00770,Gear Box,Plant_Delhi,2023-08-12,192,0,None,INS_EMP_08,1,0.0
+INS_00771,ORD_00771,PCB Assembly,Plant_Ahmedabad,2024-02-27,1120,3,Functional,INS_EMP_07,1,0.0027
+INS_00772,ORD_00772,PCB Assembly,Plant_Delhi,2023-06-27,794,25,Assembly Error,INS_EMP_02,0,0.0315
+INS_00773,ORD_00773,PCB Assembly,Plant_Chennai,2024-06-06,1616,95,Assembly Error,INS_EMP_10,0,0.0588
+INS_00774,ORD_00774,Brake Assembly,Plant_Chennai,2024-03-08,1097,82,Dimensional,INS_EMP_09,0,0.0747
+INS_00775,ORD_00775,Brake Assembly,Plant_Ahmedabad,2023-09-17,1980,64,Functional,INS_EMP_02,0,0.0323
+INS_00776,ORD_00776,Brake Assembly,Plant_Delhi,2024-02-18,1441,78,Assembly Error,INS_EMP_08,1,0.0541
+INS_00777,ORD_00777,Control Panel,Plant_Chennai,2024-05-01,651,30,Dimensional,INS_EMP_09,0,0.0461
+INS_00778,ORD_00778,PCB Assembly,Plant_Ahmedabad,2023-02-15,114,7,Functional,INS_EMP_10,0,0.0614
+INS_00779,ORD_00779,Gear Box,Plant_Ahmedabad,2024-04-15,123,0,None,INS_EMP_05,1,0.0
+INS_00780,ORD_00780,Control Panel,Plant_Ahmedabad,2023-12-11,846,64,Functional,INS_EMP_03,0,0.0757
+INS_00781,ORD_00781,Suspension Unit,Plant_Chennai,2023-06-29,164,12,Surface Finish,INS_EMP_07,1,0.0732
+INS_00782,ORD_00782,Suspension Unit,Plant_Delhi,2023-03-07,1259,90,Functional,INS_EMP_07,1,0.0715
+INS_00783,ORD_00783,Clutch Kit,Plant_Pune,2023-04-26,756,40,Surface Finish,INS_EMP_06,0,0.0529
+INS_00784,ORD_00784,Sensor Array,Plant_Pune,2024-09-03,1914,83,Surface Finish,INS_EMP_08,0,0.0434
+INS_00785,ORD_00785,PCB Assembly,Plant_Chennai,2023-12-04,993,79,Functional,INS_EMP_09,0,0.0796
+INS_00786,ORD_00786,Brake Assembly,Plant_Ahmedabad,2024-08-28,698,21,Functional,INS_EMP_04,1,0.0301
+INS_00787,ORD_00787,Suspension Unit,Plant_Chennai,2023-12-29,1079,81,Assembly Error,INS_EMP_01,1,0.0751
+INS_00788,ORD_00788,Clutch Kit,Plant_Chennai,2023-08-13,1351,18,Functional,INS_EMP_10,0,0.0133
+INS_00789,ORD_00789,Suspension Unit,Plant_Delhi,2023-11-22,873,35,Assembly Error,INS_EMP_08,0,0.0401
+INS_00790,ORD_00790,Sensor Array,Plant_Delhi,2023-10-12,1210,0,None,INS_EMP_07,1,0.0
+INS_00791,ORD_00791,Hydraulic Pump,Plant_Ahmedabad,2023-11-20,1408,76,Assembly Error,INS_EMP_05,0,0.054
+INS_00792,ORD_00792,Clutch Kit,Plant_Ahmedabad,2023-02-12,1490,74,Assembly Error,INS_EMP_10,1,0.0497
+INS_00793,ORD_00793,Control Panel,Plant_Pune,2024-10-21,1625,6,Assembly Error,INS_EMP_09,0,0.0037
+INS_00794,ORD_00794,PCB Assembly,Plant_Chennai,2023-06-11,358,0,None,INS_EMP_10,1,0.0
+INS_00795,ORD_00795,Clutch Kit,Plant_Ahmedabad,2024-03-09,1736,79,Assembly Error,INS_EMP_08,1,0.0455
+INS_00796,ORD_00796,Wiring Harness,Plant_Ahmedabad,2023-06-12,106,0,None,INS_EMP_06,1,0.0
+INS_00797,ORD_00797,Control Panel,Plant_Pune,2023-08-03,608,0,None,INS_EMP_10,1,0.0
+INS_00798,ORD_00798,Brake Assembly,Plant_Ahmedabad,2023-01-25,1810,104,Functional,INS_EMP_05,0,0.0575
+INS_00799,ORD_00799,Control Panel,Plant_Delhi,2024-03-11,1533,0,None,INS_EMP_04,1,0.0
+INS_00800,ORD_00800,Sensor Array,Plant_Chennai,2024-07-02,1066,0,None,INS_EMP_09,1,0.0
+INS_00801,ORD_00801,Wiring Harness,Plant_Ahmedabad,2023-09-15,496,8,Functional,INS_EMP_07,1,0.0161
+INS_00802,ORD_00802,Control Panel,Plant_Ahmedabad,2023-03-17,1142,37,Surface Finish,INS_EMP_08,1,0.0324
+INS_00803,ORD_00803,Hydraulic Pump,Plant_Delhi,2023-11-09,1968,103,Surface Finish,INS_EMP_10,0,0.0523
+INS_00804,ORD_00804,Hydraulic Pump,Plant_Ahmedabad,2024-12-07,1976,75,Assembly Error,INS_EMP_10,0,0.038
+INS_00805,ORD_00805,Drive Shaft,Plant_Ahmedabad,2024-12-08,1145,38,Functional,INS_EMP_06,0,0.0332
+INS_00806,ORD_00806,Wiring Harness,Plant_Chennai,2023-05-02,1599,0,None,INS_EMP_03,1,0.0
+INS_00807,ORD_00807,PCB Assembly,Plant_Chennai,2023-11-07,214,0,None,INS_EMP_07,1,0.0
+INS_00808,ORD_00808,Control Panel,Plant_Chennai,2023-07-09,584,21,Dimensional,INS_EMP_03,0,0.036
+INS_00809,ORD_00809,Drive Shaft,Plant_Ahmedabad,2023-03-18,1363,21,Dimensional,INS_EMP_07,0,0.0154
+INS_00810,ORD_00810,Suspension Unit,Plant_Ahmedabad,2023-12-09,218,2,Assembly Error,INS_EMP_07,1,0.0092
+INS_00811,ORD_00811,Sensor Array,Plant_Chennai,2024-06-03,1555,71,Functional,INS_EMP_10,0,0.0457
+INS_00812,ORD_00812,Clutch Kit,Plant_Delhi,2024-03-14,422,12,Dimensional,INS_EMP_05,1,0.0284
+INS_00813,ORD_00813,Clutch Kit,Plant_Chennai,2024-11-15,1333,67,Functional,INS_EMP_02,0,0.0503
+INS_00814,ORD_00814,Gear Box,Plant_Delhi,2024-03-08,928,72,Dimensional,INS_EMP_09,0,0.0776
+INS_00815,ORD_00815,Brake Assembly,Plant_Pune,2024-04-17,1934,85,Dimensional,INS_EMP_08,1,0.044
+INS_00816,ORD_00816,Suspension Unit,Plant_Pune,2023-10-12,1578,0,None,INS_EMP_09,1,0.0
+INS_00817,ORD_00817,Clutch Kit,Plant_Ahmedabad,2024-03-12,886,61,Surface Finish,INS_EMP_05,0,0.0688
+INS_00818,ORD_00818,Sensor Array,Plant_Ahmedabad,2024-09-12,1375,0,None,INS_EMP_06,1,0.0
+INS_00819,ORD_00819,Drive Shaft,Plant_Delhi,2025-01-11,1557,111,Assembly Error,INS_EMP_04,0,0.0713
+INS_00820,ORD_00820,Drive Shaft,Plant_Delhi,2024-05-11,1291,58,Surface Finish,INS_EMP_06,0,0.0449
+INS_00821,ORD_00821,Control Panel,Plant_Delhi,2024-10-11,669,1,Dimensional,INS_EMP_04,0,0.0015
+INS_00822,ORD_00822,Gear Box,Plant_Delhi,2023-10-02,1081,50,Functional,INS_EMP_07,0,0.0463
+INS_00823,ORD_00823,Wiring Harness,Plant_Chennai,2024-03-26,583,0,None,INS_EMP_10,1,0.0
+INS_00824,ORD_00824,Sensor Array,Plant_Ahmedabad,2023-10-28,1305,83,Functional,INS_EMP_04,0,0.0636
+INS_00825,ORD_00825,Drive Shaft,Plant_Pune,2024-06-14,1995,100,Functional,INS_EMP_05,0,0.0501
+INS_00826,ORD_00826,PCB Assembly,Plant_Delhi,2023-09-01,123,0,None,INS_EMP_05,1,0.0
+INS_00827,ORD_00827,Gear Box,Plant_Delhi,2024-04-11,1502,0,None,INS_EMP_04,1,0.0
+INS_00828,ORD_00828,Hydraulic Pump,Plant_Pune,2023-08-27,631,35,Assembly Error,INS_EMP_05,1,0.0555
+INS_00829,ORD_00829,Wiring Harness,Plant_Delhi,2024-07-19,1218,73,Assembly Error,INS_EMP_01,1,0.0599
+INS_00830,ORD_00830,Sensor Array,Plant_Pune,2023-11-12,1443,84,Dimensional,INS_EMP_02,1,0.0582
+INS_00831,ORD_00831,Suspension Unit,Plant_Delhi,2024-05-15,1499,54,Surface Finish,INS_EMP_01,0,0.036
+INS_00832,ORD_00832,Gear Box,Plant_Pune,2024-11-24,1997,53,Dimensional,INS_EMP_07,1,0.0265
+INS_00833,ORD_00833,PCB Assembly,Plant_Delhi,2023-12-25,163,1,Dimensional,INS_EMP_04,1,0.0061
+INS_00834,ORD_00834,Gear Box,Plant_Ahmedabad,2023-07-12,1628,78,Functional,INS_EMP_05,0,0.0479
+INS_00835,ORD_00835,Hydraulic Pump,Plant_Pune,2024-11-20,1389,0,None,INS_EMP_10,1,0.0
+INS_00836,ORD_00836,Hydraulic Pump,Plant_Ahmedabad,2024-01-31,459,26,Dimensional,INS_EMP_08,1,0.0566
+INS_00837,ORD_00837,Control Panel,Plant_Chennai,2024-02-04,431,28,Functional,INS_EMP_09,1,0.065
+INS_00838,ORD_00838,Brake Assembly,Plant_Chennai,2024-11-18,1511,22,Functional,INS_EMP_05,0,0.0146
+INS_00839,ORD_00839,Clutch Kit,Plant_Ahmedabad,2023-04-20,1028,19,Assembly Error,INS_EMP_03,0,0.0185
+INS_00840,ORD_00840,PCB Assembly,Plant_Ahmedabad,2023-03-10,206,12,Functional,INS_EMP_10,1,0.0583
+INS_00841,ORD_00841,Brake Assembly,Plant_Delhi,2024-12-03,1214,18,Assembly Error,INS_EMP_06,1,0.0148
+INS_00842,ORD_00842,Hydraulic Pump,Plant_Chennai,2023-07-31,423,12,Surface Finish,INS_EMP_03,0,0.0284
+INS_00843,ORD_00843,Clutch Kit,Plant_Pune,2024-12-04,1327,0,None,INS_EMP_01,1,0.0
+INS_00844,ORD_00844,PCB Assembly,Plant_Delhi,2023-10-23,1429,31,Functional,INS_EMP_04,1,0.0217
+INS_00845,ORD_00845,Wiring Harness,Plant_Chennai,2024-11-20,992,4,Assembly Error,INS_EMP_05,1,0.004
+INS_00846,ORD_00846,Brake Assembly,Plant_Pune,2024-01-30,1429,62,Functional,INS_EMP_07,1,0.0434
+INS_00847,ORD_00847,Clutch Kit,Plant_Ahmedabad,2023-07-21,1721,0,None,INS_EMP_05,1,0.0
+INS_00848,ORD_00848,Hydraulic Pump,Plant_Ahmedabad,2024-04-20,1332,48,Functional,INS_EMP_10,0,0.036
+INS_00849,ORD_00849,Wiring Harness,Plant_Ahmedabad,2024-03-11,288,0,None,INS_EMP_07,1,0.0
+INS_00850,ORD_00850,Drive Shaft,Plant_Chennai,2024-09-01,462,11,Functional,INS_EMP_02,0,0.0238
+INS_00851,ORD_00851,Suspension Unit,Plant_Chennai,2024-11-06,1510,0,None,INS_EMP_04,1,0.0
+INS_00852,ORD_00852,Clutch Kit,Plant_Delhi,2024-03-03,1101,1,Functional,INS_EMP_08,0,0.0009
+INS_00853,ORD_00853,Wiring Harness,Plant_Delhi,2024-03-29,696,19,Surface Finish,INS_EMP_06,1,0.0273
+INS_00854,ORD_00854,Clutch Kit,Plant_Ahmedabad,2024-11-06,968,14,Surface Finish,INS_EMP_03,0,0.0145
+INS_00855,ORD_00855,Wiring Harness,Plant_Pune,2023-09-14,499,16,Dimensional,INS_EMP_07,0,0.0321
+INS_00856,ORD_00856,Gear Box,Plant_Pune,2024-03-31,1977,24,Surface Finish,INS_EMP_02,1,0.0121
+INS_00857,ORD_00857,Brake Assembly,Plant_Ahmedabad,2024-12-02,314,25,Surface Finish,INS_EMP_03,1,0.0796
+INS_00858,ORD_00858,Sensor Array,Plant_Pune,2023-09-07,1190,21,Assembly Error,INS_EMP_07,1,0.0176
+INS_00859,ORD_00859,Brake Assembly,Plant_Pune,2023-03-02,180,0,None,INS_EMP_09,1,0.0
+INS_00860,ORD_00860,Hydraulic Pump,Plant_Pune,2024-01-12,777,40,Surface Finish,INS_EMP_06,1,0.0515
+INS_00861,ORD_00861,Brake Assembly,Plant_Delhi,2024-11-22,1496,71,Functional,INS_EMP_06,0,0.0475
+INS_00862,ORD_00862,Clutch Kit,Plant_Chennai,2023-05-14,1201,75,Surface Finish,INS_EMP_05,0,0.0624
+INS_00863,ORD_00863,Gear Box,Plant_Chennai,2025-01-12,1610,36,Functional,INS_EMP_06,0,0.0224
+INS_00864,ORD_00864,Clutch Kit,Plant_Ahmedabad,2023-06-05,463,8,Assembly Error,INS_EMP_09,1,0.0173
+INS_00865,ORD_00865,Sensor Array,Plant_Pune,2024-06-09,224,12,Assembly Error,INS_EMP_10,0,0.0536
+INS_00866,ORD_00866,Wiring Harness,Plant_Chennai,2024-04-04,517,5,Assembly Error,INS_EMP_01,1,0.0097
+INS_00867,ORD_00867,Brake Assembly,Plant_Chennai,2023-06-26,70,5,Dimensional,INS_EMP_01,1,0.0714
+INS_00868,ORD_00868,Suspension Unit,Plant_Delhi,2023-07-04,175,10,Functional,INS_EMP_02,1,0.0571
+INS_00869,ORD_00869,Sensor Array,Plant_Chennai,2024-03-20,1864,117,Assembly Error,INS_EMP_05,1,0.0628
+INS_00870,ORD_00870,Control Panel,Plant_Ahmedabad,2024-07-16,1935,59,Assembly Error,INS_EMP_06,0,0.0305
+INS_00871,ORD_00871,Control Panel,Plant_Chennai,2023-08-03,222,5,Functional,INS_EMP_05,1,0.0225
+INS_00872,ORD_00872,Drive Shaft,Plant_Delhi,2024-06-27,689,0,None,INS_EMP_05,1,0.0
+INS_00873,ORD_00873,Brake Assembly,Plant_Delhi,2023-10-02,1754,119,Dimensional,INS_EMP_02,1,0.0678
+INS_00874,ORD_00874,Wiring Harness,Plant_Chennai,2024-10-23,775,0,None,INS_EMP_05,1,0.0
+INS_00875,ORD_00875,Control Panel,Plant_Pune,2024-04-22,533,0,None,INS_EMP_08,1,0.0
+INS_00876,ORD_00876,PCB Assembly,Plant_Pune,2023-11-12,1657,67,Surface Finish,INS_EMP_05,0,0.0404
+INS_00877,ORD_00877,Gear Box,Plant_Ahmedabad,2024-07-03,444,22,Dimensional,INS_EMP_04,1,0.0495
+INS_00878,ORD_00878,Brake Assembly,Plant_Chennai,2023-04-09,920,0,None,INS_EMP_09,1,0.0
+INS_00879,ORD_00879,Wiring Harness,Plant_Ahmedabad,2024-09-14,1112,29,Dimensional,INS_EMP_04,0,0.0261
+INS_00880,ORD_00880,Gear Box,Plant_Delhi,2024-03-31,383,0,None,INS_EMP_04,1,0.0
+INS_00881,ORD_00881,Suspension Unit,Plant_Ahmedabad,2024-05-03,1578,11,Assembly Error,INS_EMP_02,0,0.007
+INS_00882,ORD_00882,Hydraulic Pump,Plant_Chennai,2024-02-04,643,42,Surface Finish,INS_EMP_09,0,0.0653
+INS_00883,ORD_00883,Drive Shaft,Plant_Chennai,2024-05-15,1670,10,Assembly Error,INS_EMP_09,1,0.006
+INS_00884,ORD_00884,Brake Assembly,Plant_Delhi,2023-08-05,1564,0,None,INS_EMP_09,1,0.0
+INS_00885,ORD_00885,Wiring Harness,Plant_Pune,2024-08-21,1208,72,Surface Finish,INS_EMP_02,1,0.0596
+INS_00886,ORD_00886,Brake Assembly,Plant_Ahmedabad,2024-10-30,1609,123,Surface Finish,INS_EMP_09,1,0.0764
+INS_00887,ORD_00887,Hydraulic Pump,Plant_Delhi,2024-02-22,1157,2,Surface Finish,INS_EMP_05,1,0.0017
+INS_00888,ORD_00888,Control Panel,Plant_Delhi,2024-08-31,1680,81,Surface Finish,INS_EMP_02,1,0.0482
+INS_00889,ORD_00889,Wiring Harness,Plant_Delhi,2024-07-29,1601,32,Surface Finish,INS_EMP_08,1,0.02
+INS_00890,ORD_00890,Wiring Harness,Plant_Delhi,2023-07-07,613,21,Assembly Error,INS_EMP_04,1,0.0343
+INS_00891,ORD_00891,Sensor Array,Plant_Ahmedabad,2023-12-10,1256,62,Surface Finish,INS_EMP_09,0,0.0494
+INS_00892,ORD_00892,Brake Assembly,Plant_Pune,2023-02-24,1131,66,Dimensional,INS_EMP_10,0,0.0584
+INS_00893,ORD_00893,Gear Box,Plant_Delhi,2023-07-18,1623,109,Functional,INS_EMP_08,0,0.0672
+INS_00894,ORD_00894,Gear Box,Plant_Ahmedabad,2023-07-08,1510,36,Functional,INS_EMP_07,1,0.0238
+INS_00895,ORD_00895,Suspension Unit,Plant_Pune,2024-02-18,1892,123,Dimensional,INS_EMP_08,1,0.065
+INS_00896,ORD_00896,Control Panel,Plant_Ahmedabad,2024-06-15,1994,152,Surface Finish,INS_EMP_07,0,0.0762
+INS_00897,ORD_00897,Control Panel,Plant_Delhi,2023-02-15,1347,29,Functional,INS_EMP_04,1,0.0215
+INS_00898,ORD_00898,Control Panel,Plant_Pune,2024-11-26,307,19,Surface Finish,INS_EMP_10,1,0.0619
+INS_00899,ORD_00899,Wiring Harness,Plant_Delhi,2024-07-15,1651,111,Assembly Error,INS_EMP_05,1,0.0672
+INS_00900,ORD_00900,Hydraulic Pump,Plant_Chennai,2024-10-09,1387,79,Dimensional,INS_EMP_10,0,0.057
+INS_00901,ORD_00901,Control Panel,Plant_Delhi,2024-10-18,1248,15,Dimensional,INS_EMP_01,1,0.012
+INS_00902,ORD_00902,PCB Assembly,Plant_Pune,2024-03-05,301,8,Assembly Error,INS_EMP_10,0,0.0266
+INS_00903,ORD_00903,Hydraulic Pump,Plant_Pune,2023-12-16,1986,0,None,INS_EMP_04,1,0.0
+INS_00904,ORD_00904,Drive Shaft,Plant_Ahmedabad,2023-08-21,1277,21,Functional,INS_EMP_02,0,0.0164
+INS_00905,ORD_00905,PCB Assembly,Plant_Delhi,2024-11-27,896,0,None,INS_EMP_10,1,0.0
+INS_00906,ORD_00906,PCB Assembly,Plant_Chennai,2023-03-02,1721,134,Assembly Error,INS_EMP_05,1,0.0779
+INS_00907,ORD_00907,Drive Shaft,Plant_Pune,2024-12-17,305,21,Surface Finish,INS_EMP_05,1,0.0689
+INS_00908,ORD_00908,Clutch Kit,Plant_Pune,2024-12-22,782,48,Functional,INS_EMP_09,1,0.0614
+INS_00909,ORD_00909,Drive Shaft,Plant_Pune,2023-02-18,1059,0,None,INS_EMP_10,1,0.0
+INS_00910,ORD_00910,Suspension Unit,Plant_Pune,2023-11-02,1074,75,Assembly Error,INS_EMP_06,1,0.0698
+INS_00911,ORD_00911,Control Panel,Plant_Chennai,2023-06-07,183,9,Surface Finish,INS_EMP_06,1,0.0492
+INS_00912,ORD_00912,Drive Shaft,Plant_Ahmedabad,2025-01-03,1141,82,Functional,INS_EMP_10,1,0.0719
+INS_00913,ORD_00913,Wiring Harness,Plant_Chennai,2024-04-17,883,0,None,INS_EMP_03,1,0.0
+INS_00914,ORD_00914,Drive Shaft,Plant_Ahmedabad,2023-08-22,619,0,None,INS_EMP_02,1,0.0
+INS_00915,ORD_00915,Brake Assembly,Plant_Pune,2023-04-15,1704,0,None,INS_EMP_01,1,0.0
+INS_00916,ORD_00916,PCB Assembly,Plant_Delhi,2023-12-16,178,3,Surface Finish,INS_EMP_02,1,0.0169
+INS_00917,ORD_00917,Sensor Array,Plant_Pune,2023-09-24,270,0,None,INS_EMP_08,1,0.0
+INS_00918,ORD_00918,Brake Assembly,Plant_Delhi,2024-10-13,1614,0,None,INS_EMP_10,1,0.0
+INS_00919,ORD_00919,Drive Shaft,Plant_Chennai,2023-12-17,1470,105,Dimensional,INS_EMP_03,1,0.0714
+INS_00920,ORD_00920,PCB Assembly,Plant_Delhi,2023-03-15,1437,0,None,INS_EMP_09,1,0.0
+INS_00921,ORD_00921,PCB Assembly,Plant_Ahmedabad,2023-09-26,1277,82,Surface Finish,INS_EMP_10,1,0.0642
+INS_00922,ORD_00922,Wiring Harness,Plant_Chennai,2024-10-02,745,30,Dimensional,INS_EMP_01,1,0.0403
+INS_00923,ORD_00923,Suspension Unit,Plant_Pune,2023-04-27,75,0,None,INS_EMP_09,1,0.0
+INS_00924,ORD_00924,Gear Box,Plant_Delhi,2024-01-15,1035,34,Functional,INS_EMP_06,0,0.0329
+INS_00925,ORD_00925,Hydraulic Pump,Plant_Pune,2023-12-07,942,27,Functional,INS_EMP_07,1,0.0287
+INS_00926,ORD_00926,Suspension Unit,Plant_Pune,2023-12-05,752,34,Surface Finish,INS_EMP_07,0,0.0452
+INS_00927,ORD_00927,Clutch Kit,Plant_Pune,2024-07-02,1760,47,Dimensional,INS_EMP_04,0,0.0267
+INS_00928,ORD_00928,Suspension Unit,Plant_Chennai,2023-12-25,1417,68,Surface Finish,INS_EMP_09,1,0.048
+INS_00929,ORD_00929,Drive Shaft,Plant_Ahmedabad,2024-01-01,663,35,Assembly Error,INS_EMP_02,0,0.0528
+INS_00930,ORD_00930,Wiring Harness,Plant_Chennai,2024-10-26,1469,0,None,INS_EMP_04,1,0.0
+INS_00931,ORD_00931,Sensor Array,Plant_Delhi,2024-02-22,1741,0,None,INS_EMP_08,1,0.0
+INS_00932,ORD_00932,Drive Shaft,Plant_Delhi,2023-06-07,951,0,None,INS_EMP_02,1,0.0
+INS_00933,ORD_00933,Control Panel,Plant_Pune,2023-10-26,498,22,Functional,INS_EMP_10,0,0.0442
+INS_00934,ORD_00934,PCB Assembly,Plant_Delhi,2023-01-31,1776,43,Dimensional,INS_EMP_02,1,0.0242
+INS_00935,ORD_00935,Control Panel,Plant_Ahmedabad,2023-11-26,541,37,Assembly Error,INS_EMP_01,1,0.0684
+INS_00936,ORD_00936,Sensor Array,Plant_Ahmedabad,2023-06-04,1677,38,Functional,INS_EMP_09,1,0.0227
+INS_00937,ORD_00937,Sensor Array,Plant_Pune,2024-10-13,437,14,Assembly Error,INS_EMP_04,1,0.032
+INS_00938,ORD_00938,Brake Assembly,Plant_Ahmedabad,2023-06-09,1090,81,Dimensional,INS_EMP_06,0,0.0743
+INS_00939,ORD_00939,Sensor Array,Plant_Ahmedabad,2023-07-10,844,2,Assembly Error,INS_EMP_06,0,0.0024
+INS_00940,ORD_00940,Wiring Harness,Plant_Chennai,2023-07-16,1509,87,Surface Finish,INS_EMP_07,0,0.0577
+INS_00941,ORD_00941,Wiring Harness,Plant_Pune,2024-11-12,1245,16,Dimensional,INS_EMP_10,0,0.0129
+INS_00942,ORD_00942,Hydraulic Pump,Plant_Delhi,2023-11-26,1870,0,None,INS_EMP_02,1,0.0
+INS_00943,ORD_00943,Control Panel,Plant_Chennai,2023-11-16,1112,32,Dimensional,INS_EMP_09,0,0.0288
+INS_00944,ORD_00944,PCB Assembly,Plant_Delhi,2024-05-09,887,0,None,INS_EMP_08,1,0.0
+INS_00945,ORD_00945,Control Panel,Plant_Delhi,2023-09-08,1371,18,Functional,INS_EMP_06,1,0.0131
+INS_00946,ORD_00946,Clutch Kit,Plant_Chennai,2023-04-17,196,4,Dimensional,INS_EMP_07,0,0.0204
+INS_00947,ORD_00947,Control Panel,Plant_Chennai,2024-12-30,612,0,None,INS_EMP_01,1,0.0
+INS_00948,ORD_00948,Suspension Unit,Plant_Delhi,2023-11-14,759,0,None,INS_EMP_06,1,0.0
+INS_00949,ORD_00949,Wiring Harness,Plant_Pune,2023-07-02,864,0,None,INS_EMP_02,1,0.0
+INS_00950,ORD_00950,Sensor Array,Plant_Pune,2024-08-15,1009,0,None,INS_EMP_02,1,0.0
+INS_00951,ORD_00951,Suspension Unit,Plant_Pune,2023-08-20,971,37,Dimensional,INS_EMP_06,0,0.0381
+INS_00952,ORD_00952,PCB Assembly,Plant_Ahmedabad,2024-06-23,1399,39,Surface Finish,INS_EMP_04,1,0.0279
+INS_00953,ORD_00953,Gear Box,Plant_Chennai,2023-12-21,97,4,Surface Finish,INS_EMP_02,1,0.0412
+INS_00954,ORD_00954,Brake Assembly,Plant_Ahmedabad,2024-10-05,1825,0,None,INS_EMP_08,1,0.0
+INS_00955,ORD_00955,Brake Assembly,Plant_Pune,2023-05-05,1216,49,Surface Finish,INS_EMP_07,0,0.0403
+INS_00956,ORD_00956,Clutch Kit,Plant_Delhi,2023-07-05,1742,21,Assembly Error,INS_EMP_04,1,0.0121
+INS_00957,ORD_00957,Sensor Array,Plant_Delhi,2023-08-09,646,0,None,INS_EMP_10,1,0.0
+INS_00958,ORD_00958,Wiring Harness,Plant_Delhi,2024-03-11,371,19,Assembly Error,INS_EMP_04,0,0.0512
+INS_00959,ORD_00959,Gear Box,Plant_Chennai,2023-06-13,471,16,Functional,INS_EMP_10,0,0.034
+INS_00960,ORD_00960,Wiring Harness,Plant_Delhi,2024-06-23,1452,81,Dimensional,INS_EMP_06,1,0.0558
+INS_00961,ORD_00961,Wiring Harness,Plant_Delhi,2023-09-29,723,6,Assembly Error,INS_EMP_06,1,0.0083
+INS_00962,ORD_00962,PCB Assembly,Plant_Pune,2024-11-09,760,43,Assembly Error,INS_EMP_04,0,0.0566
+INS_00963,ORD_00963,Suspension Unit,Plant_Delhi,2023-07-25,1551,111,Functional,INS_EMP_07,1,0.0716
+INS_00964,ORD_00964,Brake Assembly,Plant_Pune,2023-10-03,373,19,Surface Finish,INS_EMP_08,0,0.0509
+INS_00965,ORD_00965,PCB Assembly,Plant_Ahmedabad,2024-07-26,805,45,Functional,INS_EMP_02,0,0.0559
+INS_00966,ORD_00966,PCB Assembly,Plant_Chennai,2023-08-20,141,5,Assembly Error,INS_EMP_04,1,0.0355
+INS_00967,ORD_00967,Sensor Array,Plant_Ahmedabad,2024-02-15,71,0,None,INS_EMP_01,1,0.0
+INS_00968,ORD_00968,Gear Box,Plant_Ahmedabad,2023-03-16,1173,66,Surface Finish,INS_EMP_04,1,0.0563
+INS_00969,ORD_00969,Control Panel,Plant_Ahmedabad,2023-07-23,86,2,Assembly Error,INS_EMP_08,0,0.0233
+INS_00970,ORD_00970,Gear Box,Plant_Pune,2024-12-15,72,5,Surface Finish,INS_EMP_10,1,0.0694
+INS_00971,ORD_00971,Brake Assembly,Plant_Ahmedabad,2023-08-27,1476,53,Assembly Error,INS_EMP_01,1,0.0359
+INS_00972,ORD_00972,Clutch Kit,Plant_Chennai,2023-03-17,59,3,Surface Finish,INS_EMP_03,0,0.0508
+INS_00973,ORD_00973,Brake Assembly,Plant_Pune,2023-04-07,913,33,Assembly Error,INS_EMP_05,0,0.0361
+INS_00974,ORD_00974,Control Panel,Plant_Pune,2023-06-25,901,10,Assembly Error,INS_EMP_01,0,0.0111
+INS_00975,ORD_00975,Sensor Array,Plant_Chennai,2024-07-23,1972,0,None,INS_EMP_08,1,0.0
+INS_00976,ORD_00976,Brake Assembly,Plant_Chennai,2024-03-10,697,41,Functional,INS_EMP_04,1,0.0588
+INS_00977,ORD_00977,Wiring Harness,Plant_Delhi,2023-02-19,1863,0,None,INS_EMP_05,1,0.0
+INS_00978,ORD_00978,Gear Box,Plant_Chennai,2023-07-06,244,9,Assembly Error,INS_EMP_01,1,0.0369
+INS_00979,ORD_00979,Wiring Harness,Plant_Ahmedabad,2024-12-01,188,1,Dimensional,INS_EMP_04,0,0.0053
+INS_00980,ORD_00980,Brake Assembly,Plant_Chennai,2024-06-20,1493,63,Surface Finish,INS_EMP_04,0,0.0422
+INS_00981,ORD_00981,Clutch Kit,Plant_Pune,2023-09-29,212,5,Functional,INS_EMP_08,1,0.0236
+INS_00982,ORD_00982,Sensor Array,Plant_Pune,2024-10-23,537,28,Surface Finish,INS_EMP_03,0,0.0521
+INS_00983,ORD_00983,Hydraulic Pump,Plant_Delhi,2024-11-18,1607,67,Functional,INS_EMP_05,1,0.0417
+INS_00984,ORD_00984,Clutch Kit,Plant_Ahmedabad,2023-12-27,471,34,Dimensional,INS_EMP_10,0,0.0722
+INS_00985,ORD_00985,Clutch Kit,Plant_Delhi,2023-07-24,1339,0,None,INS_EMP_06,1,0.0
+INS_00986,ORD_00986,Clutch Kit,Plant_Delhi,2023-05-14,405,2,Surface Finish,INS_EMP_10,1,0.0049
+INS_00987,ORD_00987,Clutch Kit,Plant_Chennai,2023-11-23,1527,0,None,INS_EMP_01,1,0.0
+INS_00988,ORD_00988,Sensor Array,Plant_Ahmedabad,2024-04-27,462,32,Assembly Error,INS_EMP_07,1,0.0693
+INS_00989,ORD_00989,Wiring Harness,Plant_Delhi,2024-05-14,915,0,None,INS_EMP_01,1,0.0
+INS_00990,ORD_00990,Control Panel,Plant_Pune,2023-04-23,1906,0,None,INS_EMP_03,1,0.0
+INS_00991,ORD_00991,Brake Assembly,Plant_Chennai,2024-05-01,978,65,Surface Finish,INS_EMP_09,1,0.0665
+INS_00992,ORD_00992,Sensor Array,Plant_Ahmedabad,2023-07-27,1926,0,None,INS_EMP_09,1,0.0
+INS_00993,ORD_00993,Brake Assembly,Plant_Ahmedabad,2024-03-06,814,35,Assembly Error,INS_EMP_06,1,0.043
+INS_00994,ORD_00994,Sensor Array,Plant_Ahmedabad,2024-02-20,382,28,Dimensional,INS_EMP_04,1,0.0733
+INS_00995,ORD_00995,Drive Shaft,Plant_Chennai,2024-11-12,1947,0,None,INS_EMP_08,1,0.0
+INS_00996,ORD_00996,Suspension Unit,Plant_Pune,2023-10-17,982,63,Surface Finish,INS_EMP_02,1,0.0642
+INS_00997,ORD_00997,Brake Assembly,Plant_Pune,2023-04-28,1507,114,Functional,INS_EMP_04,0,0.0756
+INS_00998,ORD_00998,Suspension Unit,Plant_Chennai,2024-03-24,1466,104,Assembly Error,INS_EMP_09,0,0.0709
+INS_00999,ORD_00999,Hydraulic Pump,Plant_Pune,2023-05-15,1222,97,Dimensional,INS_EMP_07,1,0.0794
+INS_01000,ORD_01000,Control Panel,Plant_Ahmedabad,2023-01-15,1721,52,Dimensional,INS_EMP_05,0,0.0302
+INS_01001,ORD_01001,Gear Box,Plant_Delhi,2023-07-02,817,0,None,INS_EMP_09,1,0.0
+INS_01002,ORD_01002,Hydraulic Pump,Plant_Ahmedabad,2023-08-14,461,0,None,INS_EMP_02,1,0.0
+INS_01003,ORD_01003,Brake Assembly,Plant_Chennai,2023-05-22,1353,0,None,INS_EMP_08,1,0.0
+INS_01004,ORD_01004,Drive Shaft,Plant_Delhi,2023-02-21,530,36,Surface Finish,INS_EMP_08,1,0.0679
+INS_01005,ORD_01005,Drive Shaft,Plant_Ahmedabad,2024-12-03,1666,132,Functional,INS_EMP_04,0,0.0792
+INS_01006,ORD_01006,Sensor Array,Plant_Chennai,2023-10-18,1019,52,Surface Finish,INS_EMP_05,1,0.051
+INS_01007,ORD_01007,Sensor Array,Plant_Delhi,2024-01-29,866,2,Assembly Error,INS_EMP_05,0,0.0023
+INS_01008,ORD_01008,Suspension Unit,Plant_Delhi,2024-12-31,1535,92,Surface Finish,INS_EMP_01,0,0.0599
+INS_01009,ORD_01009,Control Panel,Plant_Ahmedabad,2025-01-13,1719,0,None,INS_EMP_02,1,0.0
+INS_01010,ORD_01010,Sensor Array,Plant_Ahmedabad,2024-11-13,709,13,Functional,INS_EMP_09,1,0.0183
+INS_01011,ORD_01011,Wiring Harness,Plant_Delhi,2024-05-26,1563,24,Dimensional,INS_EMP_09,0,0.0154
+INS_01012,ORD_01012,Control Panel,Plant_Delhi,2024-09-22,1508,18,Assembly Error,INS_EMP_06,1,0.0119
+INS_01013,ORD_01013,Gear Box,Plant_Ahmedabad,2023-04-12,1754,11,Surface Finish,INS_EMP_05,0,0.0063
+INS_01014,ORD_01014,Brake Assembly,Plant_Ahmedabad,2024-11-29,543,15,Surface Finish,INS_EMP_02,0,0.0276
+INS_01015,ORD_01015,Brake Assembly,Plant_Pune,2023-12-16,1619,116,Functional,INS_EMP_08,0,0.0716
+INS_01016,ORD_01016,Suspension Unit,Plant_Delhi,2023-05-01,1466,35,Dimensional,INS_EMP_05,0,0.0239
+INS_01017,ORD_01017,Clutch Kit,Plant_Pune,2024-02-18,1365,8,Dimensional,INS_EMP_08,1,0.0059
+INS_01018,ORD_01018,Brake Assembly,Plant_Chennai,2023-10-30,278,19,Dimensional,INS_EMP_04,0,0.0683
+INS_01019,ORD_01019,Clutch Kit,Plant_Ahmedabad,2024-02-15,1559,48,Functional,INS_EMP_04,0,0.0308
+INS_01020,ORD_01020,Suspension Unit,Plant_Pune,2024-02-06,1441,80,Dimensional,INS_EMP_08,1,0.0555
+INS_01021,ORD_01021,Clutch Kit,Plant_Ahmedabad,2023-01-30,1795,37,Dimensional,INS_EMP_03,1,0.0206
+INS_01022,ORD_01022,Suspension Unit,Plant_Chennai,2024-09-19,348,0,None,INS_EMP_08,1,0.0
+INS_01023,ORD_01023,Clutch Kit,Plant_Ahmedabad,2024-12-12,610,38,Dimensional,INS_EMP_09,1,0.0623
+INS_01024,ORD_01024,Drive Shaft,Plant_Pune,2023-03-30,732,48,Surface Finish,INS_EMP_07,1,0.0656
+INS_01025,ORD_01025,Control Panel,Plant_Ahmedabad,2023-12-02,1400,0,None,INS_EMP_07,1,0.0
+INS_01026,ORD_01026,Hydraulic Pump,Plant_Chennai,2024-12-13,763,12,Surface Finish,INS_EMP_03,1,0.0157
+INS_01027,ORD_01027,Hydraulic Pump,Plant_Ahmedabad,2024-02-14,318,16,Dimensional,INS_EMP_05,0,0.0503
+INS_01028,ORD_01028,Clutch Kit,Plant_Pune,2023-06-07,1475,38,Surface Finish,INS_EMP_01,1,0.0258
+INS_01029,ORD_01029,PCB Assembly,Plant_Pune,2024-08-18,1439,23,Surface Finish,INS_EMP_07,0,0.016
+INS_01030,ORD_01030,Sensor Array,Plant_Ahmedabad,2024-01-18,417,4,Dimensional,INS_EMP_01,0,0.0096
+INS_01031,ORD_01031,Gear Box,Plant_Ahmedabad,2023-09-12,293,13,Functional,INS_EMP_09,1,0.0444
+INS_01032,ORD_01032,Brake Assembly,Plant_Delhi,2024-11-11,613,45,Dimensional,INS_EMP_07,0,0.0734
+INS_01033,ORD_01033,Suspension Unit,Plant_Ahmedabad,2024-06-07,1419,61,Dimensional,INS_EMP_01,0,0.043
+INS_01034,ORD_01034,Hydraulic Pump,Plant_Pune,2024-09-07,836,0,None,INS_EMP_07,1,0.0
+INS_01035,ORD_01035,Drive Shaft,Plant_Ahmedabad,2023-04-01,1911,44,Assembly Error,INS_EMP_01,0,0.023
+INS_01036,ORD_01036,Clutch Kit,Plant_Delhi,2024-07-14,180,1,Dimensional,INS_EMP_10,1,0.0056
+INS_01037,ORD_01037,Drive Shaft,Plant_Pune,2024-12-20,60,4,Surface Finish,INS_EMP_07,0,0.0667
+INS_01038,ORD_01038,Brake Assembly,Plant_Delhi,2024-11-07,229,12,Dimensional,INS_EMP_04,1,0.0524
+INS_01039,ORD_01039,Clutch Kit,Plant_Chennai,2024-01-28,401,0,None,INS_EMP_10,1,0.0
+INS_01040,ORD_01040,Control Panel,Plant_Chennai,2023-11-21,1143,2,Dimensional,INS_EMP_06,1,0.0017
+INS_01041,ORD_01041,Drive Shaft,Plant_Pune,2024-06-15,1458,78,Assembly Error,INS_EMP_06,0,0.0535
+INS_01042,ORD_01042,Gear Box,Plant_Ahmedabad,2023-08-16,1283,13,Dimensional,INS_EMP_08,0,0.0101
+INS_01043,ORD_01043,Brake Assembly,Plant_Chennai,2023-09-30,831,43,Surface Finish,INS_EMP_10,0,0.0517
+INS_01044,ORD_01044,Sensor Array,Plant_Pune,2024-07-11,194,13,Dimensional,INS_EMP_08,0,0.067
+INS_01045,ORD_01045,Brake Assembly,Plant_Chennai,2023-12-18,938,0,None,INS_EMP_08,1,0.0
+INS_01046,ORD_01046,Sensor Array,Plant_Chennai,2023-05-17,1173,25,Dimensional,INS_EMP_01,1,0.0213
+INS_01047,ORD_01047,PCB Assembly,Plant_Delhi,2023-08-31,70,2,Surface Finish,INS_EMP_02,0,0.0286
+INS_01048,ORD_01048,Brake Assembly,Plant_Chennai,2024-07-19,1843,139,Surface Finish,INS_EMP_07,0,0.0754
+INS_01049,ORD_01049,PCB Assembly,Plant_Pune,2024-07-29,1294,0,None,INS_EMP_08,1,0.0
+INS_01050,ORD_01050,Hydraulic Pump,Plant_Delhi,2024-08-09,1856,100,Dimensional,INS_EMP_08,0,0.0539
+INS_01051,ORD_01051,Sensor Array,Plant_Pune,2024-11-11,342,4,Surface Finish,INS_EMP_01,1,0.0117
+INS_01052,ORD_01052,Control Panel,Plant_Chennai,2025-01-10,424,18,Functional,INS_EMP_07,0,0.0425
+INS_01053,ORD_01053,Hydraulic Pump,Plant_Ahmedabad,2024-07-12,1855,29,Assembly Error,INS_EMP_10,0,0.0156
+INS_01054,ORD_01054,Suspension Unit,Plant_Delhi,2024-10-16,207,0,None,INS_EMP_02,1,0.0
+INS_01055,ORD_01055,Control Panel,Plant_Pune,2024-08-08,1705,2,Assembly Error,INS_EMP_08,1,0.0012
+INS_01056,ORD_01056,Drive Shaft,Plant_Pune,2024-07-05,1436,32,Functional,INS_EMP_07,0,0.0223
+INS_01057,ORD_01057,Suspension Unit,Plant_Delhi,2025-01-09,1585,106,Surface Finish,INS_EMP_04,1,0.0669
+INS_01058,ORD_01058,Gear Box,Plant_Delhi,2023-07-16,1955,34,Functional,INS_EMP_03,1,0.0174
+INS_01059,ORD_01059,Sensor Array,Plant_Delhi,2024-06-24,2000,24,Surface Finish,INS_EMP_07,0,0.012
+INS_01060,ORD_01060,Hydraulic Pump,Plant_Chennai,2024-08-05,1619,88,Surface Finish,INS_EMP_03,0,0.0544
+INS_01061,ORD_01061,Drive Shaft,Plant_Ahmedabad,2024-10-29,856,0,None,INS_EMP_05,1,0.0
+INS_01062,ORD_01062,Brake Assembly,Plant_Delhi,2023-03-14,62,2,Dimensional,INS_EMP_01,1,0.0323
+INS_01063,ORD_01063,Control Panel,Plant_Pune,2024-03-01,68,4,Functional,INS_EMP_08,0,0.0588
+INS_01064,ORD_01064,PCB Assembly,Plant_Chennai,2024-05-17,368,20,Assembly Error,INS_EMP_01,0,0.0543
+INS_01065,ORD_01065,Wiring Harness,Plant_Pune,2024-03-22,1148,54,Surface Finish,INS_EMP_06,1,0.047
+INS_01066,ORD_01066,Clutch Kit,Plant_Chennai,2024-03-23,785,15,Dimensional,INS_EMP_03,1,0.0191
+INS_01067,ORD_01067,Wiring Harness,Plant_Chennai,2024-02-25,1573,11,Assembly Error,INS_EMP_08,1,0.007
+INS_01068,ORD_01068,PCB Assembly,Plant_Ahmedabad,2024-06-04,1064,0,None,INS_EMP_01,1,0.0
+INS_01069,ORD_01069,Clutch Kit,Plant_Delhi,2023-05-19,93,3,Surface Finish,INS_EMP_06,1,0.0323
+INS_01070,ORD_01070,Brake Assembly,Plant_Ahmedabad,2024-09-29,66,0,None,INS_EMP_09,1,0.0
+INS_01071,ORD_01071,Hydraulic Pump,Plant_Pune,2023-07-02,1097,15,Functional,INS_EMP_07,0,0.0137
+INS_01072,ORD_01072,Suspension Unit,Plant_Pune,2024-05-25,1653,28,Surface Finish,INS_EMP_02,0,0.0169
+INS_01073,ORD_01073,Hydraulic Pump,Plant_Pune,2024-10-29,354,18,Functional,INS_EMP_10,0,0.0508
+INS_01074,ORD_01074,Control Panel,Plant_Chennai,2023-02-10,458,28,Surface Finish,INS_EMP_09,1,0.0611
+INS_01075,ORD_01075,Hydraulic Pump,Plant_Delhi,2023-12-27,1031,78,Functional,INS_EMP_09,1,0.0757
+INS_01076,ORD_01076,Gear Box,Plant_Delhi,2023-10-29,1507,62,Functional,INS_EMP_09,1,0.0411
+INS_01077,ORD_01077,Brake Assembly,Plant_Ahmedabad,2024-12-03,708,0,None,INS_EMP_07,1,0.0
+INS_01078,ORD_01078,Control Panel,Plant_Pune,2024-06-01,734,14,Surface Finish,INS_EMP_08,1,0.0191
+INS_01079,ORD_01079,Hydraulic Pump,Plant_Pune,2024-02-01,1644,3,Dimensional,INS_EMP_09,1,0.0018
+INS_01080,ORD_01080,Suspension Unit,Plant_Pune,2023-04-06,317,15,Functional,INS_EMP_05,0,0.0473
+INS_01081,ORD_01081,Clutch Kit,Plant_Pune,2023-04-17,1978,0,None,INS_EMP_04,1,0.0
+INS_01082,ORD_01082,Sensor Array,Plant_Chennai,2023-08-01,1177,85,Assembly Error,INS_EMP_09,0,0.0722
+INS_01083,ORD_01083,Drive Shaft,Plant_Pune,2024-03-27,1038,0,None,INS_EMP_02,1,0.0
+INS_01084,ORD_01084,PCB Assembly,Plant_Ahmedabad,2024-12-21,643,0,None,INS_EMP_01,1,0.0
+INS_01085,ORD_01085,PCB Assembly,Plant_Chennai,2023-03-26,946,38,Assembly Error,INS_EMP_10,0,0.0402
+INS_01086,ORD_01086,Wiring Harness,Plant_Chennai,2023-01-12,1221,56,Dimensional,INS_EMP_05,0,0.0459
+INS_01087,ORD_01087,Control Panel,Plant_Pune,2023-11-25,599,26,Dimensional,INS_EMP_10,0,0.0434
+INS_01088,ORD_01088,Drive Shaft,Plant_Pune,2024-10-23,1979,156,Assembly Error,INS_EMP_03,0,0.0788
+INS_01089,ORD_01089,Sensor Array,Plant_Delhi,2023-05-02,1378,30,Functional,INS_EMP_05,1,0.0218
+INS_01090,ORD_01090,Drive Shaft,Plant_Chennai,2023-06-02,1889,0,None,INS_EMP_07,1,0.0
+INS_01091,ORD_01091,Brake Assembly,Plant_Ahmedabad,2023-07-11,82,4,Functional,INS_EMP_01,0,0.0488
+INS_01092,ORD_01092,Suspension Unit,Plant_Ahmedabad,2024-07-27,1722,58,Dimensional,INS_EMP_10,1,0.0337
+INS_01093,ORD_01093,Brake Assembly,Plant_Ahmedabad,2023-09-21,1537,36,Functional,INS_EMP_07,0,0.0234
+INS_01094,ORD_01094,Hydraulic Pump,Plant_Delhi,2023-08-07,1816,3,Surface Finish,INS_EMP_03,0,0.0017
+INS_01095,ORD_01095,Brake Assembly,Plant_Ahmedabad,2023-07-30,857,26,Surface Finish,INS_EMP_08,0,0.0303
+INS_01096,ORD_01096,Suspension Unit,Plant_Delhi,2024-11-06,255,12,Dimensional,INS_EMP_06,0,0.0471
+INS_01097,ORD_01097,Gear Box,Plant_Pune,2023-01-28,1742,56,Surface Finish,INS_EMP_01,0,0.0321
+INS_01098,ORD_01098,Control Panel,Plant_Chennai,2023-06-19,1278,3,Dimensional,INS_EMP_09,1,0.0023
+INS_01099,ORD_01099,Hydraulic Pump,Plant_Chennai,2023-06-10,1605,75,Surface Finish,INS_EMP_07,1,0.0467
+INS_01100,ORD_01100,Drive Shaft,Plant_Delhi,2023-09-11,1163,76,Surface Finish,INS_EMP_02,0,0.0653
+INS_01101,ORD_01101,Clutch Kit,Plant_Delhi,2023-11-06,1097,67,Dimensional,INS_EMP_09,0,0.0611
+INS_01102,ORD_01102,Brake Assembly,Plant_Ahmedabad,2024-02-06,773,17,Dimensional,INS_EMP_02,1,0.022
+INS_01103,ORD_01103,Sensor Array,Plant_Delhi,2023-08-24,627,2,Dimensional,INS_EMP_10,0,0.0032
+INS_01104,ORD_01104,Gear Box,Plant_Chennai,2023-06-12,927,73,Assembly Error,INS_EMP_03,0,0.0787
+INS_01105,ORD_01105,Brake Assembly,Plant_Delhi,2023-12-29,605,44,Surface Finish,INS_EMP_08,0,0.0727
+INS_01106,ORD_01106,Brake Assembly,Plant_Delhi,2023-12-01,849,59,Assembly Error,INS_EMP_10,0,0.0695
+INS_01107,ORD_01107,Sensor Array,Plant_Chennai,2023-10-20,235,1,Assembly Error,INS_EMP_09,1,0.0043
+INS_01108,ORD_01108,Clutch Kit,Plant_Ahmedabad,2024-06-01,897,70,Functional,INS_EMP_02,1,0.078
+INS_01109,ORD_01109,PCB Assembly,Plant_Delhi,2024-06-13,1143,34,Assembly Error,INS_EMP_07,0,0.0297
+INS_01110,ORD_01110,Clutch Kit,Plant_Chennai,2024-07-14,1640,13,Dimensional,INS_EMP_01,1,0.0079
+INS_01111,ORD_01111,Drive Shaft,Plant_Chennai,2023-02-01,1193,32,Surface Finish,INS_EMP_07,0,0.0268
+INS_01112,ORD_01112,Clutch Kit,Plant_Pune,2023-11-15,345,24,Dimensional,INS_EMP_04,1,0.0696
+INS_01113,ORD_01113,PCB Assembly,Plant_Chennai,2023-05-28,1474,13,Dimensional,INS_EMP_09,0,0.0088
+INS_01114,ORD_01114,Drive Shaft,Plant_Pune,2024-11-30,201,3,Functional,INS_EMP_10,1,0.0149
+INS_01115,ORD_01115,Gear Box,Plant_Pune,2023-04-01,207,11,Functional,INS_EMP_09,0,0.0531
+INS_01116,ORD_01116,Wiring Harness,Plant_Delhi,2024-07-19,1993,0,None,INS_EMP_05,1,0.0
+INS_01117,ORD_01117,Control Panel,Plant_Pune,2023-06-13,1854,5,Surface Finish,INS_EMP_04,1,0.0027
+INS_01118,ORD_01118,Suspension Unit,Plant_Chennai,2024-04-02,1991,18,Dimensional,INS_EMP_06,0,0.009
+INS_01119,ORD_01119,Clutch Kit,Plant_Ahmedabad,2023-06-21,238,8,Functional,INS_EMP_05,1,0.0336
+INS_01120,ORD_01120,Brake Assembly,Plant_Ahmedabad,2023-08-28,426,2,Assembly Error,INS_EMP_08,1,0.0047
+INS_01121,ORD_01121,PCB Assembly,Plant_Pune,2024-11-22,879,33,Assembly Error,INS_EMP_05,1,0.0375
+INS_01122,ORD_01122,Clutch Kit,Plant_Chennai,2023-04-22,792,28,Assembly Error,INS_EMP_08,0,0.0354
+INS_01123,ORD_01123,Clutch Kit,Plant_Pune,2023-04-25,483,7,Dimensional,INS_EMP_01,0,0.0145
+INS_01124,ORD_01124,Drive Shaft,Plant_Delhi,2023-10-08,1217,83,Functional,INS_EMP_01,0,0.0682
+INS_01125,ORD_01125,Clutch Kit,Plant_Chennai,2023-11-16,780,0,None,INS_EMP_02,1,0.0
+INS_01126,ORD_01126,Brake Assembly,Plant_Pune,2023-06-07,1431,0,None,INS_EMP_03,1,0.0
+INS_01127,ORD_01127,Gear Box,Plant_Ahmedabad,2024-02-14,1250,84,Surface Finish,INS_EMP_04,1,0.0672
+INS_01128,ORD_01128,Control Panel,Plant_Chennai,2023-09-04,1703,0,None,INS_EMP_05,1,0.0
+INS_01129,ORD_01129,PCB Assembly,Plant_Pune,2023-12-26,787,10,Dimensional,INS_EMP_07,0,0.0127
+INS_01130,ORD_01130,Drive Shaft,Plant_Pune,2024-09-18,362,17,Dimensional,INS_EMP_06,0,0.047
+INS_01131,ORD_01131,Gear Box,Plant_Delhi,2023-04-18,242,9,Assembly Error,INS_EMP_06,0,0.0372
+INS_01132,ORD_01132,Hydraulic Pump,Plant_Ahmedabad,2024-01-22,232,8,Assembly Error,INS_EMP_06,0,0.0345
+INS_01133,ORD_01133,Sensor Array,Plant_Chennai,2024-11-03,1974,80,Assembly Error,INS_EMP_03,0,0.0405
+INS_01134,ORD_01134,Sensor Array,Plant_Chennai,2024-10-20,314,15,Functional,INS_EMP_01,0,0.0478
+INS_01135,ORD_01135,Suspension Unit,Plant_Delhi,2024-06-19,588,6,Functional,INS_EMP_03,0,0.0102
+INS_01136,ORD_01136,PCB Assembly,Plant_Delhi,2023-01-16,1797,0,None,INS_EMP_03,1,0.0
+INS_01137,ORD_01137,Wiring Harness,Plant_Delhi,2024-05-12,241,0,None,INS_EMP_06,1,0.0
+INS_01138,ORD_01138,Sensor Array,Plant_Chennai,2023-05-06,1623,30,Dimensional,INS_EMP_07,0,0.0185
+INS_01139,ORD_01139,Control Panel,Plant_Pune,2023-08-31,1568,101,Surface Finish,INS_EMP_06,1,0.0644
+INS_01140,ORD_01140,Drive Shaft,Plant_Chennai,2024-10-26,705,0,None,INS_EMP_01,1,0.0
+INS_01141,ORD_01141,Hydraulic Pump,Plant_Chennai,2023-08-11,483,26,Functional,INS_EMP_02,0,0.0538
+INS_01142,ORD_01142,PCB Assembly,Plant_Pune,2023-05-31,610,30,Dimensional,INS_EMP_10,0,0.0492
+INS_01143,ORD_01143,Gear Box,Plant_Pune,2023-03-02,1882,15,Surface Finish,INS_EMP_05,1,0.008
+INS_01144,ORD_01144,Sensor Array,Plant_Ahmedabad,2024-05-26,1146,4,Assembly Error,INS_EMP_01,0,0.0035
+INS_01145,ORD_01145,Sensor Array,Plant_Chennai,2024-09-12,209,8,Surface Finish,INS_EMP_09,0,0.0383
+INS_01146,ORD_01146,Hydraulic Pump,Plant_Delhi,2024-04-21,1072,12,Assembly Error,INS_EMP_01,0,0.0112
+INS_01147,ORD_01147,Clutch Kit,Plant_Ahmedabad,2024-10-28,1358,26,Surface Finish,INS_EMP_03,1,0.0191
+INS_01148,ORD_01148,Drive Shaft,Plant_Chennai,2024-09-22,492,23,Dimensional,INS_EMP_02,0,0.0467
+INS_01149,ORD_01149,Wiring Harness,Plant_Ahmedabad,2023-11-18,1078,84,Dimensional,INS_EMP_05,1,0.0779
+INS_01150,ORD_01150,Brake Assembly,Plant_Pune,2024-01-25,1160,64,Dimensional,INS_EMP_07,1,0.0552
+INS_01151,ORD_01151,Hydraulic Pump,Plant_Ahmedabad,2024-01-26,1182,29,Functional,INS_EMP_05,1,0.0245
+INS_01152,ORD_01152,Suspension Unit,Plant_Ahmedabad,2023-04-17,1700,12,Assembly Error,INS_EMP_05,0,0.0071
+INS_01153,ORD_01153,Hydraulic Pump,Plant_Ahmedabad,2024-10-20,254,15,Surface Finish,INS_EMP_07,0,0.0591
+INS_01154,ORD_01154,Sensor Array,Plant_Ahmedabad,2024-04-30,830,50,Functional,INS_EMP_01,0,0.0602
+INS_01155,ORD_01155,Hydraulic Pump,Plant_Ahmedabad,2023-01-22,1651,0,None,INS_EMP_02,1,0.0
+INS_01156,ORD_01156,Suspension Unit,Plant_Chennai,2024-03-04,81,2,Functional,INS_EMP_01,1,0.0247
+INS_01157,ORD_01157,PCB Assembly,Plant_Delhi,2024-08-24,545,41,Assembly Error,INS_EMP_04,1,0.0752
+INS_01158,ORD_01158,Control Panel,Plant_Pune,2023-06-04,849,20,Assembly Error,INS_EMP_05,0,0.0236
+INS_01159,ORD_01159,PCB Assembly,Plant_Chennai,2023-05-07,1690,108,Functional,INS_EMP_02,1,0.0639
+INS_01160,ORD_01160,Gear Box,Plant_Delhi,2023-12-06,240,18,Assembly Error,INS_EMP_03,0,0.075
+INS_01161,ORD_01161,Sensor Array,Plant_Pune,2023-04-12,833,13,Functional,INS_EMP_03,1,0.0156
+INS_01162,ORD_01162,Hydraulic Pump,Plant_Delhi,2023-11-10,1146,51,Surface Finish,INS_EMP_08,0,0.0445
+INS_01163,ORD_01163,Brake Assembly,Plant_Ahmedabad,2023-06-20,97,0,None,INS_EMP_07,1,0.0
+INS_01164,ORD_01164,Wiring Harness,Plant_Chennai,2023-04-27,628,46,Assembly Error,INS_EMP_07,1,0.0732
+INS_01165,ORD_01165,Clutch Kit,Plant_Ahmedabad,2023-05-02,1679,40,Assembly Error,INS_EMP_03,1,0.0238
+INS_01166,ORD_01166,Suspension Unit,Plant_Delhi,2024-10-27,1705,114,Dimensional,INS_EMP_07,1,0.0669
+INS_01167,ORD_01167,Hydraulic Pump,Plant_Delhi,2024-01-09,1307,0,None,INS_EMP_05,1,0.0
+INS_01168,ORD_01168,Sensor Array,Plant_Delhi,2023-02-20,97,0,None,INS_EMP_05,1,0.0
+INS_01169,ORD_01169,Hydraulic Pump,Plant_Chennai,2023-12-09,500,30,Assembly Error,INS_EMP_02,0,0.06
+INS_01170,ORD_01170,PCB Assembly,Plant_Ahmedabad,2023-04-19,1500,0,None,INS_EMP_01,1,0.0
+INS_01171,ORD_01171,Brake Assembly,Plant_Chennai,2023-07-06,1457,47,Surface Finish,INS_EMP_01,0,0.0323
+INS_01172,ORD_01172,Sensor Array,Plant_Delhi,2024-05-30,1858,28,Assembly Error,INS_EMP_09,1,0.0151
+INS_01173,ORD_01173,Wiring Harness,Plant_Pune,2024-03-24,1211,0,None,INS_EMP_10,1,0.0
+INS_01174,ORD_01174,Sensor Array,Plant_Ahmedabad,2023-10-08,889,39,Assembly Error,INS_EMP_03,0,0.0439
+INS_01175,ORD_01175,Brake Assembly,Plant_Pune,2023-08-01,710,21,Surface Finish,INS_EMP_05,0,0.0296
+INS_01176,ORD_01176,Sensor Array,Plant_Pune,2023-06-25,693,4,Functional,INS_EMP_05,1,0.0058
+INS_01177,ORD_01177,Control Panel,Plant_Pune,2023-12-06,1200,71,Assembly Error,INS_EMP_03,0,0.0592
+INS_01178,ORD_01178,Suspension Unit,Plant_Ahmedabad,2023-11-06,1294,12,Surface Finish,INS_EMP_06,1,0.0093
+INS_01179,ORD_01179,Hydraulic Pump,Plant_Ahmedabad,2023-12-03,453,23,Functional,INS_EMP_03,1,0.0508
+INS_01180,ORD_01180,Drive Shaft,Plant_Chennai,2024-04-16,1281,74,Functional,INS_EMP_03,0,0.0578
+INS_01181,ORD_01181,Control Panel,Plant_Delhi,2023-01-22,632,43,Assembly Error,INS_EMP_05,1,0.068
+INS_01182,ORD_01182,Hydraulic Pump,Plant_Chennai,2023-03-31,244,4,Dimensional,INS_EMP_02,1,0.0164
+INS_01183,ORD_01183,Hydraulic Pump,Plant_Ahmedabad,2023-04-12,1636,21,Surface Finish,INS_EMP_09,0,0.0128
+INS_01184,ORD_01184,Gear Box,Plant_Delhi,2024-02-09,260,8,Assembly Error,INS_EMP_01,1,0.0308
+INS_01185,ORD_01185,Control Panel,Plant_Delhi,2023-08-28,230,10,Surface Finish,INS_EMP_04,1,0.0435
+INS_01186,ORD_01186,Suspension Unit,Plant_Ahmedabad,2023-02-20,148,0,None,INS_EMP_05,1,0.0
+INS_01187,ORD_01187,Suspension Unit,Plant_Ahmedabad,2023-06-12,993,0,None,INS_EMP_09,1,0.0
+INS_01188,ORD_01188,Sensor Array,Plant_Ahmedabad,2024-07-07,542,5,Surface Finish,INS_EMP_09,1,0.0092
+INS_01189,ORD_01189,Clutch Kit,Plant_Delhi,2023-10-25,656,0,None,INS_EMP_07,1,0.0
+INS_01190,ORD_01190,Clutch Kit,Plant_Ahmedabad,2023-03-12,76,0,None,INS_EMP_01,1,0.0
+INS_01191,ORD_01191,Hydraulic Pump,Plant_Ahmedabad,2023-08-31,1259,52,Assembly Error,INS_EMP_05,0,0.0413
+INS_01192,ORD_01192,Suspension Unit,Plant_Pune,2023-04-26,498,7,Functional,INS_EMP_02,0,0.0141
+INS_01193,ORD_01193,Brake Assembly,Plant_Pune,2023-03-23,916,12,Surface Finish,INS_EMP_03,1,0.0131
+INS_01194,ORD_01194,Wiring Harness,Plant_Ahmedabad,2023-05-03,83,2,Functional,INS_EMP_05,0,0.0241
+INS_01195,ORD_01195,Control Panel,Plant_Ahmedabad,2023-05-22,222,8,Surface Finish,INS_EMP_01,0,0.036
+INS_01196,ORD_01196,PCB Assembly,Plant_Pune,2023-03-13,608,4,Assembly Error,INS_EMP_05,1,0.0066
+INS_01197,ORD_01197,PCB Assembly,Plant_Delhi,2024-02-25,1266,31,Dimensional,INS_EMP_08,0,0.0245
+INS_01198,ORD_01198,Clutch Kit,Plant_Delhi,2023-05-04,285,21,Dimensional,INS_EMP_09,1,0.0737
+INS_01199,ORD_01199,PCB Assembly,Plant_Delhi,2023-10-20,1857,15,Dimensional,INS_EMP_04,0,0.0081
+INS_01200,ORD_01200,Suspension Unit,Plant_Chennai,2024-05-31,400,13,Dimensional,INS_EMP_02,1,0.0325
+INS_01201,ORD_01201,Clutch Kit,Plant_Pune,2023-07-28,1909,0,None,INS_EMP_10,1,0.0
+INS_01202,ORD_01202,Wiring Harness,Plant_Ahmedabad,2023-06-28,730,0,None,INS_EMP_10,1,0.0
+INS_01203,ORD_01203,Suspension Unit,Plant_Chennai,2023-07-12,1854,21,Dimensional,INS_EMP_02,1,0.0113
+INS_01204,ORD_01204,Suspension Unit,Plant_Chennai,2023-01-20,1838,4,Dimensional,INS_EMP_04,1,0.0022
+INS_01205,ORD_01205,Sensor Array,Plant_Ahmedabad,2024-06-07,1596,105,Assembly Error,INS_EMP_02,0,0.0658
+INS_01206,ORD_01206,Sensor Array,Plant_Chennai,2024-07-23,1408,97,Dimensional,INS_EMP_08,0,0.0689
+INS_01207,ORD_01207,Hydraulic Pump,Plant_Delhi,2024-12-10,1821,0,None,INS_EMP_08,1,0.0
+INS_01208,ORD_01208,PCB Assembly,Plant_Chennai,2023-09-07,340,0,None,INS_EMP_07,1,0.0
+INS_01209,ORD_01209,Wiring Harness,Plant_Pune,2023-08-02,1358,100,Dimensional,INS_EMP_02,1,0.0736
+INS_01210,ORD_01210,Clutch Kit,Plant_Delhi,2023-12-21,1256,98,Surface Finish,INS_EMP_06,0,0.078
+INS_01211,ORD_01211,Suspension Unit,Plant_Chennai,2025-01-01,1758,0,None,INS_EMP_05,1,0.0
+INS_01212,ORD_01212,Control Panel,Plant_Chennai,2023-01-27,1948,149,Dimensional,INS_EMP_05,1,0.0765
+INS_01213,ORD_01213,Drive Shaft,Plant_Ahmedabad,2024-11-19,671,0,None,INS_EMP_06,1,0.0
+INS_01214,ORD_01214,PCB Assembly,Plant_Chennai,2023-11-15,1264,2,Functional,INS_EMP_02,0,0.0016
+INS_01215,ORD_01215,Control Panel,Plant_Pune,2023-09-22,767,29,Surface Finish,INS_EMP_06,0,0.0378
+INS_01216,ORD_01216,Clutch Kit,Plant_Delhi,2023-06-22,452,34,Functional,INS_EMP_03,0,0.0752
+INS_01217,ORD_01217,Hydraulic Pump,Plant_Chennai,2023-10-10,1439,61,Dimensional,INS_EMP_03,1,0.0424
+INS_01218,ORD_01218,Gear Box,Plant_Pune,2023-07-18,942,0,None,INS_EMP_01,1,0.0
+INS_01219,ORD_01219,Wiring Harness,Plant_Pune,2024-03-22,458,9,Assembly Error,INS_EMP_08,0,0.0197
+INS_01220,ORD_01220,Wiring Harness,Plant_Chennai,2023-04-16,1128,60,Surface Finish,INS_EMP_02,1,0.0532
+INS_01221,ORD_01221,Brake Assembly,Plant_Pune,2024-03-22,994,55,Dimensional,INS_EMP_01,0,0.0553
+INS_01222,ORD_01222,Hydraulic Pump,Plant_Delhi,2023-09-27,1098,0,None,INS_EMP_08,1,0.0
+INS_01223,ORD_01223,Wiring Harness,Plant_Delhi,2024-03-12,62,2,Surface Finish,INS_EMP_04,1,0.0323
+INS_01224,ORD_01224,Suspension Unit,Plant_Ahmedabad,2023-11-02,1380,62,Functional,INS_EMP_08,0,0.0449
+INS_01225,ORD_01225,Clutch Kit,Plant_Pune,2023-05-31,1247,0,None,INS_EMP_04,1,0.0
+INS_01226,ORD_01226,Hydraulic Pump,Plant_Delhi,2023-05-30,1883,87,Assembly Error,INS_EMP_04,0,0.0462
+INS_01227,ORD_01227,Control Panel,Plant_Delhi,2024-12-14,284,14,Assembly Error,INS_EMP_09,0,0.0493
+INS_01228,ORD_01228,Brake Assembly,Plant_Chennai,2023-05-05,100,3,Dimensional,INS_EMP_05,0,0.03
+INS_01229,ORD_01229,Wiring Harness,Plant_Delhi,2023-08-06,531,0,None,INS_EMP_06,1,0.0
+INS_01230,ORD_01230,Gear Box,Plant_Pune,2024-10-16,428,30,Functional,INS_EMP_09,0,0.0701
+INS_01231,ORD_01231,Hydraulic Pump,Plant_Ahmedabad,2023-11-05,1417,22,Dimensional,INS_EMP_05,1,0.0155
+INS_01232,ORD_01232,Brake Assembly,Plant_Ahmedabad,2024-05-06,1716,35,Surface Finish,INS_EMP_04,1,0.0204
+INS_01233,ORD_01233,Drive Shaft,Plant_Chennai,2023-11-11,1371,21,Surface Finish,INS_EMP_02,1,0.0153
+INS_01234,ORD_01234,Clutch Kit,Plant_Chennai,2024-04-25,68,0,None,INS_EMP_01,1,0.0
+INS_01235,ORD_01235,Sensor Array,Plant_Ahmedabad,2024-06-14,407,25,Assembly Error,INS_EMP_09,1,0.0614
+INS_01236,ORD_01236,PCB Assembly,Plant_Ahmedabad,2024-11-17,1941,67,Assembly Error,INS_EMP_07,1,0.0345
+INS_01237,ORD_01237,Gear Box,Plant_Chennai,2024-09-06,1949,100,Dimensional,INS_EMP_08,1,0.0513
+INS_01238,ORD_01238,Gear Box,Plant_Pune,2024-01-13,1314,56,Dimensional,INS_EMP_10,0,0.0426
+INS_01239,ORD_01239,Brake Assembly,Plant_Pune,2024-06-19,1025,74,Surface Finish,INS_EMP_06,0,0.0722
+INS_01240,ORD_01240,Wiring Harness,Plant_Chennai,2023-03-11,1303,42,Dimensional,INS_EMP_01,0,0.0322
+INS_01241,ORD_01241,Control Panel,Plant_Pune,2023-07-11,270,10,Assembly Error,INS_EMP_03,1,0.037
+INS_01242,ORD_01242,PCB Assembly,Plant_Pune,2024-06-03,1440,1,Dimensional,INS_EMP_08,0,0.0007
+INS_01243,ORD_01243,Drive Shaft,Plant_Chennai,2023-02-17,1419,26,Surface Finish,INS_EMP_06,0,0.0183
+INS_01244,ORD_01244,Wiring Harness,Plant_Pune,2024-08-12,197,0,None,INS_EMP_05,1,0.0
+INS_01245,ORD_01245,Brake Assembly,Plant_Ahmedabad,2024-05-19,771,19,Surface Finish,INS_EMP_04,0,0.0246
+INS_01246,ORD_01246,Brake Assembly,Plant_Ahmedabad,2023-04-04,210,0,None,INS_EMP_09,1,0.0
+INS_01247,ORD_01247,Hydraulic Pump,Plant_Ahmedabad,2024-09-27,727,37,Surface Finish,INS_EMP_03,1,0.0509
+INS_01248,ORD_01248,Suspension Unit,Plant_Chennai,2023-06-23,203,0,None,INS_EMP_05,1,0.0
+INS_01249,ORD_01249,Drive Shaft,Plant_Delhi,2023-03-20,1478,0,None,INS_EMP_02,1,0.0
+INS_01250,ORD_01250,Control Panel,Plant_Chennai,2023-10-04,735,2,Surface Finish,INS_EMP_01,1,0.0027
+INS_01251,ORD_01251,Sensor Array,Plant_Delhi,2024-05-25,1699,109,Dimensional,INS_EMP_10,0,0.0642
+INS_01252,ORD_01252,Drive Shaft,Plant_Delhi,2024-09-24,1867,81,Dimensional,INS_EMP_04,0,0.0434
+INS_01253,ORD_01253,Drive Shaft,Plant_Delhi,2024-06-13,1381,13,Surface Finish,INS_EMP_06,0,0.0094
+INS_01254,ORD_01254,Control Panel,Plant_Ahmedabad,2024-07-23,1811,122,Assembly Error,INS_EMP_06,1,0.0674
+INS_01255,ORD_01255,Brake Assembly,Plant_Ahmedabad,2024-02-16,306,13,Functional,INS_EMP_04,0,0.0425
+INS_01256,ORD_01256,Clutch Kit,Plant_Delhi,2024-01-26,446,0,None,INS_EMP_06,1,0.0
+INS_01257,ORD_01257,Suspension Unit,Plant_Delhi,2023-09-06,1580,40,Surface Finish,INS_EMP_09,0,0.0253
+INS_01258,ORD_01258,Sensor Array,Plant_Chennai,2023-03-05,166,1,Dimensional,INS_EMP_06,0,0.006
+INS_01259,ORD_01259,Brake Assembly,Plant_Chennai,2023-11-03,1291,98,Dimensional,INS_EMP_05,1,0.0759
+INS_01260,ORD_01260,Wiring Harness,Plant_Chennai,2024-06-15,1555,34,Assembly Error,INS_EMP_03,1,0.0219
+INS_01261,ORD_01261,Control Panel,Plant_Delhi,2023-11-26,1388,0,None,INS_EMP_10,1,0.0
+INS_01262,ORD_01262,Gear Box,Plant_Pune,2024-03-21,1996,32,Assembly Error,INS_EMP_06,1,0.016
+INS_01263,ORD_01263,Clutch Kit,Plant_Ahmedabad,2023-08-10,812,44,Surface Finish,INS_EMP_06,0,0.0542
+INS_01264,ORD_01264,Hydraulic Pump,Plant_Delhi,2023-02-09,1762,140,Surface Finish,INS_EMP_02,1,0.0795
+INS_01265,ORD_01265,Drive Shaft,Plant_Pune,2024-10-01,1064,43,Assembly Error,INS_EMP_02,0,0.0404
+INS_01266,ORD_01266,Control Panel,Plant_Chennai,2023-08-01,932,48,Surface Finish,INS_EMP_10,1,0.0515
+INS_01267,ORD_01267,Drive Shaft,Plant_Chennai,2024-01-09,1908,0,None,INS_EMP_02,1,0.0
+INS_01268,ORD_01268,Control Panel,Plant_Ahmedabad,2024-04-10,1543,47,Functional,INS_EMP_05,0,0.0305
+INS_01269,ORD_01269,Gear Box,Plant_Ahmedabad,2024-05-05,1222,82,Assembly Error,INS_EMP_01,1,0.0671
+INS_01270,ORD_01270,Clutch Kit,Plant_Chennai,2023-05-19,624,15,Surface Finish,INS_EMP_07,0,0.024
+INS_01271,ORD_01271,Suspension Unit,Plant_Delhi,2024-02-13,1310,38,Surface Finish,INS_EMP_05,1,0.029
+INS_01272,ORD_01272,Wiring Harness,Plant_Delhi,2024-08-29,707,50,Functional,INS_EMP_05,1,0.0707
+INS_01273,ORD_01273,PCB Assembly,Plant_Delhi,2024-04-26,784,30,Assembly Error,INS_EMP_03,0,0.0383
+INS_01274,ORD_01274,Hydraulic Pump,Plant_Chennai,2023-11-02,1179,9,Functional,INS_EMP_08,0,0.0076
+INS_01275,ORD_01275,Clutch Kit,Plant_Delhi,2023-05-21,1340,59,Dimensional,INS_EMP_04,0,0.044
+INS_01276,ORD_01276,Clutch Kit,Plant_Delhi,2024-12-20,1812,0,None,INS_EMP_08,1,0.0
+INS_01277,ORD_01277,Suspension Unit,Plant_Pune,2023-02-10,1780,93,Dimensional,INS_EMP_07,1,0.0522
+INS_01278,ORD_01278,Sensor Array,Plant_Chennai,2023-04-09,958,69,Assembly Error,INS_EMP_04,1,0.072
+INS_01279,ORD_01279,Sensor Array,Plant_Chennai,2024-11-04,1843,56,Dimensional,INS_EMP_02,1,0.0304
+INS_01280,ORD_01280,Gear Box,Plant_Delhi,2024-05-08,1323,40,Functional,INS_EMP_04,0,0.0302
+INS_01281,ORD_01281,Suspension Unit,Plant_Chennai,2023-09-02,691,29,Surface Finish,INS_EMP_05,0,0.042
+INS_01282,ORD_01282,Brake Assembly,Plant_Pune,2024-08-23,1395,65,Functional,INS_EMP_06,1,0.0466
+INS_01283,ORD_01283,Control Panel,Plant_Delhi,2024-09-03,1172,50,Surface Finish,INS_EMP_01,0,0.0427
+INS_01284,ORD_01284,Hydraulic Pump,Plant_Pune,2024-11-25,1115,0,None,INS_EMP_03,1,0.0
+INS_01285,ORD_01285,Wiring Harness,Plant_Ahmedabad,2024-01-16,983,34,Functional,INS_EMP_07,1,0.0346
+INS_01286,ORD_01286,Suspension Unit,Plant_Pune,2024-01-16,1085,58,Surface Finish,INS_EMP_03,1,0.0535
+INS_01287,ORD_01287,Clutch Kit,Plant_Ahmedabad,2023-09-14,1745,115,Dimensional,INS_EMP_07,1,0.0659
+INS_01288,ORD_01288,PCB Assembly,Plant_Ahmedabad,2024-09-23,1679,35,Functional,INS_EMP_01,1,0.0208
+INS_01289,ORD_01289,Wiring Harness,Plant_Delhi,2024-08-30,1345,88,Assembly Error,INS_EMP_04,0,0.0654
+INS_01290,ORD_01290,Gear Box,Plant_Delhi,2024-03-15,1617,18,Assembly Error,INS_EMP_04,1,0.0111
+INS_01291,ORD_01291,PCB Assembly,Plant_Chennai,2024-12-15,199,12,Surface Finish,INS_EMP_09,1,0.0603
+INS_01292,ORD_01292,Suspension Unit,Plant_Delhi,2025-01-03,544,27,Assembly Error,INS_EMP_03,1,0.0496
+INS_01293,ORD_01293,Hydraulic Pump,Plant_Ahmedabad,2024-01-16,1915,0,None,INS_EMP_03,1,0.0
+INS_01294,ORD_01294,Suspension Unit,Plant_Chennai,2024-09-24,1968,136,Surface Finish,INS_EMP_07,1,0.0691
+INS_01295,ORD_01295,Clutch Kit,Plant_Chennai,2023-12-12,411,0,None,INS_EMP_01,1,0.0
+INS_01296,ORD_01296,Hydraulic Pump,Plant_Chennai,2023-03-12,1110,86,Assembly Error,INS_EMP_01,1,0.0775
+INS_01297,ORD_01297,PCB Assembly,Plant_Chennai,2023-07-09,135,0,None,INS_EMP_09,1,0.0
+INS_01298,ORD_01298,Wiring Harness,Plant_Ahmedabad,2023-11-24,761,38,Assembly Error,INS_EMP_04,0,0.0499
+INS_01299,ORD_01299,Gear Box,Plant_Delhi,2023-11-03,1291,89,Dimensional,INS_EMP_06,1,0.0689
+INS_01300,ORD_01300,Control Panel,Plant_Pune,2024-07-01,395,9,Surface Finish,INS_EMP_01,1,0.0228
+INS_01301,ORD_01301,Wiring Harness,Plant_Pune,2023-02-10,466,34,Dimensional,INS_EMP_10,0,0.073
+INS_01302,ORD_01302,Wiring Harness,Plant_Chennai,2023-05-18,1496,26,Assembly Error,INS_EMP_10,1,0.0174
+INS_01303,ORD_01303,Clutch Kit,Plant_Delhi,2023-11-08,1419,42,Dimensional,INS_EMP_10,1,0.0296
+INS_01304,ORD_01304,Sensor Array,Plant_Delhi,2024-06-16,615,17,Assembly Error,INS_EMP_01,1,0.0276
+INS_01305,ORD_01305,Drive Shaft,Plant_Pune,2025-01-20,1117,88,Surface Finish,INS_EMP_06,1,0.0788
+INS_01306,ORD_01306,Gear Box,Plant_Ahmedabad,2024-02-20,1981,15,Assembly Error,INS_EMP_08,1,0.0076
+INS_01307,ORD_01307,Clutch Kit,Plant_Delhi,2023-10-24,456,22,Assembly Error,INS_EMP_06,1,0.0482
+INS_01308,ORD_01308,Hydraulic Pump,Plant_Ahmedabad,2024-06-06,1301,56,Surface Finish,INS_EMP_02,0,0.043
+INS_01309,ORD_01309,Clutch Kit,Plant_Chennai,2024-10-29,1041,68,Surface Finish,INS_EMP_05,0,0.0653
+INS_01310,ORD_01310,Clutch Kit,Plant_Delhi,2024-10-22,1274,62,Surface Finish,INS_EMP_04,1,0.0487
+INS_01311,ORD_01311,Sensor Array,Plant_Delhi,2024-04-15,556,30,Surface Finish,INS_EMP_04,0,0.054
+INS_01312,ORD_01312,Suspension Unit,Plant_Ahmedabad,2024-12-29,1634,46,Dimensional,INS_EMP_03,0,0.0282
+INS_01313,ORD_01313,Drive Shaft,Plant_Chennai,2023-11-05,1089,14,Assembly Error,INS_EMP_02,0,0.0129
+INS_01314,ORD_01314,Hydraulic Pump,Plant_Ahmedabad,2024-03-12,1706,95,Assembly Error,INS_EMP_08,1,0.0557
+INS_01315,ORD_01315,Gear Box,Plant_Pune,2024-11-11,143,0,None,INS_EMP_02,1,0.0
+INS_01316,ORD_01316,PCB Assembly,Plant_Delhi,2024-09-30,314,4,Assembly Error,INS_EMP_07,0,0.0127
+INS_01317,ORD_01317,Clutch Kit,Plant_Pune,2024-07-25,1391,100,Dimensional,INS_EMP_05,0,0.0719
+INS_01318,ORD_01318,Clutch Kit,Plant_Pune,2023-09-04,1691,0,None,INS_EMP_09,1,0.0
+INS_01319,ORD_01319,Drive Shaft,Plant_Pune,2023-02-17,1975,30,Functional,INS_EMP_05,1,0.0152
+INS_01320,ORD_01320,Brake Assembly,Plant_Ahmedabad,2023-02-04,1343,0,None,INS_EMP_07,1,0.0
+INS_01321,ORD_01321,Drive Shaft,Plant_Delhi,2023-11-03,223,0,None,INS_EMP_09,1,0.0
+INS_01322,ORD_01322,Hydraulic Pump,Plant_Chennai,2023-06-11,1557,5,Surface Finish,INS_EMP_06,0,0.0032
+INS_01323,ORD_01323,Wiring Harness,Plant_Ahmedabad,2023-02-05,611,28,Dimensional,INS_EMP_10,0,0.0458
+INS_01324,ORD_01324,Control Panel,Plant_Pune,2023-04-16,882,23,Surface Finish,INS_EMP_03,0,0.0261
+INS_01325,ORD_01325,Wiring Harness,Plant_Pune,2024-06-18,856,53,Surface Finish,INS_EMP_10,0,0.0619
+INS_01326,ORD_01326,Hydraulic Pump,Plant_Chennai,2024-03-09,525,18,Dimensional,INS_EMP_03,1,0.0343
+INS_01327,ORD_01327,Clutch Kit,Plant_Delhi,2023-04-28,396,16,Functional,INS_EMP_02,0,0.0404
+INS_01328,ORD_01328,Drive Shaft,Plant_Ahmedabad,2024-10-22,1019,70,Assembly Error,INS_EMP_01,0,0.0687
+INS_01329,ORD_01329,Suspension Unit,Plant_Ahmedabad,2023-12-11,741,30,Assembly Error,INS_EMP_01,0,0.0405
+INS_01330,ORD_01330,Sensor Array,Plant_Pune,2024-12-16,1596,52,Dimensional,INS_EMP_04,1,0.0326
+INS_01331,ORD_01331,Brake Assembly,Plant_Ahmedabad,2025-01-13,1103,44,Dimensional,INS_EMP_01,0,0.0399
+INS_01332,ORD_01332,Clutch Kit,Plant_Ahmedabad,2023-06-07,77,5,Functional,INS_EMP_04,0,0.0649
+INS_01333,ORD_01333,Control Panel,Plant_Ahmedabad,2024-03-28,399,14,Surface Finish,INS_EMP_08,0,0.0351
+INS_01334,ORD_01334,Control Panel,Plant_Chennai,2023-11-06,941,36,Functional,INS_EMP_07,0,0.0383
+INS_01335,ORD_01335,Suspension Unit,Plant_Chennai,2024-08-23,389,28,Dimensional,INS_EMP_08,0,0.072
+INS_01336,ORD_01336,Gear Box,Plant_Ahmedabad,2023-10-03,997,0,None,INS_EMP_05,1,0.0
+INS_01337,ORD_01337,Hydraulic Pump,Plant_Pune,2024-03-10,357,14,Assembly Error,INS_EMP_04,0,0.0392
+INS_01338,ORD_01338,Gear Box,Plant_Delhi,2024-07-21,727,0,None,INS_EMP_04,1,0.0
+INS_01339,ORD_01339,PCB Assembly,Plant_Chennai,2023-09-03,1337,0,None,INS_EMP_01,1,0.0
+INS_01340,ORD_01340,Suspension Unit,Plant_Pune,2024-02-28,1199,42,Assembly Error,INS_EMP_05,0,0.035
+INS_01341,ORD_01341,Suspension Unit,Plant_Ahmedabad,2023-10-22,588,23,Surface Finish,INS_EMP_10,1,0.0391
+INS_01342,ORD_01342,Wiring Harness,Plant_Pune,2024-09-20,617,45,Dimensional,INS_EMP_10,0,0.0729
+INS_01343,ORD_01343,Gear Box,Plant_Ahmedabad,2023-09-04,237,0,None,INS_EMP_04,1,0.0
+INS_01344,ORD_01344,Sensor Array,Plant_Chennai,2023-03-25,330,15,Surface Finish,INS_EMP_03,1,0.0455
+INS_01345,ORD_01345,Sensor Array,Plant_Chennai,2023-09-24,855,12,Surface Finish,INS_EMP_03,0,0.014
+INS_01346,ORD_01346,Hydraulic Pump,Plant_Pune,2024-07-02,1858,57,Assembly Error,INS_EMP_06,0,0.0307
+INS_01347,ORD_01347,PCB Assembly,Plant_Chennai,2024-04-15,1473,99,Functional,INS_EMP_10,1,0.0672
+INS_01348,ORD_01348,Clutch Kit,Plant_Pune,2024-02-09,1004,17,Dimensional,INS_EMP_07,1,0.0169
+INS_01349,ORD_01349,Drive Shaft,Plant_Chennai,2023-07-29,71,4,Assembly Error,INS_EMP_06,0,0.0563
+INS_01350,ORD_01350,Hydraulic Pump,Plant_Ahmedabad,2024-01-24,1079,22,Assembly Error,INS_EMP_09,1,0.0204
+INS_01351,ORD_01351,Drive Shaft,Plant_Ahmedabad,2025-01-07,568,14,Functional,INS_EMP_10,1,0.0246
+INS_01352,ORD_01352,Brake Assembly,Plant_Delhi,2024-05-25,1019,80,Functional,INS_EMP_10,1,0.0785
+INS_01353,ORD_01353,Brake Assembly,Plant_Ahmedabad,2024-10-14,363,15,Dimensional,INS_EMP_01,1,0.0413
+INS_01354,ORD_01354,Hydraulic Pump,Plant_Pune,2024-04-22,1505,105,Functional,INS_EMP_01,1,0.0698
+INS_01355,ORD_01355,Suspension Unit,Plant_Chennai,2024-01-05,1426,47,Assembly Error,INS_EMP_07,0,0.033
+INS_01356,ORD_01356,Clutch Kit,Plant_Pune,2024-11-26,902,6,Surface Finish,INS_EMP_09,0,0.0067
+INS_01357,ORD_01357,PCB Assembly,Plant_Pune,2023-07-13,141,10,Dimensional,INS_EMP_03,0,0.0709
+INS_01358,ORD_01358,Suspension Unit,Plant_Ahmedabad,2023-10-28,768,12,Surface Finish,INS_EMP_02,1,0.0156
+INS_01359,ORD_01359,Gear Box,Plant_Delhi,2023-04-11,1544,113,Functional,INS_EMP_04,0,0.0732
+INS_01360,ORD_01360,Gear Box,Plant_Chennai,2024-04-21,1846,67,Functional,INS_EMP_09,0,0.0363
+INS_01361,ORD_01361,Clutch Kit,Plant_Pune,2025-01-04,414,0,None,INS_EMP_04,1,0.0
+INS_01362,ORD_01362,Sensor Array,Plant_Chennai,2023-07-13,581,11,Surface Finish,INS_EMP_06,0,0.0189
+INS_01363,ORD_01363,PCB Assembly,Plant_Pune,2024-05-04,1342,27,Surface Finish,INS_EMP_03,0,0.0201
+INS_01364,ORD_01364,Clutch Kit,Plant_Chennai,2023-08-29,938,32,Surface Finish,INS_EMP_06,0,0.0341
+INS_01365,ORD_01365,Hydraulic Pump,Plant_Delhi,2023-10-08,1101,20,Dimensional,INS_EMP_06,1,0.0182
+INS_01366,ORD_01366,Sensor Array,Plant_Ahmedabad,2024-11-28,431,4,Functional,INS_EMP_02,0,0.0093
+INS_01367,ORD_01367,Gear Box,Plant_Ahmedabad,2023-12-22,264,10,Functional,INS_EMP_06,0,0.0379
+INS_01368,ORD_01368,Gear Box,Plant_Ahmedabad,2024-01-03,1899,104,Surface Finish,INS_EMP_10,1,0.0548
+INS_01369,ORD_01369,PCB Assembly,Plant_Ahmedabad,2023-02-09,1707,50,Surface Finish,INS_EMP_04,0,0.0293
+INS_01370,ORD_01370,Clutch Kit,Plant_Delhi,2024-02-09,741,19,Surface Finish,INS_EMP_04,1,0.0256
+INS_01371,ORD_01371,Hydraulic Pump,Plant_Pune,2023-10-24,870,55,Surface Finish,INS_EMP_03,0,0.0632
+INS_01372,ORD_01372,Hydraulic Pump,Plant_Pune,2023-06-07,732,0,None,INS_EMP_01,1,0.0
+INS_01373,ORD_01373,Hydraulic Pump,Plant_Chennai,2024-02-18,993,73,Functional,INS_EMP_09,0,0.0735
+INS_01374,ORD_01374,Control Panel,Plant_Chennai,2023-09-29,466,9,Dimensional,INS_EMP_05,1,0.0193
+INS_01375,ORD_01375,Wiring Harness,Plant_Ahmedabad,2023-06-27,254,6,Dimensional,INS_EMP_10,0,0.0236
+INS_01376,ORD_01376,Sensor Array,Plant_Chennai,2023-04-24,313,25,Assembly Error,INS_EMP_06,1,0.0799
+INS_01377,ORD_01377,Drive Shaft,Plant_Pune,2024-02-28,196,15,Functional,INS_EMP_10,0,0.0765
+INS_01378,ORD_01378,Suspension Unit,Plant_Ahmedabad,2023-09-12,791,8,Dimensional,INS_EMP_03,0,0.0101
+INS_01379,ORD_01379,Sensor Array,Plant_Ahmedabad,2023-06-09,434,26,Assembly Error,INS_EMP_04,0,0.0599
+INS_01380,ORD_01380,Hydraulic Pump,Plant_Ahmedabad,2023-06-16,687,30,Assembly Error,INS_EMP_05,1,0.0437
+INS_01381,ORD_01381,Sensor Array,Plant_Delhi,2024-03-07,1109,21,Functional,INS_EMP_02,0,0.0189
+INS_01382,ORD_01382,Drive Shaft,Plant_Ahmedabad,2023-06-27,313,6,Assembly Error,INS_EMP_10,1,0.0192
+INS_01383,ORD_01383,Wiring Harness,Plant_Chennai,2023-03-09,920,73,Dimensional,INS_EMP_04,1,0.0793
+INS_01384,ORD_01384,PCB Assembly,Plant_Delhi,2024-07-15,278,20,Functional,INS_EMP_02,0,0.0719
+INS_01385,ORD_01385,Wiring Harness,Plant_Ahmedabad,2024-01-06,1258,51,Surface Finish,INS_EMP_08,0,0.0405
+INS_01386,ORD_01386,Suspension Unit,Plant_Chennai,2023-10-20,298,4,Surface Finish,INS_EMP_08,1,0.0134
+INS_01387,ORD_01387,Gear Box,Plant_Chennai,2024-01-05,656,47,Surface Finish,INS_EMP_07,0,0.0716
+INS_01388,ORD_01388,Sensor Array,Plant_Delhi,2023-02-04,714,55,Assembly Error,INS_EMP_05,1,0.077
+INS_01389,ORD_01389,Wiring Harness,Plant_Ahmedabad,2023-09-20,222,5,Functional,INS_EMP_09,1,0.0225
+INS_01390,ORD_01390,Suspension Unit,Plant_Ahmedabad,2024-05-09,1314,50,Functional,INS_EMP_02,0,0.0381
+INS_01391,ORD_01391,PCB Assembly,Plant_Delhi,2023-12-15,128,10,Dimensional,INS_EMP_07,0,0.0781
+INS_01392,ORD_01392,PCB Assembly,Plant_Delhi,2024-03-23,95,7,Assembly Error,INS_EMP_04,0,0.0737
+INS_01393,ORD_01393,Drive Shaft,Plant_Chennai,2023-10-07,1310,74,Dimensional,INS_EMP_10,0,0.0565
+INS_01394,ORD_01394,Hydraulic Pump,Plant_Delhi,2023-09-05,1965,0,None,INS_EMP_05,1,0.0
+INS_01395,ORD_01395,PCB Assembly,Plant_Pune,2023-07-29,633,9,Functional,INS_EMP_05,0,0.0142
+INS_01396,ORD_01396,Clutch Kit,Plant_Delhi,2024-05-10,1668,43,Surface Finish,INS_EMP_02,0,0.0258
+INS_01397,ORD_01397,Suspension Unit,Plant_Ahmedabad,2023-03-29,639,45,Functional,INS_EMP_04,1,0.0704
+INS_01398,ORD_01398,Sensor Array,Plant_Chennai,2024-07-23,1024,2,Functional,INS_EMP_06,0,0.002
+INS_01399,ORD_01399,PCB Assembly,Plant_Chennai,2024-05-18,1570,27,Functional,INS_EMP_03,0,0.0172
+INS_01400,ORD_01400,Sensor Array,Plant_Delhi,2024-12-07,1220,0,None,INS_EMP_02,1,0.0
+INS_01401,ORD_01401,Drive Shaft,Plant_Pune,2024-01-26,647,16,Functional,INS_EMP_01,1,0.0247
+INS_01402,ORD_01402,Hydraulic Pump,Plant_Ahmedabad,2023-07-12,770,59,Assembly Error,INS_EMP_10,1,0.0766
+INS_01403,ORD_01403,PCB Assembly,Plant_Pune,2024-07-11,825,34,Surface Finish,INS_EMP_08,0,0.0412
+INS_01404,ORD_01404,Control Panel,Plant_Ahmedabad,2024-08-19,415,17,Functional,INS_EMP_03,0,0.041
+INS_01405,ORD_01405,Sensor Array,Plant_Ahmedabad,2024-03-26,621,33,Dimensional,INS_EMP_09,0,0.0531
+INS_01406,ORD_01406,Gear Box,Plant_Ahmedabad,2024-06-17,1000,42,Functional,INS_EMP_09,0,0.042
+INS_01407,ORD_01407,PCB Assembly,Plant_Ahmedabad,2024-07-28,734,0,None,INS_EMP_03,1,0.0
+INS_01408,ORD_01408,Control Panel,Plant_Delhi,2023-08-05,109,5,Dimensional,INS_EMP_09,1,0.0459
+INS_01409,ORD_01409,Brake Assembly,Plant_Chennai,2024-02-26,715,3,Assembly Error,INS_EMP_07,1,0.0042
+INS_01410,ORD_01410,Wiring Harness,Plant_Chennai,2024-11-15,1180,74,Assembly Error,INS_EMP_04,0,0.0627
+INS_01411,ORD_01411,Drive Shaft,Plant_Pune,2024-05-23,1936,44,Surface Finish,INS_EMP_10,1,0.0227
+INS_01412,ORD_01412,Wiring Harness,Plant_Delhi,2024-04-25,1450,13,Functional,INS_EMP_06,0,0.009
+INS_01413,ORD_01413,PCB Assembly,Plant_Ahmedabad,2023-06-23,996,44,Surface Finish,INS_EMP_08,1,0.0442
+INS_01414,ORD_01414,Control Panel,Plant_Delhi,2024-03-14,1859,71,Assembly Error,INS_EMP_01,1,0.0382
+INS_01415,ORD_01415,Sensor Array,Plant_Ahmedabad,2023-03-15,1712,0,None,INS_EMP_06,1,0.0
+INS_01416,ORD_01416,Brake Assembly,Plant_Pune,2024-04-11,304,0,None,INS_EMP_09,1,0.0
+INS_01417,ORD_01417,Hydraulic Pump,Plant_Delhi,2024-11-16,340,27,Surface Finish,INS_EMP_09,0,0.0794
+INS_01418,ORD_01418,Hydraulic Pump,Plant_Ahmedabad,2024-05-09,1056,56,Functional,INS_EMP_08,0,0.053
+INS_01419,ORD_01419,Gear Box,Plant_Chennai,2024-12-28,1213,23,Assembly Error,INS_EMP_01,1,0.019
+INS_01420,ORD_01420,Suspension Unit,Plant_Chennai,2024-02-05,792,31,Assembly Error,INS_EMP_03,0,0.0391
+INS_01421,ORD_01421,Suspension Unit,Plant_Chennai,2024-12-02,366,10,Functional,INS_EMP_04,1,0.0273
+INS_01422,ORD_01422,Suspension Unit,Plant_Delhi,2024-10-24,107,2,Functional,INS_EMP_10,1,0.0187
+INS_01423,ORD_01423,Gear Box,Plant_Chennai,2024-06-30,1832,143,Surface Finish,INS_EMP_03,0,0.0781
+INS_01424,ORD_01424,Gear Box,Plant_Ahmedabad,2024-06-10,1121,45,Surface Finish,INS_EMP_01,0,0.0401
+INS_01425,ORD_01425,Clutch Kit,Plant_Pune,2024-01-27,1419,0,None,INS_EMP_03,1,0.0
+INS_01426,ORD_01426,Wiring Harness,Plant_Ahmedabad,2024-10-12,1542,94,Functional,INS_EMP_07,0,0.061
+INS_01427,ORD_01427,Brake Assembly,Plant_Chennai,2024-06-30,1568,58,Functional,INS_EMP_03,1,0.037
+INS_01428,ORD_01428,Drive Shaft,Plant_Ahmedabad,2023-10-25,1145,76,Surface Finish,INS_EMP_05,0,0.0664
+INS_01429,ORD_01429,Clutch Kit,Plant_Ahmedabad,2023-09-21,574,6,Dimensional,INS_EMP_03,0,0.0105
+INS_01430,ORD_01430,Gear Box,Plant_Chennai,2024-09-26,1180,36,Surface Finish,INS_EMP_02,1,0.0305
+INS_01431,ORD_01431,Control Panel,Plant_Delhi,2023-09-01,1249,0,None,INS_EMP_10,1,0.0
+INS_01432,ORD_01432,Control Panel,Plant_Pune,2023-08-08,288,20,Surface Finish,INS_EMP_01,0,0.0694
+INS_01433,ORD_01433,Wiring Harness,Plant_Pune,2023-11-25,69,0,None,INS_EMP_07,1,0.0
+INS_01434,ORD_01434,Gear Box,Plant_Chennai,2024-04-15,565,11,Assembly Error,INS_EMP_08,0,0.0195
+INS_01435,ORD_01435,Clutch Kit,Plant_Chennai,2024-06-22,1998,105,Surface Finish,INS_EMP_07,0,0.0526
+INS_01436,ORD_01436,Wiring Harness,Plant_Delhi,2024-06-11,1331,44,Functional,INS_EMP_01,1,0.0331
+INS_01437,ORD_01437,Brake Assembly,Plant_Ahmedabad,2024-05-14,384,7,Assembly Error,INS_EMP_03,0,0.0182
+INS_01438,ORD_01438,Control Panel,Plant_Chennai,2023-07-16,1644,73,Assembly Error,INS_EMP_01,0,0.0444
+INS_01439,ORD_01439,Gear Box,Plant_Chennai,2024-05-04,1452,79,Surface Finish,INS_EMP_02,0,0.0544
+INS_01440,ORD_01440,Sensor Array,Plant_Ahmedabad,2024-03-09,401,15,Dimensional,INS_EMP_04,1,0.0374
+INS_01441,ORD_01441,Sensor Array,Plant_Pune,2023-10-13,1960,138,Surface Finish,INS_EMP_10,0,0.0704
+INS_01442,ORD_01442,PCB Assembly,Plant_Ahmedabad,2024-01-27,1576,21,Surface Finish,INS_EMP_05,1,0.0133
+INS_01443,ORD_01443,Hydraulic Pump,Plant_Delhi,2023-03-14,774,6,Dimensional,INS_EMP_10,0,0.0078
+INS_01444,ORD_01444,PCB Assembly,Plant_Ahmedabad,2024-12-03,574,1,Assembly Error,INS_EMP_01,1,0.0017
+INS_01445,ORD_01445,Hydraulic Pump,Plant_Delhi,2024-08-22,458,34,Dimensional,INS_EMP_03,1,0.0742
+INS_01446,ORD_01446,Drive Shaft,Plant_Ahmedabad,2023-06-27,1530,85,Assembly Error,INS_EMP_01,1,0.0556
+INS_01447,ORD_01447,Hydraulic Pump,Plant_Chennai,2023-11-05,1250,36,Assembly Error,INS_EMP_07,0,0.0288
+INS_01448,ORD_01448,Gear Box,Plant_Pune,2023-05-12,325,2,Assembly Error,INS_EMP_08,1,0.0062
+INS_01449,ORD_01449,Control Panel,Plant_Chennai,2024-08-19,1200,51,Surface Finish,INS_EMP_05,0,0.0425
+INS_01450,ORD_01450,Sensor Array,Plant_Ahmedabad,2023-11-20,94,0,None,INS_EMP_06,1,0.0
+INS_01451,ORD_01451,Hydraulic Pump,Plant_Delhi,2023-12-12,516,1,Dimensional,INS_EMP_10,1,0.0019
+INS_01452,ORD_01452,Control Panel,Plant_Delhi,2024-11-04,925,60,Surface Finish,INS_EMP_03,0,0.0649
+INS_01453,ORD_01453,Control Panel,Plant_Ahmedabad,2023-02-07,945,55,Functional,INS_EMP_02,1,0.0582
+INS_01454,ORD_01454,Brake Assembly,Plant_Pune,2023-12-31,187,11,Assembly Error,INS_EMP_03,0,0.0588
+INS_01455,ORD_01455,PCB Assembly,Plant_Chennai,2024-08-27,1299,27,Dimensional,INS_EMP_04,1,0.0208
+INS_01456,ORD_01456,Wiring Harness,Plant_Ahmedabad,2023-06-28,726,1,Dimensional,INS_EMP_10,1,0.0014
+INS_01457,ORD_01457,Clutch Kit,Plant_Chennai,2024-08-23,63,1,Functional,INS_EMP_07,1,0.0159
+INS_01458,ORD_01458,Wiring Harness,Plant_Pune,2023-10-23,506,13,Surface Finish,INS_EMP_02,1,0.0257
+INS_01459,ORD_01459,Brake Assembly,Plant_Delhi,2024-08-20,436,18,Functional,INS_EMP_05,0,0.0413
+INS_01460,ORD_01460,Sensor Array,Plant_Pune,2023-03-09,310,15,Surface Finish,INS_EMP_03,1,0.0484
+INS_01461,ORD_01461,Sensor Array,Plant_Delhi,2023-11-15,918,50,Assembly Error,INS_EMP_09,1,0.0545
+INS_01462,ORD_01462,PCB Assembly,Plant_Delhi,2023-06-05,1991,108,Assembly Error,INS_EMP_01,1,0.0542
+INS_01463,ORD_01463,Brake Assembly,Plant_Pune,2024-02-22,471,17,Surface Finish,INS_EMP_10,1,0.0361
+INS_01464,ORD_01464,Suspension Unit,Plant_Chennai,2024-06-18,383,20,Surface Finish,INS_EMP_01,1,0.0522
+INS_01465,ORD_01465,Control Panel,Plant_Delhi,2023-07-24,235,3,Assembly Error,INS_EMP_08,1,0.0128
+INS_01466,ORD_01466,Sensor Array,Plant_Chennai,2023-01-23,1695,26,Functional,INS_EMP_09,1,0.0153
+INS_01467,ORD_01467,PCB Assembly,Plant_Ahmedabad,2024-04-19,1385,12,Dimensional,INS_EMP_08,0,0.0087
+INS_01468,ORD_01468,Drive Shaft,Plant_Pune,2024-11-06,142,5,Surface Finish,INS_EMP_03,0,0.0352
+INS_01469,ORD_01469,Hydraulic Pump,Plant_Chennai,2023-06-18,1012,37,Surface Finish,INS_EMP_09,0,0.0366
+INS_01470,ORD_01470,Gear Box,Plant_Chennai,2023-06-27,403,20,Assembly Error,INS_EMP_05,1,0.0496
+INS_01471,ORD_01471,Suspension Unit,Plant_Chennai,2023-02-18,467,32,Dimensional,INS_EMP_03,0,0.0685
+INS_01472,ORD_01472,PCB Assembly,Plant_Delhi,2023-12-09,1870,89,Functional,INS_EMP_07,1,0.0476
+INS_01473,ORD_01473,Clutch Kit,Plant_Delhi,2024-09-30,1125,65,Surface Finish,INS_EMP_07,1,0.0578
+INS_01474,ORD_01474,Wiring Harness,Plant_Pune,2023-05-14,1001,73,Assembly Error,INS_EMP_01,0,0.0729
+INS_01475,ORD_01475,Control Panel,Plant_Chennai,2023-12-03,1011,38,Functional,INS_EMP_09,1,0.0376
+INS_01476,ORD_01476,Clutch Kit,Plant_Pune,2024-05-22,1583,49,Surface Finish,INS_EMP_03,1,0.031
+INS_01477,ORD_01477,Brake Assembly,Plant_Pune,2024-11-11,1572,0,None,INS_EMP_10,1,0.0
+INS_01478,ORD_01478,Suspension Unit,Plant_Chennai,2023-08-04,1400,36,Dimensional,INS_EMP_08,0,0.0257
+INS_01479,ORD_01479,PCB Assembly,Plant_Delhi,2024-03-22,1404,67,Surface Finish,INS_EMP_07,1,0.0477
+INS_01480,ORD_01480,PCB Assembly,Plant_Chennai,2023-01-22,1349,84,Dimensional,INS_EMP_01,0,0.0623
+INS_01481,ORD_01481,PCB Assembly,Plant_Ahmedabad,2024-05-25,1806,0,None,INS_EMP_06,1,0.0
+INS_01482,ORD_01482,Sensor Array,Plant_Chennai,2024-10-09,1167,65,Surface Finish,INS_EMP_06,1,0.0557
+INS_01483,ORD_01483,Sensor Array,Plant_Chennai,2024-01-13,1835,69,Assembly Error,INS_EMP_03,0,0.0376
+INS_01484,ORD_01484,Wiring Harness,Plant_Delhi,2024-04-04,102,5,Assembly Error,INS_EMP_04,1,0.049
+INS_01485,ORD_01485,Control Panel,Plant_Delhi,2025-01-11,308,0,None,INS_EMP_10,1,0.0
+INS_01486,ORD_01486,Clutch Kit,Plant_Delhi,2024-03-12,1977,9,Dimensional,INS_EMP_10,0,0.0046
+INS_01487,ORD_01487,Drive Shaft,Plant_Chennai,2024-07-14,1647,20,Assembly Error,INS_EMP_05,1,0.0121
+INS_01488,ORD_01488,Suspension Unit,Plant_Pune,2024-12-30,391,10,Dimensional,INS_EMP_08,1,0.0256
+INS_01489,ORD_01489,Hydraulic Pump,Plant_Ahmedabad,2024-10-02,1807,76,Dimensional,INS_EMP_04,1,0.0421
+INS_01490,ORD_01490,Brake Assembly,Plant_Chennai,2024-05-19,709,0,None,INS_EMP_09,1,0.0
+INS_01491,ORD_01491,Gear Box,Plant_Pune,2023-08-28,1305,36,Functional,INS_EMP_04,1,0.0276
+INS_01492,ORD_01492,Clutch Kit,Plant_Pune,2023-09-21,1660,102,Dimensional,INS_EMP_07,0,0.0614
+INS_01493,ORD_01493,Gear Box,Plant_Pune,2023-08-31,337,0,None,INS_EMP_08,1,0.0
+INS_01494,ORD_01494,Hydraulic Pump,Plant_Delhi,2024-11-30,1607,107,Functional,INS_EMP_05,1,0.0666
+INS_01495,ORD_01495,Wiring Harness,Plant_Pune,2023-09-19,947,17,Assembly Error,INS_EMP_07,0,0.018
+INS_01496,ORD_01496,PCB Assembly,Plant_Pune,2023-10-10,831,9,Assembly Error,INS_EMP_06,1,0.0108
+INS_01497,ORD_01497,Sensor Array,Plant_Pune,2023-09-07,261,17,Dimensional,INS_EMP_06,0,0.0651
+INS_01498,ORD_01498,Hydraulic Pump,Plant_Chennai,2024-03-11,1356,20,Dimensional,INS_EMP_08,1,0.0147
+INS_01499,ORD_01499,Suspension Unit,Plant_Ahmedabad,2024-01-06,76,5,Surface Finish,INS_EMP_02,0,0.0658
+INS_01500,ORD_01500,Control Panel,Plant_Ahmedabad,2024-04-13,594,0,None,INS_EMP_05,1,0.0
