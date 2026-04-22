@@ -1,1 +1,1 @@
-# Data-Infrastructure-Analytics-Engineering
+# Data Infrastructure Analytics Engineering
